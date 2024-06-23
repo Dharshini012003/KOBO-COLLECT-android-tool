@@ -1,0 +1,3096 @@
+TreeId,Sp_code,Belt,X2019,X2021,X2022,GirthNote2021 ,GirthNote2022
+A001,Vatind,69,6.92,6.96,6.98,Nil,Nil
+A003,Vatind,116,14.26,0,4.16,Newbelt fixed @ same pom,Nil
+A004,Vatind,90,11.36,11.76,12.54,Nil,Nil
+A006,Humbru,29,6.6,6.84,7.26,Nil,Nil
+A007,Humbru,39,3.08,3.08,3.08,Nil,Nil
+A008,Humbru,34,9,9.08,9.18,Nil,Nil
+A009,Vatind,255,6.6,9.64,11.3,Nil,Nil
+A010,Humbru,29,3.06,3.06,3.1,near A211,Nil
+A013,Dryela,94,4.34,5.38,7.36,fluted,Nil
+A015,Dryela,44,7.4,8.24,8.9,Nil,Nil
+A017,Lepcau,39,3.34,3.3,3.2,Climber,Nil
+A018,Humbru,34,8.62,8.64,8.64,Nil,Nil
+A020,Vatind,168,12.1,15,2.9,Newbelt fixed @ same pom,Nil
+A022,Vatind,94,7.1,7.56,7.6,Nil,Nil
+A024,Reiana,38,0.24,0.38,0.52,Nil,Nil
+A025,Kneatt,69,6.66,7.08,7.08,near A204,Nil
+A026,Vatind,261.5,8.48,8.76,10.28,Nil,Nil
+A028,Palell,74,10,10.04,10.16,Nil,Nil
+A029,Palell,34,4.58,4.82,4.2,Nil,Nil
+A030,Vatind,39,9.64,9.64,9.64,Nil,Nil
+A031,Humbru,29,6,6.1,6.26,Nil,Nil
+A032,Myrdac,104,14.16,14.84,15.08,near A022,Nil
+A034,Parpen,144,4,3.98,4.06,Termite attack,Nil
+A035,Palell,69,4.32,5.44,6.16,Termite attack,Nil
+A036,Palell,29,4.46,4.4,4.46,Nil,Nil
+A037,Myrdac,159,11.96,12.4,13.08,Nil,Nil
+A038,Humbru,44,5.44,5.46,5.42,slanting; near A212,Nil
+A039,Vatind,34,7.24,7.76,8.5,near A191; A216 (previously A41),Nil
+A040,Myrdac,118,12.14,-999,-999,uprooted; dead due to another uprooted tree,Nil
+A041,Vatind,374,0.6,-999,-999,near A216; Uprooted; fallen; not possible to take girth; dead,Nil
+A042,Myrdac,149,9.4,9.78,10.24,fluted; multistem 47.2 @ belt level; near A216 (previously near A041),Nil
+A043,Kneatt,44,10.82,10.82,10.82,Nil,Nil
+A044,Vatind,64,6,6.32,6.66,reitreation at 1.5m; near A190; A220,Nil
+A045,Notbed,39,7.82,8.06,8.46,Nil,Nil
+A047,Humbru,44,10.64,11.28,11.74,Nil,Nil
+A048,Diosyl,124,6.3,10.46,11.3,irregular;A221,Nil
+A049,Dryela,104,13.42,13.86,14.52,fluted; A222,Nil
+A052,Kneatt,64,9.92,10,10.9,near A191,Nil
+A054,Vatind,83,13.92,14.3,14.3,Nil,Nil
+A055,Cinsp1,54,14.44,15.5,3.6,Newbelt fixed @ same pom,Nil
+A056,Kneatt,54,9.14,9.8,10.2,Nil,Nil
+A057,Palell,29,7.1,8,9.44,Nil,Nil
+A058,Parpen,79,8.7,8.74,-999,uprooted; dead; belt removed,Nil
+A059,Myrdac,109,7.44,-999,-999,tp @ 4m; Belt missing; tree fallen?,Nil
+A060,Mesfer,68,6.3,7,7.6,near A192,Nil
+A061,Palell,66.5,1.98,3.96,5.64,near A193,Nil
+A063,Vatind,54,10.44,10.5,10.5,Nil,Nil
+A065,Dryela,165,1.4,2.12,2.74,"near A210, fluted; A223; A233",Nil
+A066,Vatind,363,5.6,10.54,14.24,Nil,Nil
+A067,Syzlae,39,6.78,6.86,6.84,Nil,Nil
+A068,Baccou,34,6.96,7.1,7.2,Nil,Nil
+A069,Myrdac,0,15.42,16,-999,Belt removed; Newbelt to be fixed for Girth 169; multi stem G 76; G 29; ,Nil
+A070,Kneatt,44,3.82,3.88,3.84,Nil,Nil
+A071,Dipind,204,1.84,4.84,4.64,Nil,Nil
+A072,Masarb,134,13.72,16,5.84,Newbelt fixed at same pom; multi stem G 69.8,Nil
+A073,Humbru,39,4.66,5,5,Nil,Nil
+A074,Vatind,0,10.26,13.5,15.58,near A232; Newbelt to be fixed,Nil
+A075,Humbru,39,3.64,3.74,3.98,Nil,Nil
+A077,Humbru,49,4.6,4.74,4.96,bent; near A209,Nil
+A078,Vatind,109,2.72,6.18,8.08,near A209; slanting,Nil
+A080,Dryela,127,4.3,5.84,6.52,fluted; A225; A235 (previously near A079),Nil
+A081,Holarn,94,1.74,5.84,7.44,Nil,Nil
+A083,Reiana,59,5.94,8.64,9.78,Nil,Nil
+A084,Humbru,34,12.22,13.12,13.34,near A194; near A230; near A 237,Nil
+A086,Masarb,49,4.14,5.62,6.68,near A224,Nil
+A092,Diopru,46,9,10.24,10.88,Nil,Nil
+A093,Vatind,110,2.5,5.48,7.4,Nil,Nil
+A094,Notbed,72,5.44,6.66,7.38,near A196; A231,Nil
+A095,Dipind,238,15,15,2.16,near A217; Newbelt fixed at same pom,Nil
+A096,Dryela,75,6.4,8.52,8.8,"""near A195; wrong belt no. 69",Nil
+A097,Vatind,148,8.06,14.8,4.4,Newbelt fixed @ same pom,Nil
+A098,Kneatt,74,2.76,2.98,2.98,Nil,Nil
+A099,Otosti,44,11.14,10.2,11.32,Nil,Nil
+A100,Kneatt,39,1.58,1.58,1.6,fluted; Tree fallen on ground; alive; reading difficult,Nil
+A101,Humbru,44,5.64,5.76,5.96,Nil,Nil
+A102,Ficner,0,8.22,13.14,15.8,Belt removed; Newbelt to be fixed ,Nil
+A103,Crywig,74,1.7,2.18,2.28,trunk damage @ pom; new girth 60 @ above 47 cm previous pom,Nil
+A104,Vatind,44,6.94,-999,-999,tp @ 1 m; belt removed; alive?,Nil
+A105,Vatind,0,11.82,14.14,16,newbelt to be fixed,Nil
+A106,Humbru,34,4.8,5.12,5.42,multistem,Nil
+A107,Antmon,74,9.4,10.1,10.4,Nil,Nil
+A108,Lopwig,225,12.54,16,3.34,Newbelt fixed @ same pom,Nil
+A109,Myrdac,75,9.32,11.4,12,Nil,Nil
+A111,Kinpin,89,2.46,2.84,3.2,Nil,Nil
+A116,Vatind,29,5.24,5.24,5.2,tp @ 7 m; north after river,Nil
+A117,Vatind,39,3.78,3.8,3.8,Nil,Nil
+A119,Myrdac,59,2.04,63.8,5.88,Newbelt fixed @ same pom,Nil
+A121,Vatind,59,11.32,12.32,12.34,near A200,Nil
+A122,Humbru,29,8.42,8.24,9.06,tp @ ?,Nil
+A123,Dipind,34,6.44,6.56,6.62,near A198 & A199,Nil
+A124,Palell,50,3.1,3.42,3.58,Nil,Nil
+A125,Myrdac,0,11.2,13.76,16,liana; newbelt to be fixed,Nil
+A128,Dipind,260,14.2,16,6.34,Newbelt fixed at same pom,Nil
+A129,Kinpin,216,11.58,15,1.98,Nil,Nil
+A130,Holarn,133,6.46,7.04,7.4,near A201,Nil
+A131,Diosyl,84,2.56,84.2,1.76,Newbelt fixed at same pom,Nil
+A132,Hydpen,149,8.18,8.34,8.2,fluted,Nil
+A133,Dipind,124,3.7,4.24,4.52,Nil,Nil
+A134,Vatind,79,8.44,9.14,9.14,Nil,Nil
+A135,Notbed,49,4.32,4.7,4.58,Nil,Nil
+A136,Gartal,39,11.04,11.3,11.68,Nil,Nil
+A137,Syzgar,44,7.9,8.22,8.28,Nil,Nil
+A138,Dipind,214,12.22,13.36,13.36,Nil,Nil
+A139,Vatind,248,12.04,248,0,NB fixed @ same pom,Nil
+A140,Dipind,295,1.2,2.08,2.38,near A202,Nil
+A141,Myrdac,116,1.18,1.84,2.2,A219,Nil
+A142,Antmon,39,8.8,9.54,10.08,Nil,Nil
+A143,Palell,34,7.48,8.32,8.92,Termite,Nil
+A144,Kneatt,119,5.94,6.08,6.2,fluted,Nil
+A145,Notbed,69,7.3,7.62,7.84,fluted,Nil
+A146,Humbru,34,2.28,2.92,3.2,Nil,Nil
+A150,Kinpin,29,6.16,6.94,7.08,Nil,Nil
+A151,Vatind,75,7,9.74,10.84,Nil,Nil
+A152,Masarb,63,9.6,12.36,13.42,Nil,Nil
+A153,Myrdac,59,0.4,1.74,2.48,Nil,Nil
+A154,Kinpin,137,5.96,9.36,10.2,Nil,Nil
+A155,Vatind,84,11.18,13.4,14.26,Nil,Nil
+A156,Humbru,39,2.9,3.1,3.2,Nil,Nil
+A157,Reiana,89,1.4,2.56,3,Nil,Nil
+A158,Kinpin,184,3.84,5.9,7.4,near A206; bark exfoliating,Nil
+A159,Garmor,57,7.06,8.44,8.48,near pom reaction protuberances; near A207,Nil
+A160,Manind,84,8.84,8.94,8.92,Nil,Nil
+A162,Dimlon,119,14.82,15.5,-0.2,Newbelt fixed @ same pom,Nil
+A163,Palell,39,5.26,5.42,5.52,Nil,Nil
+A164,Myrdac,134,10.4,10.74,10.82,fluted; calamus,Nil
+A165,Garmor,34,12.74,14.3,14.8,Nil,Nil
+A166,Holarn,34,12.78,13.44,14.5,Nil,Nil
+A167,Dipind,34,3.78,4.8,5.32,Nil,Nil
+A168,Antmon,49,9.62,11.26,11.88,tp @ 2.8 m; offshoots; alive; possibly wind throw,Nil
+A170,Masarb,146,12.04,16,3.34,Newbelt fixed @ same pom; near A238,Nil
+A171,Myrdac,94,14.3,15.1,15.2,Nil,Nil
+A172,Vatind,0,9.06,14.96,16,newbelt to be fixed; girth 219 g,Nil
+A173,Myrdac,104,9.38,13.4,13.8,Nil,Nil
+A175,Kneatt,0,13.44,15.4,16.3,near A215; girth 45,Nil
+A179,Humbru,54,11.2,11.3,-999,standing dead; due to neighbouring trees fallen,Nil
+A180,Vatind,110,3.4,5.6,7.56,Nil,Nil
+A181,Myrdac,84,8.44,10.28,10.4,Nil,Nil
+A182,Myrdac,50,14,16,1.12,Newbelt fixed @ same pom,Nil
+A183,Dryela,109,12.88,15,1.12,irregular; fluted; newbelt fixed @ same pom,Nil
+A184,Palell,43,13.72,15.5,3.24,Nil,Nil
+A185,Myrdac,39,7.82,9.84,10.28,near A203,Nil
+A186,Mesfer,34,1.7,1.86,1.84,Nil,Nil
+A187,Dryela,134,8.2,9.18,9.18,fluted; near A227 (previously near A189),Nil
+A190,Notbed,34,8.22,8.4,8.46,near A044; A220,Nil
+A191,Notbed,30,4.46,4.84,5.4,near A052,Nil
+A192,Dryela,30,1.24,1.76,1.96,"""near A060",Nil
+A193,Dryela,32,8.68,9.8,10.28,near A061,Nil
+A194,Lepcau,52,2.4,2.64,2.8,near A084,Nil
+A195,Humbru,30,5.04,5.1,5.12,near A096,Nil
+A196,Vatind,30,8.32,8.8,9.26,"""near A094",Nil
+A198,Vatind,30,10.34,10.46,10.92,near A123,Nil
+A199,Ficner,0,14.54,15,15.8,near A123 & A208; Newbelt to be fixed,Nil
+A200,Vatind,31,1.1,1.12,1.12,"""near A121",Nil
+A201,Rinben,32,2,2.3,2.3,"""near A130",Nil
+A202,Rinben,31,1.08,1.6,1.88,near A140,Nil
+A203,Dipind,34,3.18,5.08,5.9,near A185,Nil
+A204,Dipind,30,11.96,12.62,12.92,near A025,Nil
+A206,Vatind,32,9.08,9.82,10.24,near A158,Nil
+A207,Myrdac,29,3.44,4,4.58,near A159,Nil
+A208,Kneatt,46,2.2,3.78,4.82,near A199,Nil
+A209,Palell,47,2.16,4.98,6.26,near A077,Nil
+A210,Vatind,29,2.32,2.42,2.7,near A065,Nil
+A211,Dipind,31,1.38,1.38,1.4,near A010; scale check 2,Nil
+A212,Reiana,29,4.74,5.42,6,near A038,Nil
+A213,Reiana,31,10.2,11.8,12.74,near A095,Nil
+A215,Notbed,30,4.62,5.6,6,near A175; A173,Nil
+A216,Hydalp,29,1.62,1.74,1.78,near A041; uprooted due to big uprooted tree; alive; offshoots,Nil
+A217,Kneatt,32,10.82,12.18,12.92,near A95; 81;,Nil
+A218,Densin,32,5.72,6.1,6.58,near A96;,Nil
+A219,Diobou,29,2,2.46,2.52,near A141,Nil
+A220,Reiana,30,0.1,0.1,0.8,near A190,Nil
+A221,Humbru,39,2.3,2.64,2.64,near A048; slanting,Nil
+A222,Holnig,30,4.3,4.98,5.56,near A49; Rec2013,Nil
+A223,Palell,33,5.22,7,7.64,near A065,Nil
+A224,Antmon,31,2.9,4.36,4.26,near A86; belt disturbed; refixed,Nil
+A225,Humbru,32,1.38,2.04,2.58,near A079; written as A223,Nil
+A227,Kneatt,31,10.38,13.34,14.72,near A187 (previously near A189),Nil
+A228,Reiana,29,3.14,4.46,5.02,near A221,Nil
+A230,Densin,30,4,3.8,3.92,near A84; slanting; on ground,Nil
+A231,Reiana,29,4.92,7.96,9.36,near A195; 196,Nil
+A232,Vatind,30,2.6,5.24,6.8,near A074; ,Nil
+A233,Dipind,30,0.8,1.82,2.5,near A065; near A061,Nil
+A235,Vatind,29,1.2,3,4.7,Nil,Nil
+A236,Densin,29,3.34,3.4,3.4,Nil,Nil
+A237,Vatind,32,,32,2.5,Near A84; A217; A194; belt fixed,Nil
+A238,Masarb,33,,33.5,2.04,Near A170; A185; A184; belt fixed,Nil
+B001,Mesfer,119,13.4,13.98,14.2,Bark peels,Nil
+B002,Gartal,34,13.98,14.18,14.18,Nil,Nil
+B003,Humbru,34,2.58,2.52,2.52,ok,Nil
+B004,Vatind,66,9,11.26,12.44,Nil,Nil
+B005,Mesfer,69,15.28,15.82,0.72,near B494; Newbelt fixed @ same pom,Nil
+B007,Humbru,29,6.04,6.06,6.08,top broken @ 10 m,Nil
+B008,Gartal,62,6.6,7.26,7.06,near B496 & B516; Belt fallen & refixed,Nil
+B009,Gartal,115,5.62,6.88,7.3,Nil,Nil
+B010,Humbru,34,12.2,12.46,12.44,reiteration at 3 mt,Nil
+B011,Mesfer,93,4.74,5.8,5.84,Nil,Nil
+B014,Vatind,44,14.7,14.64,14.64,tree with less branches,Nil
+B015,Mesfer,62,3.8,5.3,5.82,Nil,Nil
+B016,Vatind,44,4.8,6,7,near B471,Nil
+B020,Vatind,230,7.9,10.7,13.54,Liana on canopy,Nil
+B021,Dryela,150,1.48,1.4,1.66,fluted,Nil
+B022,Humbru,44,3.96,4.02,4.04,near B495 & B518,Nil
+B023,Mesfer,50,11,11.28,11.48,Nil,Nil
+B024,Reiana,34,4.16,4.28,4.2,near B472,Nil
+B025,Syzgar,63,7.32,9.66,10.24,Nil,Nil
+B027,Lopwig,66,3.42,4.58,5.06,Nil,Nil
+B028,Palell,73,7.46,8.14,8.4,Nil,Nil
+B029,Dryela,158,10.48,11.44,11.72,Nil,Nil
+B030,Palell,59,12.06,13,13.18,Nil,Nil
+B031,Masarb,92,14.92,16,3.76,newbelt fixed @ same pom,Nil
+B032,Mesfer,209,7.44,7.88,8.02,near B477; fluted,Nil
+B033,Masarb,120,12.26,12.8,12.8,Nil,Nil
+B034,Dryela,68,6.8,7.06,7.34,fluted,Nil
+B035,Vatind,198,6,10.16,12.34,Nil,Nil
+B036,Humbru,39,2.66,2.78,2.8,Nil,Nil
+B039,Humbru,29,14.88,14.92,14.86,tp @ 8 m,Nil
+B040,Syzlae,29,8.4,8.6,8.72,near B474; protuberances,Nil
+B041,Humbru,29,3.88,4.2,4.2,Nil,Nil
+B044,Vatind,228,14.6,15.42,1.3,near B475; Newbelt fixed @ same pom,Nil
+B046,Humbru,34,11.5,11.96,12,Nil,Nil
+B049,Vatind,276,2.24,6.44,7.9,ficus strangler; trunk broken; resin exudation,Nil
+B050,Palell,34,2.84,3.78,3.98,near B476,Nil
+B051,Vatind,189,1.8,2.88,3.46,Nil,Nil
+B053,Dryela,124,11.3,11.6,11.64,Nil,Nil
+B054,Dryela,139,-999,-999,10.9,"""near B479; trunk splits; alive",Nil
+B055,Myrdac,94,2.98,3.2,3.36,Nil,Nil
+B056,Humbru,0,3.84,3.8,-999,tp @8 m; offshoots alive; newbelt to be fixed; tag 98,Nil
+B057,Humbru,29,11.3,11.28,11.16,tp @8 m,Nil
+B058,Humbru,39,2.28,2.62,2.64,Nil,Nil
+B059,Diobou,64,1.28,1.66,1.86,Nil,Nil
+B061,Humbru,34,2.54,2.66,2.68,Nil,Nil
+B062,Vatind,89,3.96,4.06,4.16,Nil,Nil
+B063,Masarb,34,11.04,11.96,12.36,Nil,Nil
+B064,Parpen,39,4.7,4.74,5.1,Nil,Nil
+B065,Humbru,39,5.4,5.7,5.78,Nil,Nil
+B066,Myrdac,89,10.28,10.4,10.64,fluted,Nil
+B068,Myrdac,54,9.7,10.8,10.82,Nil,Nil
+B069,Vatind,133,5.12,6.16,6.68,Nil,Nil
+B070,Myrdac,44,6.9,6.04,6.12,Nil,Nil
+B071,Vatind,222,8.2,10.5,12.14,Nil,Nil
+B073,Palell,56,6.24,6.66,6.66,Nil,Nil
+B074,Myrdac,79,3.76,4.04,4.12,multi stem 37.3,Nil
+B075,Vatind,103,4.7,6.44,7.48,Nil,Nil
+B076,Mesfer,44,10.1,10.46,10.46,Nil,Nil
+B077,Myrdac,45,2.84,3.28,3.64,Nil,Nil
+B078,Arthet,164,11.1,12.4,12.6,Nil,Nil
+B079,Myrdac,114,2.34,2.46,2.48,Nil,Nil
+B082,Garmor,33,1.2,1.28,1.58,Nil,Nil
+B083,Myrdac,89,6.18,6.28,6.28,pom @ 2.2 m,Nil
+B084,Hoppon,149,-999,-999,-999,"""trunk decomposed; alive; avoid girth analysis",Nil
+B086,Myrdac,34,6.1,6.38,6.4,calamus,Nil
+B089,Garmor,34,12.42,13.68,14.04,Nil,Nil
+B090,Myrdac,99,11,11.5,11.8,Nil,Nil
+B091,Myrdac,59,9.04,9.7,10.2,Nil,Nil
+B092,Dryela,194,-999,-999,-999,trunk splits; alive; no girth measurements,Nil
+B093,Myrdac,73,1.16,2.38,2.68,trunk hole @ 0.5 m,Nil
+B095,Myrdac,109,6.98,7.06,7.1,Nil,Nil
+B096,Gartal,94,7.4,7.4,7.56,Nil,Nil
+B097,Palell,34,2.6,3.1,3.58,Nil,Nil
+B098,Kneatt,149,2.66,3.2,3.36,fluted,Nil
+B099,Dryela,53,2.8,4.32,4.58,fluted,Nil
+B100,Vatind,39,5.12,5.2,5.4,Nil,Nil
+B104,Vatind,34,10.26,11.32,12.16,Nil,Nil
+B110,Kneatt,139,7.78,8,8,Nil,Nil
+B111,Vatind,39,5.98,5.88,6,Belt disturbed; adjusted,Nil
+B112,Vatind,0,14.08,15.06,15.6,Belt removed; Newbelt to be fixed,Nil
+B113,Kneatt,89,10.54,10.3,10.26,hollow trunk; top prone at 8m,Nil
+B114,Masarb,54,8.9,11.64,12.3,Belt disturbed & refixed,Nil
+B115,Gartal,34,9.9,10.62,10.86,Nil,Nil
+B116,Vatind,288,13.06,15.6,2.12,newbelt fixed @ same pom,Nil
+B117,Humbru,29,4.82,4.86,4.92,Nil,Nil
+B118,Kneatt,133,15.3,133.5,6.4,near B481; belt fallen; Newbelt to be fixed; Girth 133.5,Nil
+B120,Myrdac,54,11.92,11.84,11.66,Belt fallen; refixed ,Nil
+B121,Kinpin,258,5.46,8.1,9.8,Belt disturbed & refixed,Nil
+B123,Dryela,0,15.48,15.7,16,Newbelt to be fixed; Belt removed,Nil
+B124,Hydalp,29,8.6,8.7,8.7,climber,Nil
+B125,Myrdac,44,2.32,2.66,2.54,Bark peeling @ pom,Nil
+B126,Dipind,154,10.5,12.8,13.08,Nil,Nil
+B127,Palell,39,12.4,12.4,12.4,Nil,Nil
+B128,Humbru,29,1.64,1.64,2.26,tp @ 3.5 m but alive,Nil
+B129,Myrdac,58,10.98,12.08,12.36,Nil,Nil
+B130,Syzgar,88,3.94,4,4,Nil,Nil
+B132,Vatind,85,11.7,13.4,14.08,Liana,Nil
+B133,Hoppon,34,12.84,12.92,12.92,Nil,Nil
+B134,Vatind,29,3.58,3.6,3.6,Nil,Nil
+B135,Myrdac,44,8.6,8.64,8.68,"""near B520",Nil
+B136,Syzgar,29,14.48,14.5,14.46,Nil,Nil
+B137,Vatind,59,7.84,11.56,12.86,Nil,Nil
+B138,Humbru,39,6.2,6.32,6.32,Nil,Nil
+B139,Humbru,29,3.4,3.44,3.46,Nil,Nil
+B140,Myrdac,109,9.94,11.24,11.58,wrong belt no 153,Nil
+B145,Humbru,29,4.12,4.16,4.18,slanting; on ground; near 186; 188,Nil
+B146,Dipind,99,9.28,13.2,14.54,Nil,Nil
+B147,Vatind,29,6.72,7.26,7.56,Nil,Nil
+B149,Vatind,29,9.7,11.16,11.68,Liana,Nil
+B152,Vatind,29,3.36,3.36,3.92,Nil,Nil
+B154,Vatind,111,5.84,9,10.32,Nil,Nil
+B155,Humbru,29,2.64,2.74,3.46,belt disturbed & adjusted,Nil
+B157,Humbru,29,4.12,4.2,5.2,Nil,Nil
+B159,Humbru,29,3.2,3.38,3.46,Nil,Nil
+B160,Vatind,39,13.46,14.58,15,climber,Nil
+B161,Mesfer,194,2.4,4.18,4.84,fluted,Nil
+B162,Dryela,144,10.78,11.08,11.1,Nil,Nil
+B163,Humbru,39,2.44,2.48,2.48,Belt no. 165; attention scale ,Nil
+B164,Kneatt,34,2.92,3.2,5.32,Nil,Nil
+B165,Kinpin,335,6.76,9.04,10.8,Strangler in the main trunk,Nil
+B166,Humbru,39,5.08,5.36,5.42,Nil,Nil
+B167,Kneatt,124,4.9,5.02,5.02,Nil,Nil
+B168,Humbru,29,2.98,3.16,3.14,tp @ 4 m ; liana,Nil
+B169,Gartal,39,4.8,4.8,4.82,climber on top,Nil
+B170,Hydalp,39,4.12,4.2,4.2,Nil,Nil
+B171,Humbru,29,3.26,3.3,3.36,Nil,Nil
+B172,Myrdac,119,9.04,9.28,9.74,fluted; pom to be changed,Nil
+B173,Myrdac,54,11.92,11.9,11.24,"liana; scale after 10, again 0, then 12",Nil
+B174,Palell,29,6.78,7.18,7.18,Nil,Nil
+B175,Humbru,49,4.36,4.44,4.48,Nil,Nil
+B176,Casova,64,11.7,12.34,12.42,Nil,Nil
+B179,Humbru,29,2.3,2.32,3.3,Belt disturbed & adjusted,Nil
+B180,Humbru,29,5.62,5.8,5.78,climber,Nil
+B181,Casova,34,7.2,8.22,8.76,Nil,Nil
+B182,Kneatt,168,9.74,10.98,11.64,"""near B483",Nil
+B184,Vatind,29,6.4,6.66,6.72,near B500,Nil
+B186,Lopwig,106,4.72,7.8,9.68,Nil,Nil
+B187,Myrdac,34,5.4,6.12,6.38,liana,Nil
+B188,Myrdac,54,12.84,12.9,13.14,Nil,Nil
+B190,Rinben,44,13,13.12,13.1,instead of 11-1,Nil
+B191,Dryela,29,3.66,3.66,3.68,Nil,Nil
+B192,Myrdac,117,2.2,3.18,3.9,Nil,Nil
+B193,Myrdac,109,2.76,2.88,3.18,Nil,Nil
+B194,Humbru,29,5.96,8,7.8,Nil,Nil
+B195,Humbru,29,2.56,2.76,2.7,Nil,Nil
+B196,Humbru,49,5.66,5.98,6.06,fluted top prone at 3m sprouts;tree hole @ pom,Nil
+B197,Myrdac,70,6.88,8.38,9,Nil,Nil
+B200,Palell,59,4.5,7.7,9.12,Nil,Nil
+B201,Dimlaw,58,3.28,4.36,4.68,tree hole,Nil
+B202,Dimlaw,29,11.76,12.4,12.48,tp @ 5 m,Nil
+B203,Humbru,34,10.12,10.18,10.18,"""near B501 ; slanting; on ground",Nil
+B204,Dimlaw,59,13.8,14.28,14.5,Nil,Nil
+B205,Myrdac,64,15.06,15.5,15.6,near B485; trunk splits near the belt; alive; no girth measurements,Nil
+B206,Rinben,34,13.62,14.36,13.58,Belt disturbed & adjusted,Nil
+B207,Myrdac,95,2.6,3.2,3.68,Nil,Nil
+B209,Vatind,59,9.58,9.8,10.1,Nil,Nil
+B210,Palell,39,7.38,7.38,7.4,Nil,Nil
+B211,Kneatt,194,8.94,8.96,11.22,fluted; tp @ 14 m; one branch alive; bark peeling,Nil
+B213,Dryela,185,6.46,8.84,9.28,fluted,Nil
+B214,Humbru,44,4.7,5.76,6.22,near B539,Nil
+B215,Humbru,39,1.32,1.4,1.48,tp @ 4 m,Nil
+B217,Humbru,39,5.94,6,6.18,Nil,Nil
+B218,Humbru,29,3.34,4.1,3.96,Belt disturbed & adjusted,Nil
+B219,Myrdac,94,11.88,11.8,11.84,Nil,Nil
+B220,Palell,34,13.26,13.46,13.52,Nil,Nil
+B221,Garmor,54,8.82,8.94,9,high liana loads,Nil
+B223,Humbru,34,4.54,4.6,4.64,Nil,Nil
+B224,Palell,52,3.06,4.72,5.58,near B502,Nil
+B225,Humbru,39,5.98,6.78,6.6,Nil,Nil
+B226,Humbru,34,5.94,6.14,6.32,Nil,Nil
+B227,Humbru,34,3.06,3.06,3.06,Nil,Nil
+B228,Humbru,39,2.68,2.68,2.7,tp @ 4m,Nil
+B229,Kinpin,0,14.12,14.74,15.8,Newbelt to be fixed; Belt removed,Nil
+B230,Diosyl,159,11.9,10.98,12.06,fluted,Nil
+B232,Myrmal,134,4.4,4.4,4.48,fluted; pom to be changed,Nil
+B233,Syzgar,73,2.34,4.8,5.5,Nil,Nil
+B234,Dryela,89,3.52,4.84,5.58,fluted; liana,Nil
+B236,Myrdac,65,2.18,3.5,4.66,calamus on top,Nil
+B238,Kneatt,114,12.64,13.66,14.12,Nil,Nil
+B239,Humbru,34,2.04,2.06,2.08,Nil,Nil
+B243,Myrdac,74,12.08,12.58,12.58,near B507 & B508 & B521,Nil
+B244,Vatind,49,5,7.18,8.14,Nil,Nil
+B245,Dipind,277,3.64,8.68,10.92,fluted,Nil
+B246,Myrdac,127,14.04,16,0.02,near B487; new belt fixed at same pom,Nil
+B247,Humbru,39,6.82,6.82,6.82,Nil,Nil
+B248,Diosyl,215,3.16,3.98,4.64,near B529 & B508; fluted,Nil
+B249,Myrdac,89,6.74,7.3,7.32,near B486 & B522; liana on crown,Nil
+B250,Vatind,110,4.8,10.4,12.28,Nil,Nil
+B251,Humbru,34,3.8,3.8,3.82,Nil,Nil
+B254,Holarn,64,15.42,15.8,2.06,tp @ 15 m; liana; newbelt fixed at same pom,Nil
+B255,Holarn,38,0.54,0.8,0.84,Nil,Nil
+B256,Dryela,84,1.5,1.1,2.2,near B467; fluted,Nil
+B257,Vatind,213,3.7,5.84,7.64,climber on top,Nil
+B258,Myrdac,89,8.1,8.22,8.34,Liana on canopy,Nil
+B259,Hydalp,34,5.38,5.9,6.04,tp @ 8 m,Nil
+B261,Humbru,34,0.9,1.66,1.62,Nil,Nil
+B262,Myrdac,144,6.52,7.24,7.5,top prone at 12 m; multistem 33g,Nil
+B263,Humbru,33,1.26,1.4,1.68,top prone,Nil
+B265,Myrdac,29,10.92,12.46,12.88,liana on the trunk,Nil
+B266,Calpol,0,10.1,15.58,-999,girth 210.6,Nil
+B267,Canstr,98,9.36,9.46,9.46,calamus on top,Nil
+B268,Vatind,39,4.4,4.76,5.34,Nil,Nil
+B270,Hydalp,44,1.4,1.72,1.72,fluted; calamus,Nil
+B271,Crywig,100,0.92,1.46,2,Nil,Nil
+B272,Myrdac,74,4.36,5,5.08,Nil,Nil
+B273,Syzgar,133,9.6,12.78,14.38,Nil,Nil
+B274,Myrdac,89,5.56,5.8,5.64,Nil,Nil
+B275,Myrdac,84,11.36,11.82,12.1,Nil,Nil
+B276,Dryela,34,11.32,12.2,12.42,fluted,Nil
+B277,Myrdac,89,3.62,4.68,5.06,near B488 & B503,Nil
+B278,Kneatt,104,13.5,13.7,13.72,Nil,Nil
+B281,Baccou,29,1.64,1.64,1.64,Nil,Nil
+B282,Myrdac,49,14.8,15.8,15.2,Nil,Nil
+B283,Macpel,174,2.82,6.86,9.08,Nil,Nil
+B284,Hoppon,95,1.76,2.74,3.76,Nil,Nil
+B285,Humbru,34,5.64,5.66,5.66,tp @ 14 m,Nil
+B287,Strcey,69,1.42,2.18,2.46,near B489; climber,Nil
+B288,Myrdac,92,7.74,7.82,7.82,liana,Nil
+B289,Gartal,34,8.88,10.08,11.2,Nil,Nil
+B290,Myrdac,74,8.9,9.04,9.28,Nil,Nil
+B291,Humbru,34,13.44,13.54,13.66,Nil,Nil
+B295,Rinben,34,11.4,12.98,13.5,liana,Nil
+B296,Palell,59,6.6,6.74,6.74,Nil,Nil
+B297,Vatind,213,4.4,8.96,11.74,Nil,Nil
+B298,Hydalp,34,6.34,6.66,7.14,near B468,Nil
+B299,Holnig,224,9.24,10.2,10.2,fluted; pom to be changed,Nil
+B300,Dryela,0,14.88,15.7,-999,pom to be changed; newbelt to be fixed; 84.5 G,Nil
+B301,Vatind,29,3.96,4,3.96,tp @ 6 m; calamus,Nil
+B303,Myrdac,104,12.76,13,13.16,Nil,Nil
+B304,Gartal,104,9.48,9.4,9.34,calamus ,Nil
+B305,Humbru,39,4.6,4.6,4.6,tp @ 4 m,Nil
+B307,Dryela,0,12.54,14.8,15.9,fluted; belt removed; newbelt to be fixed,Nil
+B308,Humbru,34,5.64,5.64,5.66,Nil,Nil
+B310,Humbru,34,9.02,9.2,9.24,Nil,Nil
+B311,Vatind,159,5.68,14.28,6.64,newbelt fixed @ same pom,Nil
+B312,Vatind,55,4.8,5.26,5.66,liana,Nil
+B313,Syzlae,31,11.86,11.68,11.66,tp  @ 5.5 m,Nil
+B314,Vatind,39,12.88,13.08,13.22,climber,Nil
+B316,Kneatt,108,3.76,4.1,4.36,fluted; no belt no,Nil
+B317,Micwal,34,12.44,13.34,13.52,near B490; fluted,Nil
+B318,Gartal,93,3.44,4,4.54,Nil,Nil
+B322,Vatind,0,10.94,16,-999,New belt to be fixed; Girth 116.6,Nil
+B323,Humbru,34,11.96,12.18,12.36,Nil,Nil
+B326,Vatind,0,8.48,14.08,16.8,Belt removed; Newbelt to be fixed,Nil
+B327,Dryela,204,6.94,7.18,7.24,fluted,Nil
+B330,Vatind,49,8.2,11.18,13.2,Nil,Nil
+B333,Humbru,34,2.46,3.34,3.82,Nil,Nil
+B334,Dimlon,123,10.34,10.58,10.56,fluted; tp @ 12 m,Nil
+B335,Vatind,29,2.92,3.88,4.48,Nil,Nil
+B336,Kneatt,54,3.78,3.96,4.14,Nil,Nil
+B337,Humbru,29,3,3.46,3.68,near B505,Nil
+B338,Vatind,34,11.12,13,13.88,Nil,Nil
+B339,Vatind,79,8.4,9.36,9.28,near B469; belt damaged & refixed,Nil
+B341,Diosyl,64,4.68,5.92,6.52,liana; tp @ 15 m; alive; better to avoid phenology obs,Nil
+B342,Vatind,79,1.96,2.3,2.34,Nil,Nil
+B344,Humbru,34,10.28,11.94,12.46,Nil,Nil
+B345,Vatind,54,8.52,9.22,10.28,Nil,Nil
+B346,Notbed,79,8.18,8.38,8.4,irreguler; slanting,Nil
+B348,Vatind,74,3.64,5.06,5.68,climber; belt no. 384,Nil
+B349,Notbed,44,4.28,4.62,4.64,near B509,Nil
+B350,Myrdac,138,5.08,5.74,6.2,multi stem 61.4 cm pom @ belt level,Nil
+B351,Dryela,113,4.32,4.62,4.72,near B506,Nil
+B352,Rinben,29,7.42,7.78,-999,stand dead,Nil
+B355,Palell,125,12.82,16,2.52,near B510 & B531; B538; newbelt fixed @ same pom,Nil
+B356,Vepbil,130,2.54,4.38,4.28,Nil,Nil
+B357,Reiana,49,10.92,11.34,11.6,near B525,Nil
+B358,Reiana,29,2.74,2.78,2.78,Qid may be Hb07; near B357,Nil
+B359,Palell,54,15.42,16,2.38,Belt removed; New belt fixed at same pom,Nil
+B361,Humbru,0,6.6,6.58,-999,Girth 35.4; belt missing; newbelt to be fixed,Nil
+B362,Reiana,49,0.4,1.36,-999,fallen dead; due to other fallen tree,Nil
+B364,Palell,85,6.26,9.66,11,QID may be Hb06,Nil
+B365,Crywig,89,4.28,5.96,6.46,Nil,Nil
+B366,Humbru,29,8.52,8.56,8.56,near B512,Nil
+B367,Dimlaw,34,6.9,7.2,7.32,near B541,Nil
+B368,Vatind,44,2.64,3.2,3.4,Nil,Nil
+B369,Myrdac,111,3.8,4.6,4.78,Nil,Nil
+B370,Myrdac,44,4.92,5.64,5.9,belt no wrong: 390,Nil
+B372,Reiana,60,5,7.16,7.64,Qid may be Hb05,Nil
+B376,Dryela,101,10.4,12.24,12.54,near B533 & B492 fluted,Nil
+B377,Humbru,29,8.1,8.44,8.52,Nil,Nil
+B378,Vatind,132,0.2,7.36,10.74,belt size 132,Nil
+B383,Dimlaw,39,5.72,5.76,5.82,top prone at 2.5m; previouly near B382 (dead); near B513,Nil
+B385,Humbru,29,13.72,14.8,15.36,Nil,Nil
+B387,Vatind,29,5,5.28,5.46,near B526 & B527,Nil
+B390,Vatind,44,3.18,4.12,4.58,"""near B514",Nil
+B392,Vatind,138,3.64,5.7,7.14,near B515,Nil
+B394,Syzgar,54,4.8,4.86,4.86,main trunk hole @ 3 m; with fewer leaves,Nil
+B396,Mesfer,44,5.44,6.1,6.36,Nil,Nil
+B397,Vatind,185,9.78,13.12,15.2,Nil,Nil
+B398,Humbru,39,4.2,4.54,4.86,Nil,Nil
+B399,Reiana,44,10.2,10.72,10.4,Nil,Nil
+B400,Kinpin,209,14.04,15.2,2.36,newbelt fixed @ same pom,Nil
+B401,Dipind,334,8.6,11.2,11.78,Nil,Nil
+B403,Vatind,49,7.72,7.32,7.06,Nil,Nil
+B404,Dimlaw,39,9.74,10.26,10.3,Nil,Nil
+B409,Myrdac,129,6.4,8.3,8.74,fluted; near B540,Nil
+B411,Vatind,49,4.42,7.48,8.86,Nil,Nil
+B412,Diopru,29,10,10.32,10.32,Nil,Nil
+B413,Vatind,98,3.2,4.58,4.86,near B542,Nil
+B414,Palell,154,13.4,14.7,14.68,B542,Nil
+B417,Palell,104,14.7,15.2,0.92,B542; newbelt fixed @ same pom,Nil
+B418,Reiana,69,13.4,14.5,14.8,Nil,Nil
+B419,Parpen,49,11.2,11.4,11.68,Nil,Nil
+B420,Dipind,218,5.94,8,8.74,Nil,Nil
+B422,Humbru,29,4.92,5.1,5.1,Nil,Nil
+B423,Vatind,189,8.98,10.98,11.88,Nil,Nil
+B424,Dimlaw,34,9.8,10.7,10.78,Nil,Nil
+B425,Palell,39,8.74,9.28,9.26,Nil,Nil
+B426,Dimlaw,34,5.1,5.34,5.36,Nil,Nil
+B427,Dimlaw,49,3.42,3.56,3.58,Nil,Nil
+B429,Humbru,29,4.08,4.8,4.66,Belt disturbed & refixed,Nil
+B430,Palell,39,7.8,8.1,8.1,Nil,Nil
+B431,Vatind,39,4.72,5.14,5.46,Nil,Nil
+B433,Vatind,114,2.7,2.74,2.74,near B493,Nil
+B434,Vatind,276,11.6,13.78,14.6,Nil,Nil
+B435,Reiana,49,11.16,11.46,11.4,Nil,Nil
+B438,Vatind,29,5.8,6.04,6.1,Nil,Nil
+B439,Diosyl,64,14.36,15.5,1.8,Belt removed; New belt fixed at same pom,Nil
+B441,Myrdac,54,3.88,6.24,6.88,Nil,Nil
+B443,Reiana,83,5,6.64,7.18,fluted; trunk hole,Nil
+B444,Humbru,31,1.22,1.46,1.4,Nil,Nil
+B445,Masarb,149,8.5,8.78,8.96,Nil,Nil
+B446,Canstr,44,5.8,5.86,5.94,top prone at 10 m,Nil
+B447,Vatind,80,14.64,16,3.76,newbelt fixed @ same pom,Nil
+B448,Lepcau,35,8.1,9,9.94,Nil,Nil
+B451,Palell,54,9.72,11.28,12,liana ,Nil
+B452,Myrdac,114,5,5.86,6,Nil,Nil
+B453,Reiana,54,5.92,6.74,7,Nil,Nil
+B454,Myrdac,99,14.82,16,1.56,near B528; newbelt fixed @ same pom,Nil
+B456,Diopru,49,4.52,4.92,5.12,Nil,Nil
+B457,Myrdac,69,3.18,3.22,3.28,tp @ 14 m,Nil
+B459,Myrdac,91,2.22,3.54,4,Nil,Nil
+B461,Myrdac,114,3.82,4.44,4.94,Nil,Nil
+B462,Dipind,283,2.86,5.12,6.4,ladder,Nil
+B463,Myrdac,49,6.54,6.54,6.78,tp @ 12 m,Nil
+B464,Myrdac,142,0.76,1.08,1.2,liana; tp @ 15 m; alive,Nil
+B466,Myrdac,114,8.96,12.94,14,Nil,Nil
+B467,Vatind,29,4.5,4.92,5.4,near B256,Nil
+B468,Humbru,29,4.74,5.06,5.1,near B298,Nil
+B469,Dipind,29,6.84,7.32,9.12,near B339,Nil
+B471,Dimlon,31,8.6,9.86,10.8,near B016; scale not clear,Nil
+B472,Strcey,31,11.86,12.78,13.08,near B024; belt no 473 wrong,Nil
+B474,Dipind,33,1.76,1.76,1.78,near B040; tp @ 10 m,Nil
+B475,Palell,52,1.1,2.7,3.34,near B044,Nil
+B476,Humbru,35,1.62,1.66,1.7,near B050; scale not clear,Nil
+B477,Humbru,30,0.24,0.28,0.22,near B032,Nil
+B478,Humbru,30,2.44,3.16,3.24,near B049,Nil
+B479,Palell,31,3.28,4.02,4.12,near B054,Nil
+B481,Humbru,31,3.34,3.7,3.78,near B118,Nil
+B483,Palell,47,6.08,9.08,9.8,near B182,Nil
+B485,Dimlaw,30,9.28,9.52,9.72,near B205,Nil
+B486,Vatind,41,13.98,15.24,5.46,near B249; Newbelt fixed at same pom,Nil
+B487,Humbru,30,-999,-999,-999,<1.3 m tree alive; offshoots; near B246; no more G measurements,Nil
+B488,Vatind,31,7.02,8.12,8.78,"""near B277",Nil
+B489,Myrdac,35,5.66,5.82,6.34,near B287; climber,Nil
+B490,Humbru,30,3.96,5.46,5.86,near B317,Nil
+B491,Humbru,30,1.58,1.6,1.64,near B353,Nil
+B492,Humbru,30,5.3,5.24,5.26,near B376,Nil
+B493,Palell,30,7.7,8.66,8.68,near B433,Nil
+B494,Humbru,30,0.66,0.66,0.66,near B005,Nil
+B495,Vatind,30,2.38,2.72,2.58,near B022; calamus,Nil
+B496,Palell,30,1.58,1.56,1.54,near B008,Nil
+B500,Micwal,30,4.26,4.56,4.82,near B184,Nil
+B501,Hoppon,30,6.08,6.1,6.08,near B203; slanting,Nil
+B502,Humbru,30,0.46,1.2,1.18,near B224; belt disturbed & adjusted,Nil
+B503,Dryela,30,1.94,2.64,2.74,near B277; scale 3 no missing,Nil
+B504,Vatind,30,4.9,5.64,6.1,near B353,Nil
+B505,Myrdac,31,10.28,10.98,11.26,near B337,Nil
+B506,Kneatt,46,14.16,16,1.8,near B351; newbelt to be fixed,Nil
+B507,Holnig,29,5.88,6.1,6.14,near B248,Nil
+B508,Vatind,49,8.24,9.98,11.06,near B248,Nil
+B509,Kneatt,32,8.88,11.46,12.36,near B349,Nil
+B510,Vatind,29,11.5,12.08,12.2,near B355,Nil
+B511,Dryela,45,14.62,16,1.3,near B362 & B356; Newbelt to be fixed,Nil
+B512,Humbru,29,3,3.22,3.46,near B366,Nil
+B513,Palell,29,11.42,13.94,14.42,previouly near B382; 383; missing; spid confirmed Isolan,Nil
+B514,Humbru,31,6.16,7.64,8.4,near B390,Nil
+B515,Holnig,48,8.56,12.06,13.68,near B392,Nil
+B516,Humbru,31,0.62,0,0.04,near B008,Nil
+B518,Hoppon,30,4.2,5.18,5.5,near B022,Nil
+B520,Mesfer,30,0.82,0.86,0.88,near B135,Nil
+B521,Vatind,30,3.48,3.76,3.8,near B243,Nil
+B522,Humbru,30,2.1,2.62,2.88,near B249,Nil
+B523,Notbed,30,9.36,10.46,10.84,near B355,Nil
+B524,Vatind,30,8.62,9.7,10.04,near B353,Nil
+B525,Palell,30,2.08,2.48,2.52,near B357,Nil
+B526,Notbed,31,11.08,13.66,14.26,near B387,Nil
+B527,Myrdac,31,10.9,12.22,12.66,near B387,Nil
+B528,Myrdac,30,7.4,8.32,8.88,near B454,Nil
+B529,Vatind,32,10,11.42,11.88,near B246&B248,Nil
+B530,Holfer,29,10.16,12.32,13.22,near B353; Holarn,Nil
+B531,Reiana,29,3.18,3.46,3.66,near B355 & B510,Nil
+B532,Humbru,29,1,1,1,near B356 (previously B354-dead),Nil
+B533,Carure,94,3.68,3.62,3.58,near B376,Nil
+B534,Humbru,29,4.7,5.24,5.26,near B392,Nil
+B535,Dryela,29,2.76,5.08,6.04,near B339; Belt disturbed & adjusted,Nil
+B537,Kneatt,32,2.42,2.64,2.68,near B531; near B355 (1.2m); rec 2013,Nil
+B538,Vatind,30,1.74,2.66,3.12,rec 2016;near B355,Nil
+B539,Humbru,32,1,1.44,1.74,rec 2016; near B214,Nil
+B540,Hydalp,32,2.2,3.1,3.78,female tree; pom @ 1.3m; near 409,Nil
+B541,Vatind,30,3.56,5.86,6.46,near B367,Nil
+B542,Kneatt,31,2.6,3.58,3.88,near B413,Nil
+B543,Hydalp,29,1.34,2.12,3,B244; rec 2019,Nil
+B544,Dimlon,29,1.14,1.82,2.42,B509; rec 2019,Nil
+B545,Vatind,32,,32,1.5,near B221; newbelt fixed @ same pom,Nil
+B546,Vatind,29,,30.8,3.14,near B367/363; newbelt fixed @ same pom,Nil
+B547,Hydalp,31,,31,1.42,near B409/411; newbelt fixed @ same pom,Nil
+C004,Syzgar,99,1.58,2.9,4,near chablis,Nil
+C006,Humbru,34,6.3,6.6,6.94,liana; near C471,Nil
+C007,Myrdac,0,11.08,14.6,16,liana; belt removed; newbelt to be fixed,Nil
+C012,Rinben,59,6.64,8.28,8.7,Nil,Nil
+C013,Euoind,44,11.14,13.2,13.96,Nil,Nil
+C014,Kneatt,49,10.4,11.18,11.34,Nil,Nil
+C015,Myrdac,59,9.18,9.68,9.8,Nil,Nil
+C016,Dipind,34,11.48,11.5,11.5,liana on top,Nil
+C018,Myrdac,79,10.06,10.5,10.8,Nil,Nil
+C019,Myrdac,55,9.48,10.32,11.72,Nil,Nil
+C021,Holfer,104,4.58,5.2,5.34,near461/469/475,Nil
+C022,Myrdac,54,5.58,8.76,9.74,near C469 & C461,Nil
+C027,Kneatt,100,10,11.98,13.34,Nil,Nil
+C028,Parpen,89,5.94,6.18,6.34,fluted,Nil
+C029,Myrdac,,-999,-999,-999,Alive; trunk damaged; avoid G measurements,Nil
+C031,Notbed,34,9,9.74,10.26,near C400,Nil
+C032,Garmor,29,8.16,8.96,9.04,Nil,Nil
+C033,Reiana,84,0.82,4.76,6.4,fluted,Nil
+C034,Dryela,49,0.82,3.08,4.2,pom to be changed ,Nil
+C035,Humbru,34,2.46,2.72,2.54,Nil,Nil
+C036,Kinpin,217,13.48,17,2.34,near C403; near C466?; newbelt fixed @ same pom,Nil
+C038,Myrdac,80,1.22,3.86,5.2,C466; near C404 previously C041,Nil
+C042,Dipind,34,6.38,8,8.28,trunk damage due to fallen branches @ 1 m; near C404 previously C041,Nil
+C043,Manind,83,7.6,83.8,1.4,near C405; new belt fixed @ same pom,Nil
+C048,Humbru,29,3.7,3.8,3.84,near C401,Nil
+C049,Vatind,220,6.62,11.96,14.1,near C402,Nil
+C050,Vatind,255,3.18,-999,4.18,ladder require; less crown,Nil
+C051,Mesfer,204,8.24,-999,8.32,fluted; ladder,Nil
+C052,Dryela,109,12.08,13.78,14.6,near C447; fluted,Nil
+C053,Myrdac,39,5.8,5.88,6.6,Nil,Nil
+C054,Vatind,119,5.78,9.68,11.22,termite,Nil
+C055,Myrdac,64,5.16,6.9,7.58,near C406,Nil
+C056,Myrdac,119,8.48,8.98,9.42,climbers on,Nil
+C057,Kneatt,29,2.06,2.22,2.2,near C407; tp @ 2.5 m,Nil
+C061,Vatind,126,3.98,6.6,8.62,tree fall gap more wood logs; C476 but written as 475,Nil
+C062,Myrdac,64,13.3,13.46,13.8,tree fall gap ,Nil
+C064,Myrdac,79,10.64,10.46,10.24,near C408; tp @ 7m; Bark damage & trunk damage,Nil
+C065,Humbru,29,6.32,6.74,7.18,Nil,Nil
+C066,Humbru,29,2,2,2,top broken at 2m,Nil
+C067,Vatind,29,6.94,7.08,7.34,tp @ 5m ; alive,Nil
+C069,Gloell,49,0.28,0.28,0.28,near C437 & C448; tp @ 10 m; fluted,Nil
+C070,Humbru,29,4.14,4.26,4.56,Nil,Nil
+C071,Euoind,34,4.1,4.32,4.14,slanting,Nil
+C072,Vatind,105,15.2,16,1.2,liana; newbelt fixed @ same pom,Nil
+C073,Diogha,63,9.5,10.9,11.28,liana; near C133; near C131,Nil
+C074,Holfer,54,7.1,7.14,7.2,liana,Nil
+C076,Gargum,84,11.64,14.08,15.1,near C411,Nil
+C079,Myrdac,64,3.06,3.78,4,near C450,Nil
+C084,Masarb,88,3.14,4.72,5.1,near C449,Nil
+C086,Holfer,60,13.8,17,3.86,Newbelt fixed @ same pom,Nil
+C090,Dipind,100,2.8,6.28,7.54,Belt no wrong 97; termite,Nil
+C092,Syzgar,131,14.92,18,2.64,Belt removed; newbelt fixed @ same pom,Nil
+C093,Notbed,34,7.24,7.32,7.4,Nil,Nil
+C096,Palell,51,0.98,2.46,3.54,Nil,Nil
+C097,Kneatt,102,1.2,4.04,4.72,Nil,Nil
+C099,Dipind,29,8.34,10.5,10.98,fluted,Nil
+C100,Dipind,29,5.42,5.8,6.04,liana; near C472; ,Nil
+C105,Vatind,63,7.44,11.4,13.26,near C132; C131,Nil
+C107,Manind,89,9.46,9.68,10.32,Nil,Nil
+C108,Rinben,34,8.06,8.96,9.6,slanting,Nil
+C109,Vatind,64,13.7,14.7,14.9,Nil,Nil
+C110,Kneatt,0,13.92,15.2,-999,slanting; girth 74; newbelt to be fixed,Nil
+C111,Humbru,44,-999,-999,-999,tp @ 5m; trunk damged; dead,Nil
+C112,Vatind,134,12.26,17,5.36,newbelt fixed @ same pom,Nil
+C113,Palell,54,10.22,10.32,10.4,Nil,Nil
+C114,Beiwig,39,7.6,8.26,8.26,liana,Nil
+C115,Humbru,29,5.28,5.64,5.8,Nil,Nil
+C117,Dimlon,94,6.62,7.58,7.72,slanting; epiphytes- Raphidophora; tp @ 2.5 m,Nil
+C118,Notbed,49,10.96,12.2,12.54,Nil,Nil
+C119,Antmon,61,4.74,7.76,9,Nil,Nil
+C120,Myrdac,,-999,-999,-999,tp @ 5m; trunk damged; dead,Nil
+C121,Humbru,29,4.8,4.82,4.84,Nil,Nil
+C123,Notbed,54,5.52,8.2,8.94,near C478,Nil
+C124,Kneatt,84,3.84,5.76,5.8,fluted,Nil
+C125,Dryela,144,8.16,9.78,10,fluted,Nil
+C127,Diosyl,39,7.22,7.56,7.6,Nil,Nil
+C128,Vatind,39,10.12,11.6,12.2,near C464,Nil
+C130,Palell,49,14.64,15.5,3,near C263; Belt removed; newbelt fixed @ same pom,Nil
+C131,Manind,44,10.38,10.38,10.36,tp @ 10 m; less canopy; near C105 previously near C132,Nil
+C133,Dipind,99,9,12.1,13.5,near C073; termite; near C105 previously near C132,Nil
+C134,Euoind,64,5.4,5.4,-999,near C073; tp @ 12; dead,Nil
+C138,Vatind,54,1.5,2.1,2.34,near C474,Nil
+C139,Dipind,44,14.56,15.3,15.48,near C465,Nil
+C140,Rinben,29,15.08,15.42,15.4,Nil,Nil
+C141,Dipind,29,8.1,8.1,8.1,Nil,Nil
+C142,Hydalp,29,5.42,5.88,6.12,climbers,Nil
+C143,Humbru,34,7.96,7.98,8,Nil,Nil
+C144,Dimlon,95,12.12,13.7,14.38,written as 114 on the belt,Nil
+C145,Notbed,59,9.58,10.82,11.18,fluted; pom to be changed 63.6 @ 25 cm above belt,Nil
+C146,Flamon,54,9.82,11.3,11.6,Belt; belt available; reading taken,Nil
+C146,Flamon,64,,,0,new belt fixed  at 40 cm above previous pom,Nil
+C147,Pajlon,104,9.48,11.2,12.4,Nil,Nil
+C148,Crywig,49,5.82,5.86,7.86,Nil,Nil
+C149,Humbru,29,4.1,4.58,4.46,Nil,Nil
+C150,Vatind,219,8.8,17.5,5.2,New belt fixed @ same pom,Nil
+C151,Vatind,34,2.92,3,3,skip first slanting line in scale!,Nil
+C152,Syzgar,49,11.14,11.24,11.24,climbers,Nil
+C153,Notbed,29,5.88,5.9,5.9,climbers,Nil
+C154,Kinpin,34,9.78,9.78,9.78,Nil,Nil
+C155,Vatind,144,8.8,12.6,13.9,Nil,Nil
+C156,Vatind,69,2.98,4.08,4.1,climbers,Nil
+C158,Dipind,44,10.34,10.36,10.36,Nil,Nil
+C159,Vatind,54,11.32,11.4,11.24,Nil,Nil
+C161,Myrdac,83,6.6,7.18,7.42,Nil,Nil
+C162,Vatind,54,11.44,14.06,14.54,Nil,Nil
+C163,Palell,34,13.46,13.58,13.64,Nil,Nil
+C164,Humbru,29,4.36,4.6,4.38,Nil,Nil
+C165,Vatind,142,5.66,10.94,13.2,Nil,Nil
+C166,Vatind,29,5.16,5.5,5.6,Near C473 previously C169/170,Nil
+C167,Vatind,133,11.28,15.4,2.88,climbers; Newbelt fixed @ same pom,Nil
+C168,Myrdac,85,15.6,16,-1,newbelt fixed @ same pom ,Nil
+C169,Vatind,86,15.1,16,0.92,newbelt fixed @ same pom ,Nil
+C171,Vatind,49,,,11.8,alive; previously removed as dead in 2021,Nil
+C172,Litflo,84,0.66,0.78,0.62,termite,Nil
+C173,Vatind,49,6.88,7.06,7.18,Nil,Nil
+C174,Vatind,0,8.64,15.8,-999,near C480; girth 163.2; newbelt fixed @ same pom,Nil
+C175,Kneatt,94,0.4,1.26,1.74,fluted; top prone at 8m,Nil
+C178,Parpen,119,9.92,10.76,10.88,top prone at 12 m,Nil
+C179,Gartal,64,7.42,8.18,8.62,yellow tent target,Nil
+C182,Kneatt,72,0.1,0.64,0.84,top prone at 10 m; tree alive,Nil
+C186,Gartal,39,10.32,10.78,11.16,bark damaged; near C419,Nil
+C188,Diobou,0,15.08,15.6,16,New belt to be fixed,Nil
+C189,Polcof,55,8.28,9.8,10.4,near C423,Nil
+C190,Palell,49,5.22,5.3,4.9,near C451; liana all along the trunk; termites,Nil
+C191,Reiana,44,14.56,15.2,15.1,liana,Nil
+C193,Vatind,44,8.26,11.98,14.16,C453 & C454 & C455 & C464; C466,Nil
+C195,Holfer,138,8.6,13.04,14.6,Nil,Nil
+C196,Humbru,29,13.34,13.74,13.58,near C421,Nil
+C197,Vatind,49,7.46,12.16,14.18,near C424 & C441,Nil
+C198,Gloell,34,14.98,15,15,near C422; slanting,Nil
+C199,Manind,64,8.64,8.68,8.74,near C452,Nil
+C203,Palell,29,4.32,6,6.72,near C438,Nil
+C205,Kinpin,294,6.88,7.4,8.92,ladder,Nil
+C206,Dipind,99,5.18,6.98,7.2,"near C442, C456",Nil
+C208,Dryela,59,13.64,16,2.3,Newbelt fixed @ same pom,Nil
+C209,Reiana,59,5,7,7.6,Nil,Nil
+C210,Kneatt,116,15,15.6,2.98,near C425 & C426; newbelt fixed @ same pom,Nil
+C211,Vatind,34,3.84,3.84,3.64,Nil,Nil
+C215,Vatind,119,10.2,14.62,4.2,New belt fixed @ same pom,Nil
+C218,Kneatt,74,14.54,15.5,1,near C467; newbelt fixed @ same pom,Nil
+C219,Kneatt,48,10.72,11.12,11.16,Nil,Nil
+C220,Myrdac,83,5.96,6.12,6.18,Nil,Nil
+C221,Kneatt,44,6.84,6.8,6.84,Nil,Nil
+C222,Myrdac,163,6.12,7.1,7.38,Nil,Nil
+C223,Dipind,179,15.64,16,2.14,near C457; Newbelt fixed @ same pom,Nil
+C224,Kneatt,69,12.94,13.66,14.26,Nil,Nil
+C226,Vatind,208,15,16,4.6,Newbelt fixed @ same pom,Nil
+C227,Myrdac,54,11.62,12.6,13.06,Nil,Nil
+C228,Kneatt,86,12.86,14.6,1.68,Newbelt fixed @ same pom,Nil
+C229,Humbru,29,3.38,3.36,3.4,Nil,Nil
+C230,Humbru,29,1.08,1.1,1.14,Nil,Nil
+C231,Vatind,75,3.36,4.58,5.98,near C427,Nil
+C233,Kneatt,0,,79.5,-999,Alive; newbelt to be fixed; pom change above 79.5,Nil
+C235,Palell,29,7.16,8.1,9.2,Nil,Nil
+C236,Euoind,34,1.8,1.94,2,Nil,Nil
+C237,Vatind,235,14.18,16,7.64,Newbelt fixed @ same pom,Nil
+C239,Kneatt,73,7.68,-999,-999,Not possible to read; due to treefall; alive?,Nil
+C240,Reiana,59,9.2,10.52,11.2,fluted,Nil
+C241,Myrdac,112,13.84,-999,0.68,Newbelt fixed @ same pom,Nil
+C244,Vatind,172,10.44,11.82,12,near C458,Nil
+C245,Kneatt,34,3.1,4.18,5.96,Nil,Nil
+C247,Vatind,160,1.86,10.5,14.9,Nil,Nil
+C248,Humbru,29,1.62,1.72,1.96,Nil,Nil
+C249,Palell,46,11.82,12.78,13.4,Nil,Nil
+C250,Humbru,34,4.26,4.38,4.64,Nil,Nil
+C252,Myrdac,89,1.56,3.42,4.54,Nil,Nil
+C253,Palell,34,15.58,15.6,15.48,Nil,Nil
+C254,Humbru,34,2.76,2.76,2.78,tp @ 3 m,Nil
+C255,Myrdac,104,10.8,10.92,11.54,Nil,Nil
+C256,Palell,34,5.36,5.72,5.94,Nil,Nil
+C257,Humbru,34,1.42,1.46,1.48,Nil,Nil
+C258,Palell,29,5.22,6.04,6.46,Nil,Nil
+C259,Notbed,59,7.34,7.46,7.6,Hm01,Nil
+C260,Palell,29,6.18,6.58,6.84,Nil,Nil
+C261,Crywig,54,3.36,4.78,5.8,Nil,Nil
+C262,Notbed,69,8.44,9.94,9.72,near C479,Nil
+C263,Cinsp1,97,9.86,11.34,12.5,near C130,Nil
+C264,Humbru,39,2.1,2.22,2.28,Nil,Nil
+C265,Humbru,34,5.42,5.66,5.74,Nil,Nil
+C266,Kneatt,44,8.4,8.6,8.68,near C460,Nil
+C269,Palell,79,10.02,13.12,14.4,near C459,Nil
+C270,Kneatt,49,7.36,7.88,7.88,near C443,Nil
+C271,Hydalp,84,11.58,12,12.46,Nil,Nil
+C272,Holarn,29,5,5.06,5.06,near C443,Nil
+C273,Myrdac,49,13.34,14.52,14.8,Nil,Nil
+C274,Myrdac,34,11.3,11.32,11.32,Nil,Nil
+C275,Notbed,44,7.64,7.8,7.8,Nil,Nil
+C276,Masarb,85,14.8,16,4.34,New belt fixed @ same pom,Nil
+C277,Myrdac,39,12.02,12.26,12.26,Nil,Nil
+C278,Calpol,266,12.8,16,4.46,Newbelt fixed at same pom ,Nil
+C279,Dryela,34,11.46,11.84,12,Nil,Nil
+C280,Dryela,109,11.96,11.54,11.54,fluted,Nil
+C282,Myrdac,69,9.36,9.64,9.72,two branches: girth 32.3 cm ; girth2 12.2,Nil
+C283,Holgra,34,12.92,14.2,14.84,Nil,Nil
+C285,Myrdac,69,1.78,2.5,2.98,liana,Nil
+C286,Palell,34,9.62,10,10.06,Nil,Nil
+C287,Vatind,405,5.82,12.71,13.82,Nil,Nil
+C288,Myrdac,34,9.7,-999,9.58,Nil,Nil
+C289,Vepbil,128,0.6,0.64,0.74,Nil,Nil
+C290,Myrdac,44,7.98,8.18,8.2,Nil,Nil
+C292,Humbru,29,3.98,-999,4.28,Nil,Nil
+C293,Notbed,54,4.86,-999,5.3,Nil,Nil
+C294,Myrdac,99,3.28,3.68,4.3,spring cut; Belt refixed,Nil
+C297,Myrdac,64,9.92,9.94,9.94,Nil,Nil
+C298,Humbru,39,4.86,5,5.3,Nil,Nil
+C300,Humbru,39,2.2,2.2,2.24,slanting,Nil
+C301,Myrdac,89,11.24,11.32,11.4,Nil,Nil
+C302,Dryela,78,14.14,15.5,4.42,Newbelt fixed @ same pom,Nil
+C303,Masarb,102,13.92,15.2,3.46,Newbelt fixed @ same pom,Nil
+C305,Myrdac,49,5.16,6.6,7.52,Nil,Nil
+C306,Myrdac,154,15.1,15.2,15.6,fluted,Nil
+C307,Humbru,44,3.14,3.2,3.54,Nil,Nil
+C310,Garmor,79,12.52,13.28,13.54,Nil,Nil
+C311,Crywig,154,4.86,4.92,4.92,fluted,Nil
+C312,Vatind,79,9.78,10.2,10.54,Nil,Nil
+C313,Hydalp,29,10.1,10.3,10.82,Nil,Nil
+C315,Masarb,42,3.82,4.08,4.18,Nil,Nil
+C317,Hararb,108,4,3.8,3.8,irregular,Nil
+C318,Dimlon,64,9.54,11,11.78,Nil,Nil
+C319,Humbru,29,6.62,6.62,6.62,Nil,Nil
+C320,Gartal,74,8,8.2,8.74,Nil,Nil
+C321,Calpol,434,11.48,13.08,13,Nil,Nil
+C322,Vatind,89,7.3,10.2,11.62,Nil,Nil
+C323,Humbru,29,2.5,2.6,2.66,Nil,Nil
+C324,Lopwig,0,7.2,-999,14.68,ladder; belt not removed; newbelt to be fixed,Nil
+C328,Vatind,59,5.36,5.4,5.54,Nil,Nil
+C330,Vatind,59,9.72,10.72,11.6,Nil,Nil
+C331,Vatind,179,5.14,10.22,13.3,near Hm06; Hm07,Nil
+C332,Kneatt,49,6.2,8.24,9.52,Nil,Nil
+C333,Vatind,174,14.4,16,5.38,Newbelt to be fixed; Girth 179,Nil
+C334,Dimlaw,34,6,6,6.08,Nil,Nil
+C335,Humbru,29,7.2,8.06,8.34,Nil,Nil
+C336,Gargum,109,8.68,9.3,9.54,Nil,Nil
+C337,Humbru,29,1.98,2.02,2.1,Nil,Nil
+C338,Notbed,39,7.24,7.4,7.3,Nil,Nil
+C339,Myrdac,149,13,14.6,15.4,three branches: girth 34.2; G2 26.4; G3 14.6,Nil
+C340,Gartal,39,7.12,7.4,7.64,Nil,Nil
+C342,Kneatt,84,12.08,14,15,Nil,Nil
+C343,Myrdac,124,4.94,5.92,6.06,fluted,Nil
+C344,Humbru,39,7.2,8.06,8.26,Nil,Nil
+C345,Myrdac,94,15.28,16,2.34,near C432; newbelt fixed at same pom,Nil
+C346,Palell,29,3.06,3.4,3.54,liana,Nil
+C348,Syzgar,104,0.44,3.32,4.06,Nil,Nil
+C350,Kneatt,69,4.84,4.78,4.92,tp @ 12 m alive,Nil
+C351,Vatind,69,11.8,12.92,-999,tp @ 15 m dead; belt removed,Nil
+C353,Palell,39,6.34,6.5,6.78,tp @ 15 m; alive,Nil
+C354,Vatind,104,14.9,14.2,-999,tp @ 15 m; dead,Nil
+C360,Humbru,34,-999,-999,-999,tp @ 1 m; Avoid G measurements; alive,Nil
+C363,Mesfer,106,4.1,7.18,8.96,liana,Nil
+C364,Hydalp,39,4,4.32,4.92,belt disturbed; same belt fixed,Nil
+C365,Dimlon,69,3.06,5.1,5.8,Nil,Nil
+C366,Arthet,44,3.74,4.38,4.44,Nil,Nil
+C367,Humbru,44,5.2,5.56,5.6,Nil,Nil
+C368,Kneatt,74,10.8,11.22,11.3,Nil,Nil
+C369,Strcey,39,1.98,2.6,2.8,Nil,Nil
+C370,Myrdac,49,14.62,14.78,14.82,Nil,Nil
+C372,Holfer,79,11.22,11.3,11.34,liana,Nil
+C373,Vatind,0,-999,-999,-999,tp @ 10 m; girth 118; newbelt to be fixed,Nil
+C374,Arthet,54,-999,-999,8.38,Belt refixed,Nil
+C378,Myrdac,0,80,78,-999,Girth 84.2; newbelt to be fixed,Nil
+C379,Permac,0,12.42,16,-999,Newbelt to be fixed; Girth 197.2,Nil
+C380,Myrdac,79,5.5,6.1,6.34,Nil,Nil
+C381,Kneatt,129,7.9,8.4,8.74,Nil,Nil
+C383,Vatind,34,2.88,2.96,3.96,Nil,Nil
+C384,Diobou,189,12.4,13.3,13.46,fluted,Nil
+C387,Dryela,59,9.9,10.18,10.2,fluted,Nil
+C389,Diobou,94,0.14,1.72,2.5,Nil,Nil
+C391,Kneatt,47,10.36,10.6,10.74,calamus,Nil
+C393,Myrdac,76,12.3,-999,12.28,liana,Nil
+C394,Kneatt,59,10.52,10.82,11.08,near Hl02,Nil
+C395,Reiana,34,7.48,8.2,8.44,Nil,Nil
+C396,Myrdac,83,2,3.24,3.46,Nil,Nil
+C397,Humbru,29,7.64,7.64,7.66,near C435; calamus,Nil
+C398,Garmor,34,15.08,15,15.2,near C444 & C445; calamus; belt adjusted,Nil
+C399,Humbru,29,4.1,4.1,4.1,near C434,Nil
+C400,Kinpin,30,2.18,2.88,3.12,near C031,Nil
+C401,Syzgar,31,7.28,7.84,8,near C048,Nil
+C402,Garmor,31,1.88,2.94,1.96,near C049; crown with less branches and leaves,Nil
+C403,Reiana,32,9.06,10.52,11.28,near C036,Nil
+C404,Diopru,31,8.12,8,8.08,near C041,Nil
+C405,Garmor,44,2.74,-999,-999,missing; due to treefall,Nil
+C406,Dryela,30,11.88,11.96,12.56,near C055; Main trnuk branch damaged ,Nil
+C407,Notbed,,-999,-999,-999,near C057; Alive; Avoid G measurements; trunk damaged,Nil
+C408,Humbru,33,3.04,3.04,3.04,near C064; trunk damage,Nil
+C411,Humbru,32,2.64,2.84,3,near C076,Nil
+C419,Vatind,31,3.26,4.04,4.12,near C185 - (previously C186 dead); Belt no. 416; scale not clear,Nil
+C420,Vatind,30,6.96,8.06,8.66,near C185?,Nil
+C421,Humbru,30,7.42,7.48,7.54,near C196,Nil
+C422,Kneatt,46,9.32,11.18,11.78,near C198,Nil
+C423,Dryela,31,10.1,10.18,10.52,near C189,Nil
+C424,Kinpin,30,4.94,5.06,5.2,near C197,Nil
+C425,Reiana,30,4.18,4.28,5.32,near C210,Nil
+C426,Kneatt,40,0,0,0.08,near C210,Nil
+C427,Kinpin,30,-0.3,-0.92,-0.2,near C231,Nil
+C432,Glymac,30,1.64,2.4,2.4,near C345; scale not clear,Nil
+C434,Hydalp,30,11.96,13,14.62,near C399,Nil
+C435,Vatind,0,7.1,14,-999,near C397; newbelt to be fixed; girth 62.7,Nil
+C436,Arthet,46,15.4,16,3.8,near C085; newbelt fixed at same pom,Nil
+C437,Cinsp1,44,10.98,13.78,14.8,near C069; one branch with tp @ 8 m,Nil
+C438,Vatind,46,11.38,12.86,13.28,near C204/ C203,Nil
+C439,Kneatt,29,10.2,-999,-999,near C067; fallen due to other trees; previous year dead ,Nil
+C441,Diosyl,29,13.82,14.28,14.3,near C197,Nil
+C442,Kneatt,33,7.36,8.6,8.62,near C206,Nil
+C443,Myrdac,29,8.6,8.92,9.2,near C270,Nil
+C444,Humbru,29,4.22,4.26,-999,near C398; tp @ 3 m; offshoots alive; avoid Girth measurements,Nil
+C445,Vatind,44,2.8,3.02,3.06,near C398; calamus,Nil
+C446,Rinben,30,2.26,-999,-999,missing; C039,Nil
+C447,Reiana,30,2.42,2.42,2.34,near C052; liana,Nil
+C448,Kneatt,33,11,11.88,12.6,near C069,Nil
+C449,Garmor,30,8.7,10.12,10.5,near C084,Nil
+C450,Acttad,33,11.08,13.18,13.84,near C079,Nil
+C451,Kinpin,30,7.1,8.66,8.8,near C190,Nil
+C452,Vatind,47,5.84,8.48,9.42,near C199,Nil
+C453,Gloell,43,13.32,15.2,15.18,near C193; scale not clear,Nil
+C454,Ptediv,46,5,11,12.14,near C193,Nil
+C455,Ptediv,30,6.82,7.56,7.64,near C193; river upper side; near 193,Nil
+C456,Kneatt,31,6.36,6.44,6.6,near C206; liana,Nil
+C457,Kneatt,30,1.6,1.62,2.08,near C223,Nil
+C458,Humbru,30,0.46,0.58,0.6,near C244,Nil
+C459,Vatind,30,3.64,4.1,4.4,near C269,Nil
+C460,Kinpin,30,4.28,4.58,4.54,near C266,Nil
+C461,Humbru,29,7.98,6.12,6.26,near C21; C475,Nil
+C464,Diopru,29,6.38,6.84,6.9,"""near C128",Nil
+C465,Humbru,29,2.09,2,2.1,"""near C139",Nil
+C466,Vatind,29,7.4,8.6,9.32,"""near C193",Nil
+C467,Malste,29,4.82,5.32,5.52,"""near C218",Nil
+C468,Vatind,29,10.34,13.2,14.8,"""near C397",Nil
+C469,Dipind,29,2.6,3.72,4.04,"near C19, C21",Nil
+C471,Vatind,,4.52,5.32,5.84,near C006; Qid check,Nil
+C472,Palell,31,3.42,5.4,6.3,Near C100; C099,Nil
+C473,Blaumb,34,1.98,2.38,3.04,near C169,Nil
+C474,Diosyl,30,4.64,3.74,4.4,near C138,Nil
+C475,Humbru,32,1.58,1.58,2,near C461; slanting due to liana pressure,Nil
+C476,Palell,30,3.6,4.44,5.54,near C061; C068;written as 475; heavy liana load,Nil
+C477,Vatind,30,5.32,7.16,7.8,near C108; missing in 2017;written as C480 and 498; to be written as 477,Nil
+C478,Kinpin,30,3.26,4.46,5.2,near C123,Nil
+C479,Kneatt,,3.2,3.84,4.58,near C262; Hm01,Nil
+C480,Aglbar,31,2.42,4.4,5.4,near C174,Nil
+C481,Vatind,29,2.16,2.6,2.9,near 138; near 474; rec 2019,Nil
+C482,Humbru,35,0.3,1.86,2.64,near C118; belt no 483; near C97,Nil
+C482,Humbru,35,,,2.24,"one more C482, yellow paint no & with belt; check again give a new no.; belt size?",Nil
+C483,Reiana,29,0.8,3.78,5.34,near C117; rec 2019,Nil
+C484,Vatind,32,0.86,3.2,4.46,near C107; rec 2019,Nil
+C485,Gartal,29,1.52,1.84,2.34,near C056; rec 2019,Nil
+C486,Humbru,29,1.24,2.32,2.8,near C038; rec 2019,Nil
+C487,Myrdac,29,2.38,4.66,6,near C093; rec 2019,Nil
+C488,Vatind,29,1.36,1.48,1.68,near C140; rec 2019,Nil
+C489,Humbru,30,0.58,0.7,0.8,near C143; rec 2019,Nil
+C490,Cinmal,29,1.28,1.56,1.42,near C456; rec 2019,Nil
+C491,Kneatt,29,1.4,3.18,5.04,near C364; rec 2019,Nil
+C492,Gargum,29,1.7,2.92,4.34,"near previously 299 (dead); near 298, 300",Nil
+C493,Humbru,31,,31,1.8,near 128; check belt size,Nil
+C494,Palell,30,,30.5,1.64,"near 486/118, 483",Nil
+C495,Humbru,29,,30.5,2.8,92/90,Nil
+C496,Dryela,29,,30,1.8,"near 431/66,68; belt no wrong 466",Nil
+C497,Crywig,33,,33,4.14,"near 66, 55",Nil
+C498,Garmor,29,,30.8,2.96,Near 22; check belt size,Nil
+C499,Rinben,29,,30,1.7,pom @ 150; near 141,Nil
+C500,Vatind,29,,30,-999,near 489/143; only offshoots alive,Nil
+C501,Macpel,31,,31.5,2.88,Near 419/182,Nil
+D001,Kneatt,79,6.78,6.8,6.82,Nil,Nil
+D002,Myrdac,44,12.16,13.1,13.1,Nil,Nil
+D003,Myrdac,54,9,9.38,9.62,Nil,Nil
+D004,Myrdac,42,2.1,2.56,2.8,near D492,Nil
+D005,Dipind,44,6.72,7.4,7.52,Nil,Nil
+D006,Kneatt,84,12.1,12.82,13,Nil,Nil
+D007,Vatind,198,7.84,10.08,12.14,Nil,Nil
+D008,Palell,34,6.6,7.1,7.2,Nil,Nil
+D009,Vatind,144,5.96,6.06,6.32,Nil,Nil
+D010,Dipind,188,12.14,15.4,2.06,newbelt fixed at same pom,Nil
+D012,Vatind,194,8.6,10.64,11.84,Nil,Nil
+D013,Mesfer,178,4.98,7.88,9.14,Nil,Nil
+D014,Humbru,34,4.56,4.68,4.68,Nil,Nil
+D015,Hydalp,39,9,9,9,Nil,Nil
+D016,Humbru,29,5,5.1,5.32,termite,Nil
+D018,Vatind,189,9.06,11.8,13.4,Nil,Nil
+D019,Dipind,64,7.36,7.8,7.86,Liana,Nil
+D020,Dipind,39,3.32,3.34,3.34,Nil,Nil
+D021,Myrdac,54,2.72,4.3,4.34,Nil,Nil
+D022,Humbru,34,3.38,3.36,3.36,near D493; branches dries off,Nil
+D023,Casova,44,6.22,6.34,6.36,Nil,Nil
+D025,Kneatt,94,10.28,10.4,10.4,Near D494,Nil
+D026,Vatind,300,1.8,6.92,9,Nil,Nil
+D028,Myrdac,79,9.2,9.94,10,Nil,Nil
+D030,Kneatt,84,7,7.4,7.4,Nil,Nil
+D031,Garmor,34,7,7.02,7,Nil,Nil
+D033,Humbru,34,9.3,9.52,9.6,Nil,Nil
+D034,Vatind,89,2.64,2.72,2.68,liana,Nil
+D035,Humbru,34,1.18,1.2,1.2,some branch dries off previous years,Nil
+D037,Kneatt,69,8.74,9,9,big hole in the main trunk,Nil
+D038,Myrdac,54,14.06,14.72,15,Nil,Nil
+D039,Kneatt,54,11.14,11.24,11.28,Nil,Nil
+D040,Myrdac,29,9.18,9.9,10.08,Nil,Nil
+D041,Vatind,193,6.82,10.84,12.7,Nil,Nil
+D042,Palell,34,3.3,3.4,3.52,Nil,Nil
+D043,Mesfer,229,14.2,16,3.54,"""near D484; newbelt fixed at same pom",Nil
+D047,Crywig,55,3.78,4.1,4.1,liana,Nil
+D048,Dipind,34,6.42,6.82,6.88,Nil,Nil
+D049,Notbed,29,12.96,13.04,13.02,calamus,Nil
+D050,Vatind,279,7.68,16,8.1,newbelt fixed at same pom,Nil
+D051,Vatind,44,12.76,12.8,12.92,Near D560,Nil
+D053,Myrdac,44,11.24,12.38,12.62,Nil,Nil
+D054,Palell,44,14.32,15.3,1,near D496; Newbelt fixed at same pom,Nil
+D055,Mesfer,132,7.06,7.68,8.14,Nil,Nil
+D056,Humbru,34,5.38,5.7,6,fluted,Nil
+D057,Vatind,59,5.46,5.86,6.1,Nil,Nil
+D058,Vatind,114,10.36,12.08,12.92,Nil,Nil
+D059,Mesfer,99,4,5.34,5.8,near D535,Nil
+D060,Dipind,288,14.2,14.64,14.98,Nil,Nil
+D061,Humbru,29,5.16,5.34,5.28,Nil,Nil
+D062,Gartal,29,11.44,12,12.58,near D498,Nil
+D063,Humbru,49,-999,2.12,2.2,trunk partially damaged previous years,Nil
+D064,Mesfer,159,9.62,11,11.74,fluted,Nil
+D065,Dipind,49,8.52,8.8,8.88,Nil,Nil
+D066,Myrdac,39,9.6,11.18,11.7,Nil,Nil
+D067,Myrdac,68,6.28,10.18,8.8,Nil,Nil
+D069,Mesfer,68,4.64,7.32,8.6,Nil,Nil
+D070,Humbru,29,5.4,5.48,5.7,liana,Nil
+D071,Dipind,29,3.04,3.14,3.1,Liana,Nil
+D072,Mesfer,70,5.86,7.4,9,near D497; near 528?,Nil
+D073,Myrdac,49,9.38,12,13.26,Near 528,Nil
+D081,Notbed,34,6.16,6.54,6.34,Nil,Nil
+D082,Vatind,329,4.38,11.5,14.84,near D541;,Nil
+D083,Humbru,34,2.58,2.82,2.64,tp @ 7 m,Nil
+D084,Lopwig,0,6.8,12.84,16,fluted; Newbelt to be fixed,Nil
+D085,Vatind,84,8.46,9.54,9.92,Nil,Nil
+D086,Dipind,34,7.2,7.2,7.28,Nil,Nil
+D087,Myrdac,54,10.58,11.42,11.6,Nil,Nil
+D090,Myrdac,44,6.94,7.7,8.12,Nil,Nil
+D091,Syzgar,39,7,7.46,7.62,Nil,Nil
+D092,Vatind,89,8.4,10.88,12.06,Nil,Nil
+D093,Myrdac,39,2.62,3.02,3.08,Nil,Nil
+D096,Vatind,0,5.1,12.1,16,pom to be changed with ladder; newbelt to be fixed,Nil
+D097,Myrdac,49,11,12.3,12.4,Nil,Nil
+D098,Vatind,99,5.3,6.16,6.6,Nil,Nil
+D099,Myrdac,39,10.08,10.46,10.68,Nil,Nil
+D100,Vatind,54,3.92,4,4.08,Nil,Nil
+D101,Vatind,69,5.36,8.38,9.6,near D529,Nil
+D102,Gartal,29,7.06,7.54,7.44,Nil,Nil
+D104,Palell,154,7.5,7.2,6.84,near D602; tp @ 20 m ; less branches,Nil
+D105,Crywig,79,4.26,4.76,5.08,termite attack,Nil
+D107,Vatind,34,7.34,7.62,7.7,Nil,Nil
+D108,Syzgar,58,1.24,1.64,1.58,near D499,Nil
+D109,Diosyl,54,9.4,10.32,10.24,Nil,Nil
+D111,Vatind,68,14.06,15.4,2.34,newbelt fixed at same pom,Nil
+D112,Vatind,123,6.06,9.24,10.34,Nil,Nil
+D113,Myrdac,48,2.4,3.68,3.5,Nil,Nil
+D114,Vatind,44,10.74,10.82,10.84,Nil,Nil
+D115,Herpap,109,0.06,2.94,3.8,belt disturbed; fixed at same pom,Nil
+D122,Mesfer,124,14.74,16,2.54,newbelt fixed at same pom,Nil
+D123,Herpap,34,7.3,9.22,9.94,Nil,Nil
+D125,Hydalp,74,2.28,2.3,2.4,Nil,Nil
+D126,Dipind,114,3.42,3.54,3.62,Nil,Nil
+D127,Mesfer,64,2.96,3.1,3.18,liana,Nil
+D128,Myrdac,29,6.82,7.28,7.42,Nil,Nil
+D129,Kneatt,49,6.56,7.18,7.2,Nil,Nil
+D130,Kneatt,54,6,6.18,6.2,Nil,Nil
+D131,Humbru,29,2.68,2.8,2.78,Nil,Nil
+D132,Kneatt,79,9.78,10.34,10.2,Nil,Nil
+D133,Syzgar,64,12.44,13.28,13.68,Nil,Nil
+D134,Mesfer,59,7.16,7.52,7.84,Nil,Nil
+D135,Casova,29,3.74,3.8,3.86,Nil,Nil
+D137,Kneatt,74,12.8,14,14.04,Nil,Nil
+D139,Vatind,189,0.8,3.82,5,Nil,Nil
+D140,Hydalp,89,7.58,8.06,8.12,Nil,Nil
+D141,Dipind,304,11.08,11.84,12.54,Nil,Nil
+D143,Vatind,44,6.54,6.54,6.64,Nil,Nil
+D145,Vatind,148,4,5.4,5.82,Nil,Nil
+D147,Kneatt,29,7.6,7.62,7.66,Nil,Nil
+D148,Gartal,134,-999,-999,-999,main trunk damaged; dead previous year,Nil
+D149,Lopwig,29,6.58,6.8,6.2,Nil,Nil
+D151,Kneatt,44,3.98,4,4,Nil,Nil
+D152,Gartal,29,3.1,3.36,3.34,Nil,Nil
+D153,Vatind,137,4,4.6,4.96,Nil,Nil
+D155,Mesfer,74,1.1,1.24,1.34,Nil,Nil
+D158,Syzgar,85,2,2,3.38,near D501,Nil
+D160,Myrdac,59,9.64,10,10.16,Nil,Nil
+D161,Myrdac,39,6.84,7.04,7.36,Nil,Nil
+D162,Myrdac,54,9.64,9.7,9.98,Nil,Nil
+D163,Humbru,34,1.44,1.46,1.4,tp @ 8 m,Nil
+D164,Vatind,194,14.92,15.6,1.84,newbelt fixed at same pom,Nil
+D165,Kneatt,0,14.8,15.64,-999,Belt missing; girth 70; Newbelt to be fixed,Nil
+D167,Vatind,105,9.06,12.34,12.6,Nil,Nil
+D168,Myrdac,54,4.56,4.8,4.96,Nil,Nil
+D169,Dipind,240,7.2,7.9,8.58,ladder may not require; termite,Nil
+D171,Myrdac,79,8.06,8.84,9.2,Nil,Nil
+D174,Hydalp,54,10.62,11.34,11.42,Nil,Nil
+D175,Arthir,44,6.8,6.78,6.8,Nil,Nil
+D176,Hydalp,54,7.84,8.2,8.26,Nil,Nil
+D177,Hydalp,89,4.46,5.94,6.8,Nil,Nil
+D178,Vatind,34,1.28,1.28,1.28,small climbers,Nil
+D179,Vatind,84,13.4,13.7,13.9,Nil,Nil
+D180,Herpap,185,5.32,8.88,10,termites,Nil
+D182,Myrdac,59,10.68,10.98,11.08,Nil,Nil
+D183,Myrdac,78,5.5,5.6,7.22,Nil,Nil
+D184,Dipind,301,5.9,9.34,11,Nil,Nil
+D185,Vatind,49,5.56,6.82,5.58,Nil,Nil
+D186,Myrdac,64,4.74,4.92,7.96,"""near D503",Nil
+D187,Vatind,109,9.04,9.8,10.24,Nil,Nil
+D188,Mesfer,34,9.96,10.5,10.86,termites,Nil
+D189,Vatind,193,5.74,8.92,10.26,Nil,Nil
+D190,Palell,44,4.52,4.92,4.78,near D502,Nil
+D191,Calpol,130,5.4,7.24,8.06,termites,Nil
+D193,Vatind,107,13.7,16,4.6,newbelt fixed at same pom,Nil
+D194,Dipind,209,4.4,5.34,5.96,Nil,Nil
+D195,Vatind,74,4.18,4.8,4.86,near D504,Nil
+D197,Holfer,87,3.88,4.3,4.52,near D504,Nil
+D198,Garmor,54,10.08,10.78,11,Nil,Nil
+D199,Hydalp,34,3.4,3.8,4.2,near D206; spring cut; belt refixed at same pom,Nil
+D200,Vatind,79,7.38,8,9.42,Nil,Nil
+D201,Palell,34,4.8,4.92,5.02,Nil,Nil
+D202,Kneatt,54,7.52,8.38,8.54,near 504,Nil
+D203,Syzgar,59,11.02,11.94,11.8,Nil,Nil
+D204,Myrdac,29,14.34,15.4,15.2,Nil,Nil
+D205,Syzgar,179,8.14,8.6,8.88,Nil,Nil
+D206,Vatind,264,3.44,-999,8.58,ladder; near 199/194,Nil
+D207,Syzgar,64,9.1,9.34,9.36,termites,Nil
+D208,Hoppon,75,1.2,3,3.64,Nil,Nil
+D209,Vatind,34,9.82,9.94,9.84,calamus,Nil
+D210,Dryela,79,1.18,1.22,1.26,Nil,Nil
+D211,Gartal,114,4.62,4.42,4.7,termites,Nil
+D212,Lopwig,84,14.92,16,1.56,newbelt fixed at same pom,Nil
+D213,Vatind,39,3.16,3.1,3.18,Nil,Nil
+D214,Myrdac,59,8.36,8.46,8.74,Nil,Nil
+D215,Myrdac,55,6.38,7.6,7.94,Nil,Nil
+D216,Myrdac,64,7,7.9,8,Near D576,Nil
+D217,Hoppon,59,2.86,3,3.06,climber,Nil
+D218,Kneatt,69,15.06,16,1.18,Newbelt to be fixed,Nil
+D219,Vatind,64,2.48,2.52,2.54,Nil,Nil
+D220,Manind,54,5.74,5.76,5.8,termites,Nil
+D221,Syzgar,184,8.7,9.58,9.94,Nil,Nil
+D223,Vatind,171,3.28,5.54,6.82,Nil,Nil
+D224,Vatind,147,3.86,4.96,5.66,belt no wrong 221,Nil
+D225,Myrdac,109,8.72,9.3,9.82,near D236; two branches: girth 72.4,Nil
+D231,Vatind,220,2.4,8.88,12.52,Nil,Nil
+D234,Myrdac,34,11.84,12.46,12.64,Nil,Nil
+D236,Garmor,39,12.78,12.78,12.82,near D505; near D240 (previously near D235),Nil
+D238,Myrdac,44,1.4,1.54,1.8,Nil,Nil
+D239,Mesfer,97,14.82,16,2.64,newbelt fixed at same pom,Nil
+D240,Vatind,0,13.2,14.84,16,climber; new belt to be fixed,Nil
+D241,Vatind,150,9.52,13.92,3.82,near D506; Newbelt fixed at same pom,Nil
+D243,Myrdac,54,15.6,16,1.2,near D536 & D542; Newbelt fixed at same pom,Nil
+D245,Hydalp,29,4.68,4.8,4.82,Nil,Nil
+D246,Mesfer,29,1.02,1.42,1.8,Nil,Nil
+D247,Kneatt,54,13.58,13.9,13.74,Nil,Nil
+D249,Vatind,83,7.72,7.9,7.94,Nil,Nil
+D250,Myrdac,29,10.54,11.2,11.44,liana,Nil
+D251,Palell,54,2.74,2.8,2.84,Nil,Nil
+D252,Vatind,74,10.08,10.14,10.28,Nil,Nil
+D253,Vatind,131,12.3,12.34,12.36,Near D530,Nil
+D255,Vatind,49,5.44,6.6,7.64,lot of climber on top; top prone,Nil
+D257,Diosyl,34,6.94,7.68,8.22,lot of climber on top,Nil
+D258,Myrdac,59,9.32,9.6,9.98,tp @ 10m,Nil
+D260,Garmor,45,3.84,5.1,5.52,Nil,Nil
+D262,Vatind,149,8.34,8.5,8.72,near D537,Nil
+D263,Humbru,44,12.04,12.4,12.48,Nil,Nil
+D264,Polcof,74,2.04,2.3,2,Nil,Nil
+D265,Gargum,88,3,3.92,4.1,Nil,Nil
+D266,Lopwig,62,4.36,5.3,5.6,Nil,Nil
+D267,Vatind,29,11.98,12,12,slanting; less branches,Nil
+D268,Humbru,29,10.4,11.24,10.46,near 613,Nil
+D269,Vatind,215,2.5,4.32,5.48,Nil,Nil
+D272,Arthir,34,6.44,6.72,6.94,top prone at 5m,Nil
+D274,Dipind,264,3.4,4.28,4.42,pom to be changed with ladder,Nil
+D276,Garmor,29,3.44,4.54,5,Nil,Nil
+D277,Vatind,103,5.46,6.98,8.24,near D507,Nil
+D279,Vatind,49,9,9.1,9.1,Nil,Nil
+D280,Hydalp,29,3.8,3.82,3.82,slanting,Nil
+D281,Myrdac,29,12.3,12.48,12.6,Nil,Nil
+D282,Hoppon,54,12.7,13.04,13.14,liana,Nil
+D283,Gartal,48,1,1.18,1.18,liana,Nil
+D286,Vatind,135,5.64,9.4,10.92,near D297,Nil
+D287,Vatind,54,3.12,4.48,5.08,Nil,Nil
+D288,Arthet,44,12.46,12.46,12.54,Nil,Nil
+D291,Humbru,29,4.48,5.04,5.2,near D510; climber load,Nil
+D292,Syzgar,129,13.9,14.1,14.2,Nil,Nil
+D293,Humbru,34,3.28,3.3,3.4,Nil,Nil
+D294,Myrdac,54,10.94,12.28,13.9,written as 291,Nil
+D295,Myrdac,41,7.36,7.46,7.44,Nil,Nil
+D297,Myrdac,69,5.82,6.08,6.14,near D286,Nil
+D298,Kneatt,78,0.92,0.72,0.82,near D511; liana,Nil
+D299,Myrmal,54,7.12,9.48,11,near D577,Nil
+D300,Syzgar,29,10.64,11.8,12.14,Nil,Nil
+D301,Calpol,124,8.28,9.1,9.46,near D561,Nil
+D303,Vatind,99,1.14,1.94,2.3,Near D509,Nil
+D304,Semaur,74,3.04,3,3.1,termite attack; Calamus on top,Nil
+D305,Vatind,29,7.74,7.76,7.74,liana ,Nil
+D308,Vatind,228,6.52,9.9,10.92,"near D543, 508",Nil
+D310,Hydalp,49,11.7,11.7,11.7,near D513; Near D508; Belt adjusted,Nil
+D311,Vatind,149,3.44,5.4,6.88,Nil,Nil
+D313,Humbru,34,4.92,5.12,5.26,calamus on top,Nil
+D314,Vatind,59,7.64,8.46,8.94,near D512,Nil
+D316,Hydalp,49,11.12,11.2,11.5,Nil,Nil
+D317,Lopwig,0,14,16,16,pom to be changed with ladder; ladder; newbelt to be fixed,Nil
+D318,Mesfer,142,7.58,11.6,12.9,Nil,Nil
+D320,Vatind,34,6.4,6.6,6.7,Nil,Nil
+D322,Garmor,59,7.48,7.7,7.84,near D544; (previously near D321- dead in 2018),Nil
+D323,Vatind,184,8.56,188.3,4,near D514; near D545; girth 188.3; newbelt fixed at same pom,Nil
+D326,Vatind,91,6.64,6.8,6.84,calamus on top; Near D545,Nil
+D328,Myrdac,189,4.8,-999,6.22,ladder; check spid?,Nil
+D329,Myrdac,39,5.92,5.96,6.04,Nil,Nil
+D330,Gartal,99,10.16,10.18,10.24,Nil,Nil
+D331,Hoppon,54,13.42,13.78,14.24,Nil,Nil
+D332,Myrdac,34,0.96,1,1,Nil,Nil
+D333,Gartal,49,8.2,8.32,8.34,Nil,Nil
+D334,Parpen,29,12.12,12.6,12.96,Nil,Nil
+D335,Mesfer,44,7.12,7.34,7.38,Nil,Nil
+D336,Mesfer,100,6.3,8.68,9.64,Nil,Nil
+D337,Mesfer,74,4.84,5.8,6.22,Nil,Nil
+D339,Gartal,114,9.74,10.36,10.86,near D562,Nil
+D341,Mesfer,0,11.36,14.38,15.64,near D547,Nil
+D342,Mesfer,74,3,5.12,5.8,Nil,Nil
+D343,Vatind,343,13.82,343,-2,near D546; Belt fixed at same pom; bark came off,Nil
+D345,Lopwig,44,7.4,8.68,9.26,Nil,Nil
+D346,Mesfer,34,7,7.4,7.8,spring cut; belt refixed; termites,Nil
+D347,Mesfer,39,11.56,12.16,12.52,Nil,Nil
+D348,Myrdac,29,5.34,5.58,5.64,Belt no 312,Nil
+D349,Vatind,163,4.7,6.8,8.5,Nil,Nil
+D350,Notbed,69,11.68,11.88,11.94,termites,Nil
+D351,Humbru,29,7.34,7.38,7.38,Nil,Nil
+D352,Mesfer,226,12.7,16,8.78,near D488; Newbelt fixed at same pom,Nil
+D354,Mesfer,29,1.1,2.82,3.4,Nil,Nil
+D355,Vatind,284,0,8.84,11.58,Nil,Nil
+D356,Mesfer,44,10.08,11.3,11.8,Nil,Nil
+D357,Myrdac,59,2.34,2.5,2.5,tp @ 10m,Nil
+D359,Garmor,39,5.96,6.2,6.4,Nil,Nil
+D360,Mesfer,85,5.9,7.26,7.9,Nil,Nil
+D361,Dipind,296,13.3,-999,1.62, ladder; belt fallen; Newbelt fixed at same pom,Nil
+D362,Mesfer,156,9.96,13.46,14.64,near D579,Nil
+D363,Vatind,124,6.8,9.68,11.4,Nil,Nil
+D364,Herpap,80,6.26,8.2,9.48,near D578,Nil
+D365,Mesfer,154,10.56,13.5,14.5,fluted,Nil
+D367,Humbru,39,8.4,8.6,8.74,near D407,Nil
+D370,Garmor,55,2.16,2.96,3.54,Nil,Nil
+D371,Humbru,29,3.42,3.6,3.64,Nil,Nil
+D372,Vatind,64,2.38,3.22,3.74,Nil,Nil
+D373,Dipind,34,11.6,12.32,12.6,Nil,Nil
+D374,Garmor,34,12.2,12.4,12.86,Nil,Nil
+D375,Beiwig,75,3.52,3.96,4.1,pom to be changed with ladder,Nil
+D378,Humbru,49,4.02,4,4.18,slanting; tree hole,Nil
+D379,Vatind,48,2.22,3.14,3.62,Nil,Nil
+D380,Hydalp,54,3,3,3.56,Nil,Nil
+D381,Myrdac,74,7.12,7.58,8.08,Nil,Nil
+D382,Humbru,34,9.6,10.42,11,Near D568,Nil
+D383,Humbru,49,-999,3,3.04,"tree hole; near D516, D592; written as 363",Nil
+D384,Palell,34,6.76,6.8,6.82,near D563,Nil
+D386,Mesfer,54,12.86,13,12.96,Nil,Nil
+D387,Dipind,44,4.34,5.64,6.12,Nil,Nil
+D388,Humbru,54,5.96,6.2,6.64,slanting,Nil
+D389,Notbed,34,12,12.3,2.24,Nil,Nil
+D390,Diosyl,29,6.6,6.82,6.64,climber,Nil
+D391,Kneatt,88,11.2,11.7,11.96,near D594 Aglbar?,Nil
+D393,Strcey,89,12.64,12.92,-999,dead; uprooted,Nil
+D394,Reiana,59,14.86,16,1.2,newbelt fixed at same pom,Nil
+D395,Hoppon,34,11.2,12.28,13,one branch dried; near D408,Nil
+D396,Humbru,44,8.6,8.66,8.8,near D568,Nil
+D397,Myrdac,65,7.64,9,9.84,near D564,Nil
+D398,Herpap,105,13.48,16,1,near D564; newbelt fixed at same pom,Nil
+D399,Myrdac,114,15.1,15,15,near D599,Nil
+D400,Dimlaw,34,11.3,12.22,12.08,Nil,Nil
+D401,Myrdac,94,10.3,10.72,10.8,Nil,Nil
+D402,Syzgar,134,13.7,15.8,1,"near D538, D549, D550, D548; Newbelt fixed @ same pom",Nil
+D407,Syzgar,61,12.64,13,13.44,"near D538, D549, D550",Nil
+D408,Dimlaw,34,5.94,5.98,6,Near D395,Nil
+D409,Dryela,130,0.4,2,2.3,D599; paint no. 403,Nil
+D411,Syzgar,83,7.72,8.94,9.18,Nil,Nil
+D414,Myrdac,138,10.72,11.48,11.8,near D491 multi stem; refix another branch at 65 cm,Nil
+D418,Myrdac,79,12.58,12.62,12.68,climber on top,Nil
+D422,Humbru,29,13.7,14,14.06,near D519,Nil
+D424,Dipind,152,5.14,9.5,10.86,"near D520, D551",Nil
+D425,Notbed,74,0.9,0.92,0.98,near D539; multiple stem G 41 cm,Nil
+D426,Myrdac,46,14,14.2,14.2,near D437,Nil
+D427,Hoppon,65,8.32,8.72,9.08,near D518,Nil
+D428,Humbru,39,10.8,11,11,near D554,Nil
+D429,Reiana,44,9,9,9.08,Nil,Nil
+D430,Reiana,64,15.08,64,0.42,newbelt fixed at same pom,Nil
+D431,Vatind,381,6,16,11.34,near D596; ladder; newbelt fixed at same pom; belt size?,Nil
+D432,Dimlaw,55,5.22,5.5,5.42,Spid confirmed as Dimlaw; previously as Dryela,Nil
+D437,Humbru,49,10.1,10.22,10.24,"near D532, D553, D580",Nil
+D439,Syzgar,97,11.8,12.14,12.42,Nil,Nil
+D440,Humbru,34,8.34,8.42,8.4,near D581; D524 ,Nil
+D445,Vatind,259,10.8,11.14,11.92,"near D555, D573; belt adjusted",Nil
+D446,Reiana,39,8.72,8.72,8.92,liana; D587,Nil
+D447,Humbru,29,4.46,4.56,4.62,"near D566, D597",Nil
+D450,Myrdac,83,14.88,16,5.3,near D557; Newbelt fixed at same pom,Nil
+D451,Beiwig,98,15,16,4.82,near D558; D598; Newbelt fixed at same pom,Nil
+D452,Syzgar,59,5.44,4.2,6.48,near D574,Nil
+D453,Dryela,78,3,4.74,5.46,Nil,Nil
+D455,Reiana,60,5.46,7.22,8,Near D601,Nil
+D459,Dryela,42,2.8,3.34,3.56,"top prone at 10 m; near D601, D523, D559,D590, D588, D589",Nil
+D463,Ptediv,106,2.74,3.92,4.94,Near D601,Nil
+D464,Parpen,,5.8,7.38,8.7,near D589,Nil
+D466,Dryela,59,9,10,11.14,near D567,Nil
+D467,Notbed,78,5,5.14,5.16,near D525,Nil
+D469,Humbru,49,11.26,11.96,12.06,Nil,Nil
+D470,Dryela,55,12.46,13.28,13.66,near D527,Nil
+D471,Dryela,44,10.04,12.98,12.88,fluted,Nil
+D472,Myrdac,148,15.08,15.22,0.82,fluted; Newbelt fixed at same pom,Nil
+D475,Arthet,107,6.6,9.34,10.8,"top prone,at 15m alive; D591, D590, D559",Nil
+D477,Kinpin,88,7,10.5,12.52,near D540,Nil
+D483,Humbru,62,2.14,3,3.4,near D477 x D575 near fallen tree,Nil
+D484,Humbru,29,4.94,5,5,near D043; top broken at 8m,Nil
+D485,Hydalp,69,8.44,8.46,8.52,near D050; main trunk partially damaged,Nil
+D486,Humbru,29,5.54,5.62,5.62,near D050; tp@ 7m,Nil
+D488,Gartal,100,2.4,103,3.54,near D352; Newbelt fixed at same pom,Nil
+D491,Holgra,71,11.8,12.8,12.92,"near D428, D599, D595",Nil
+D492,Humbru,30,0.16,0.3,0.32,near D004; top broken,Nil
+D493,Humbru,31,0.7,0.8,0.86,near D022,Nil
+D494,Diopru,30,0.94,0.94,0.94,near D025 (previously near D024),Nil
+D496,Humbru,30,1.6,1.76,1.8,near D054,Nil
+D497,Oledio,30,12.92,12.92,12.92,near D072,Nil
+D498,Myrdac,46,14.16,15.5,1.34,near D062; Newbelt fixed at same pom,Nil
+D499,Humbru,30,1.1,1.18,1.2,near D108,Nil
+D501,Kneatt,31,1,1.02,1,near D158; (previously near D157),Nil
+D502,Kneatt,31,4.44,5.06,5,near D190,Nil
+D503,Hydalp,30,0.46,0.42,0.54,near D186,Nil
+D504,Myrdac,30,13.14,14,14.18,near D202/197; (previously D196),Nil
+D505,Kneatt,44,2,3.1,3.76,near D236,Nil
+D506,Kneatt,30,6.52,6.58,6.58,near D241; liana,Nil
+D507,Humbru,30,0.5,0.54,0.36,near D277,Nil
+D508,Hoppon,33,5.36,5.8,6,near D308,Nil
+D509,Myrdac,33,11.44,11.8,12,near D303,Nil
+D510,Vatind,45,3,3.72,4.34,near D291,Nil
+D511,Vatind,30,9.36,10.24,10.82,near D298,Nil
+D512,Garmor,46,14.24,15.5,1.9,near D314; newbelt fixed @ same pom,Nil
+D513,Gargum,46,14.34,16,1.8,near D310; newbelt fixed @ same pom,Nil
+D514,Humbru,30,4.58,5.14,5.4,near D323,Nil
+D516,Syzgar,40,1.52,3.3,3.68,near D383,Nil
+D517,Myrdac,37,11.96,12.06,12.08,near D414,Nil
+D518,Dryela,49,3.74,4.24,4.26,"near D427; writen as 578, D584, D585, D583",Nil
+D519,Humbru,32,11.3,11.92,11.8,near D422,Nil
+D520,Memmac,51,6.7,6.72,6.72,near D424 & D551 & D552; D571?,Nil
+D523,Humbru,31,5.42,-999,6.04,slanting,Nil
+D524,Humbru,30,2.8,3.22,3.42,near D440,Nil
+D525,Cinsp1,132,6.2,15.5,3.2,near D459; newbelt fixed at same pom,Nil
+D527,Reiana,32,1.36,2.9,3.68,near D470;,Nil
+D528,Arthet,30,6.66,9.1,9.82,near D073; near D081?; (previously near D075),Nil
+D529,Hoppon,31,3.44,3.5,3.54,near D101,Nil
+D530,Syzlae,30,1.8,1.82,1.86,near D253; climber,Nil
+D532,Diobou,46,9.86,11.62,11.8,"near D437, cankar; scale not clear",Nil
+D535,Garmor,29,4.54,5.18,5.4,near D059,Nil
+D536,Garmor,29,2.48,2.52,2.6,near D243,Nil
+D537,Garmor,29,2.58,2.58,2.08,near D262,Nil
+D538,Dryela,29,4.9,5.74,6.58,near D362,Nil
+D539,Hoppon,32,9.9,11,11.64,near D425,Nil
+D540,Reiana,47,11.86,13.22,14,near D477,Nil
+D541,Humbru,30,1.72,3.6,3.16,near D082; slanting,Nil
+D542,Garmor,30,5.76,5.82,5.96,near D243,Nil
+D543,Humbru,30,1.64,1.92,2.18,near D308,Nil
+D544,Myrdac,30,3.8,4.8,5.42,near D322 (previously D321),Nil
+D545,Humbru,30,0.5,0.6,0.64,near D323/326; (previously D325),Nil
+D546,Syzgar,32,8.76,9.96,10.34,near D343,Nil
+D547,Garmor,30,7.4,8.58,8.98,near D341,Nil
+D548,Holnig,30,0.74,0.78,0.84,near D364/402? (previously D405),Nil
+D549,Notbed,30,2.7,3.64,3.58,near D364/ 407? (previously D406); slanting,Nil
+D550,Gartal,30,0.86,0.84,1.16,near D364/407? (previously D406),Nil
+D551,Baccou,31,5,5.18,5.28,near D520; termites; calamus,Nil
+D552,Manind,54,1.2,3.7,3.8,near D520,Nil
+D553,Notbed,31,3.42,3.46,3.48,near D437 (previously D436),Nil
+D554,Notbed,30,6.8,7.82,8.6,near D428,Nil
+D555,Reiana,31,5.48,4.58,4.78,near D445; calamus liana,Nil
+D556,Palell,31,7.82,7.84,7,near D452; stand dead,Nil
+D557,Reiana,30,8.46,10.5,11.4,near D450,Nil
+D558,Reiana,30,4.54,4.84,4.84,near D451,Nil
+D559,Lepcau,30,8.86,9.18,9.98,near D459/463 (previously D460); top prone 4 m alive,Nil
+D560,Palell,31,4.56,5.6,6.1,near D051,Nil
+D561,Humbru,29,4.44,4.92,5.12,near D301; climber on blet; no need measure girth; check for alive,Nil
+D562,Palell,29,2.14,2.58,2.46,near D339; less branches & leaves,Nil
+D563,Dipind,31,4.7,6.2,6.74,near D384,Nil
+D564,Dimlaw,29,2.14,2.54,2.7,near D397; D398,Nil
+D566,Palell,29,5.62,6.7,7.72,near D447,Nil
+D567,Humbru,29,3.18,3.42,3.5,near D466,Nil
+D568,Garmor,32,2.3,2.6,2.8,near D396; 382?,Nil
+D571,Humbru,31,2.84,3,3.2,near D520; Belt no 578; written as 577,Nil
+D572,Aglper/can,32,5.18,7.2,8.14,near D600; D437; D581; D432; D431; near 581,Nil
+D573,Palell,32,5.08,5.7,5.74,near D445,Nil
+D574,Humbru,31,1.42,1.42,1.4,Check girth 31 or 34; near D452; belt no. 547,Nil
+D575,Holnig,0,31,44.1,-999,near D483; alive;SpID previously as Garmor; near D540; no belt; Girth 44.1; missing,Nil
+D576,Palell,,0.88,1.04,1.32,near D216; near D223,Nil
+D577,Calpol,30,0.94,1.36,1.5,near D299; D300,Nil
+D578,Dioass,31,0.94,1.3,1.4,near D364; Recruitment 2014,Nil
+D579,Palell,0,31.3,1.36,1.4,Girth reading 31.3; belt no D594; near 362; 363,Nil
+D580,Gartal,30,0.8,0.8,0.94,"near D 432 D367, D365",Nil
+D581,Diobou,31,10.32,13.52,14.92,near D566; D432,Nil
+D582,Humbru,34,1.92,1.9,1.92,near        slanting,Nil
+D583,Dimlaw,30,-0.1,-0.8,-0.4,near         Recruitment 2014; previously in P9Q59,Nil
+D584,Cromal,0,6.68,14.13,16,near D518; belt removed; newbelt to be fixed,Nil
+D585,Myrdac,31,2.7,4.4,4.86,near D518,Nil
+D587,Isolan,31,,-999,1.68,near        previously identified as Blaumb. Belt fixed ,Nil
+D588,Macpel,49,7.82,16,5.1,"near 524,459, 475, 477; newbelt fixed at same pom",Nil
+D589,Blaumb,31,2.34,3.22,3.32,"near 588/ 524?,459, 475, 477",Nil
+D590,Kneatt,32,1.7,1.9,6.06,"near 524,459, 475, 477; Belt disturbed and fixed at same pom",Nil
+D591,Vatind,50,2.3,3.92,5.2,near D 475,Nil
+D592,Gartal,29,2.66,2.8,3.88,near D383; Previously identified as Garmor,Nil
+D593,Vatind,29,4.1,5.56,6.1,"D395, D409",Nil
+D594,Aglbar,30,5.8,7,7.4,near D390/391; belt no. 557; calamus,Nil
+D595,Semaur,31,5.7,9,10.08,"near 391, 396; belt no 591; written as 589/595; calamus",Nil
+D596,Dimlaw,29,2.4,2.52,2.46,near D431; D430; D432;517,Nil
+D597,Humbru,,0.96,-999,1.12,near D447; belt no 571; written as 597,Nil
+D598,Dimlaw,,2.06,-999,3.02,near 430,Nil
+D599,Diopru,31,1.28,2.4,2.2,"near D491, D409, D399",Nil
+D600,Diosyl,31,4.4,7.16,7.74,"near D432 & D445, D581, D572, D566",Nil
+D601,Maltet,48,12.44,16,10.14,"Near D463, D453, D459; Newbelt fixed at same pom",Nil
+D602,Humbru,29,0.92,2,2.9,"near D104; rec 2019, near 97",Nil
+D603,Vatind,30,0.8,0.9,0.84,near D247; rec2019,Nil
+D604,Myrdac,35,0,0.72,0.82,near D276; rec 2019,Nil
+D605,Humbru,29,1.2,2,2.4,near D265; rec 2019,Nil
+D606,Garmor,31,2.2,2.4,2.58,near D266; rec 2019,Nil
+D607,Garmor,32,0,32.3,1.38,near D299; rec 2019; newbelt fixed at same pom,Nil
+D608,Humbru,29,1.8,2.2,2.6,near 395/508 (previously D393); rec 2019,Nil
+D609,Macpel,45,10.44,16,6.92,near D459; rec 2019; Newbelt fixed at same pom,Nil
+D610,Humbru,29,2,2.14,2.02,near D463; rec 2019,Nil
+D611,Caltom,29,2.6,7.5,9.8,near D589; rec 2019; near 459; sp id changed from Macpel in 2022,Nil
+D612,Humbru,31,,31,1,near D603,Nil
+D613,Caltom,30,,30.5,0,"near 268, 264; belt no.611",Nil
+D614,Lopwig,30,,30.3,4,near 391,Nil
+D615,Myrdac,0,,32,-999,"near 391, 393 not available; missing in 2022",Nil
+D616,Humbru,0,,30.8,-999,"near 391, 393 not available; missing in 2022",Nil
+D617,Marind,31,,31,1.62,near 582; 399,Nil
+E002,Dryela,44,14.4,16,2.92,Near 551; New belt fixed at same pom,Nil
+E003,Vatind,34,3.48,3.66,4,top prone at 10 m,Nil
+E004,Vatind,110,9.3,12.1,14.6,Nil,Nil
+E005,Myrdac,44,10.22,13,13.8,near 551,Nil
+E006,Vatind,54,11.6,11.8,12,Nil,Nil
+E007,Dryela,121,9.28,12.14,13.04,fluted; better to change pom with ladder,Nil
+E008,Vatind,49,11.62,13.64,14.42,Nil,Nil
+E010,Dryela,49,2.46,3,3.02,irregular; tp @ 6m alive; slanting,Nil
+E011,Kneatt,34,11.86,12.3,12.34,"""main trunk top prone 5mt",Nil
+E012,Notbed,59,2,2.4,2.76,Nil,Nil
+E013,Kneatt,54,8.42,11.24,12.26,Nil,Nil
+E016,Kneatt,49,12.68,14.42,14.9,Nil,Nil
+E017,Myrdac,123,4.2,5.34,6.14,Nil,Nil
+E020,Myrdac,110,2.56,4.46,5.14,near E556; fluted; better to change pom with ladder,Nil
+E022,Vatind,203,9.38,16,7.9,near E447; Newbelt fixed at same pom,Nil
+E024,Vatind,98,7.82,8.8,9.96,Nil,Nil
+E025,Reiana,59,0.4,1.46,2.34,irregular,Nil
+E026,Reiana,64,7.4,7.52,7.74,fluted,Nil
+E027,Dryela,72,3.26,4.34,4.76,fluted,Nil
+E028,Humbru,34,5.3,4.28,4.38,Nil,Nil
+E029,Reiana,74,5.16,5.82,6.14,irregular,Nil
+E031,Dryela,99,2.88,3.74,4,"""irregular; E559",Nil
+E033,Reiana,52,1.72,2.3,2.36,E552 but written as E559; near E448,Nil
+E036,Vatind,124,3.5,3.72,3.84,top prone at 8 m sprouts,Nil
+E037,Parpen,99,7.96,9,9.94,termite attack,Nil
+E038,Dipind,389,8,9,9.26,Belt disturbed & refixed at same pom,Nil
+E039,Reiana,34,2.66,2.78,3,Nil,Nil
+E040,Syzgar,0,12.48,16,-999,Newbelt to be fixed; Girth 136,Nil
+E041,Humbru,44,8.84,8.8,8.84,Nil,Nil
+E042,Vatind,94,4.28,4.68,5,Nil,Nil
+E043,Myrdac,94,14.7,16,1.64,Newbelt to be fixed,Nil
+E045,Palell,34,2.62,4.62,2.66,liana,Nil
+E048,Hoppon,89,10.04,10.4,10.24,irregular,Nil
+E049,Vatind,149,4.66,5.1,5.4,Nil,Nil
+E050,Litole,54,9.32,10.26,10.88,Nil,Nil
+E051,Dipind,84,8.72,10.78,12.4,slanting; belt disturbed & refixed,Nil
+E052,Garmor,49,7.66,8.1,8.2,Nil,Nil
+E053,Vatind,183,4.7,11.28,13.9,Nil,Nil
+E054,Humbru,34,2.38,-999,2.4,slanting,Nil
+E056,Kneatt,49,12.62,14.24,15.1,liana infestation,Nil
+E058,Vatind,143,12.62,12.62,12.6,Nil,Nil
+E059,Humbru,34,6.48,6.5,6.5,4 m top bend; slanting,Nil
+E060,Kinpin,44,8,9.76,10.12,Nil,Nil
+E062,Myrdac,59,11.44,11.46,11.5,tp @ 4 m,Nil
+E064,Kneatt,74,9.94,10,10.44,slanting near E66,Nil
+E065,Humbru,44,3.94,4.46,5.18,spid change Myrdac; previously Humbru,Nil
+E066,Dimlaw,30,3.62,4.3,4.3,slanting,Nil
+E067,Notbed,34,11.2,11.38,11.52,"near E543, E544",Nil
+E068,Manind,94,6.72,9.38,9.8,liana,Nil
+E073,Dryela,89,8.4,10.18,11.38,Nil,Nil
+E074,Kneatt,104,13.02,14.18,14.2,termite attack,Nil
+E075,Micwal,39,7.04,7.08,7.14,Nil,Nil
+E076,Euoind,49,10.82,10.8,10.84,slanting; trunk damage @ 0.5 m; alive E541,Nil
+E079,Vatind,0,10.94,16,-999,better to change with ladder; newbelt to be fixed; Girth 148.5,Nil
+E080,Kneatt,0,13.12,15.2,-999,near chablis; Girth 60.02; belt missing,Nil
+E081,Blaumb,39,4.82,4.82,5.52,slanting; on the ground; belt refixed,Nil
+E082,Palell,34,11.8,4.34,13.04,Nil,Nil
+E083,Dryela,89,11.52,11.82,12.3,fluted,Nil
+E084,Vatind,75,8.1,11.84,13.56,near E518 & E520; E542,Nil
+E085,Reiana,54,4.88,5,5.02,Nil,Nil
+E087,Diogha,69,7.94,7.92,8.34,tp @ 25 m; alive with offshoots,Nil
+E089,Chrrox,54,9.64,12.14,13.74,Nil,Nil
+E090,Kinpin,170,8.58,10.6,12.64,Nil,Nil
+E099,Vatind,34,9.26,12.2,12.98,near E518,Nil
+E100,Vatind,39,1.68,3.54,4.64,"""top prone at 3m",Nil
+E103,Myrdac,94,0.52,1.1,1.32,top broken tree alive,Nil
+E105,Cinsp1,84,5,7.56,8.18,Nil,Nil
+E107,Parpen,70,2.72,-999,3.18,tp @ 17 m; ailve; no crown; offshoots,Nil
+E109,Reiana,60,11.26,-999,13.46,Nil,Nil
+E110,Reiana,81,3.24,3.72,4.1,fluted; pom to be changed with ladder; branches drying; less leaves,Nil
+E111,Garmor,49,3.7,4.8,5.46,no change in the pom,Nil
+E113,Dryela,34,8.16,8.34,8.4,Nil,Nil
+E114,Dimlaw,59,6.86,7.36,7.22,Nil,Nil
+E117,Vatind,29,7.18,9.16,10,fluted,Nil
+E118,Polfra,144,5.64,6.06,6.12,irregular; termite; Bark peeling,Nil
+E119,Kneatt,29,11.06,-999,-999,missing,Nil
+E120,Vatind,0,9.82,16,-999,Newbelt to be fixed; Girt 299.2,Nil
+E121,Diosyl,31,1.2,1.2,1.22,Nil,Nil
+E122,Palell,29,11.74,12.72,13.04,E545,Nil
+E123,Reiana,34,4,4.78,4.78,Nil,Nil
+E125,Syzgar,39,0.64,0.8,0.82,Nil,Nil
+E126,Holnig,59,7.24,8.64,10,Nil,Nil
+E127,Myrdac,89,11.46,12.08,12.34,Nil,Nil
+E128,Parpen,129,2.34,1.3,1.34,fluted; offshoots,Nil
+E129,Dryela,69,14.32,16,8.24,fluted; new belt to be fixed,Nil
+E130,Humbru,34,3.4,3.4,3.44,top prone at 4 m,Nil
+E134,Myrdac,102,0.6,3.58,4.62,near E450; E515,Nil
+E136,Myrdac,99,13.26,13.46,13.54,slanting; tp @ 6 m,Nil
+E137,Kneatt,73,9.4,10.58,10.72,near E478,Nil
+E143,Dryela,79,9.1,9.86,10.38,canopy disturbed; top prone 14 m,Nil
+E144,Crywig,74,1.52,2.64,3.26,near E517,Nil
+E145,Vatind,305,13.42,15.2,5.22,pom to be changed with ladder; newbelt fixed at same pom,Nil
+E146,Humbru,29,3.64,3.64,3.66,near E516,Nil
+E147,Reiana,74,8.34,8.6,8.76,fluted,Nil
+E148,Dryela,78,14.6,15.3,1.86,fluted; new belt fixed at same pom,Nil
+E150,Dryela,0,14.46,15.8,-999,near E513 & E514; newbelt to be fixed,Nil
+E151,Humbru,34,7.16,7.1,7.08,Nil,Nil
+E153,Humbru,41,7.24,7.28,7.3,near E453; liana,Nil
+E154,Humbru,45,0.4,0.4,0.42,"near E452; E521, E536; E558",Nil
+E157,Humbru,29,10.3,10.5,10.5,near E523; E479,Nil
+E165,Memmac,69,1.48,1.54,1.34,Nil,Nil
+E166,Myrdac,49,13.64,13.9,14,Nil,Nil
+E167,Humbru,29,8.5,8.9,8.82,slanting,Nil
+E169,Vatind,84,2.48,6.34,8.8,near E522,Nil
+E171,Humbru,29,5.94,5.1,5.1,Nil,Nil
+E172,Reiana,61,2.84,2.86,3,Nil,Nil
+E173,Micwal,49,11.02,11.16,11.26,Nil,Nil
+E174,Kneatt,106,3.58,3.58,3.56,"""near E486 & E525; liana occupied entire crown",Nil
+E175,Myrdac,102,2.8,3.64,3.94,near E508 & E509 & E524,Nil
+E177,Myrdac,79,15,15.5,0.42,newbelt fixed at same pom,Nil
+E180,Humbru,34,4.06,4,4.1,Nil,Nil
+E181,Reiana,34,11.64,12.34,13,Nil,Nil
+E182,Hoppon,173,10.44,13.8,14.72,Nil,Nil
+E183,Diobou,179,3.14,4.54,5,fluted,Nil
+E185,Myrdac,59,1.2,1.7,2.5,Nil,Nil
+E186,Vatind,242,0.82,5.6,7.9,Nil,Nil
+E187,Dryela,93,3.4,5.76,4.82,irregular,Nil
+E188,Mesfer,144,15.46,16,2.4,fluted; new belt fixed at same pom,Nil
+E189,Dimlaw,34,4.84,5.6,5.94,Nil,Nil
+E191,Palell,34,11.64,-999,14.36,chablis,Nil
+E192,Vatind,0,7.28,-999,-999,near E527; 64 girth,Nil
+E193,Myrdac,124,4.52,5.1,4.94,alive,Nil
+E194,Garmor,69,0.92,2,2.46,Nil,Nil
+E195,Dryela,29,9.15,10.1,10.92,Nil,Nil
+E196,Myrdac,99,13.38,14.8,14.76,Nil,Nil
+E197,Alpsp1,100,11.96,13.28,14.76,Nil,Nil
+E198,Strcey,29,10.9,10.88,10.9,tp @ 10 m; offshoots ; alive,Nil
+E201,Diobou,159,3.28,3.82,4.62,fluted,Nil
+E202,Myrdac,64,9.6,10.96,11.54,Nil,Nil
+E206,Rinben,54,15.46,16,2.96,near pom canker; belt fixed at same pom,Nil
+E207,Diobou,159,12.18,14,14.8,near E553; trunk hole < 5 m; fluted,Nil
+E215,Kneatt,88,6,6.72,7.16,near E454; E526 & E527,Nil
+E217,Humbru,44,1.8,1.8,2,"""alive; uprooted; fallen on ground",Nil
+E219,Arthir,148,6.2,10.72,13.36,Nil,Nil
+E220,Dipind,59,5.98,7.7,8.24,top broken; E538,Nil
+E224,Dimlaw,53,1.64,2.26,2.52,slanting,Nil
+E225,Diogha,0,0.2,0.8,2.28,Newbelt to be fixed at 20 cm above pom; Girth 48,Nil
+E226,Humbru,29,8.54,9.2,9.44,Nil,Nil
+E227,Kneatt,69,12,12.78,12.6,near E488,Nil
+E228,Reiana,44,7.92,8.24,8.58,irregular; liana,Nil
+E229,Reiana,94,10.82,11.8,12.1,fluted,Nil
+E230,Syzgar,45,3.4,3.4,3.44,Nil,Nil
+E231,Kinpin,78,9.9,11.1,11.62,Nil,Nil
+E232,Reiana,99,6.84,8.1,9.34,fluted,Nil
+E234,Dipind,156,9.8,12.42,13.84,E554,Nil
+E235,Reiana,50,10.46,11.8,12.4,near E506,Nil
+E237,Hydalp,29,14.26,14.8,14.6,Nil,Nil
+E238,Dryela,88,5.94,7.5,7.8,fluted,Nil
+E239,Canstr,39,13.6,13.8,13.8,Nil,Nil
+E240,Cinsp1,49,8.2,9.4,9.48,Nil,Nil
+E241,Parpen,39,11.8,13,13.24,near E504,Nil
+E242,Memmac,74,3.26,3.38,3.38,standing dead,Nil
+E244,Vatind,419,4.48,-999,4.68,Near E548; newbelt fixed at same pom,Nil
+E247,Vatind,269,11.2,16,5.42,New belt fixed at same pom,Nil
+E250,Notbed,74,2.1,2.92,3.18,near E507; fluted; E554,Nil
+E256,Otosti,46,8.16,10,11.08,Nil,Nil
+E257,Vatind,189,10,11.44,12.44,near E456,Nil
+E258,Humbru,34,2.9,3.22,3.3,near E505; E539,Nil
+E259,Notbed,34,10.9,10.9,10.94,Nil,Nil
+E260,Dipind,34,8.7,9.78,10,near E529,Nil
+E261,Dipind,308,6.5,8.12,8.92,pom to be changed with ladder,Nil
+E264,Diosyl,59,4.56,8.58,10.72,NEAR 529,Nil
+E265,Reiana,49,1.34,1.96,2.52,Nil,Nil
+E266,Vatind,101,13.92,16,4,near E530; liana; newbelt fixed at same pom,Nil
+E267,Diosyl,64,15.2,16,0.02,pom changed 30 cm above previous pom; newbelt fixed,Nil
+E268,Notbed,69,2.62,3.3,3.54,near E489 & E531,Nil
+E270,Humbru,29,6.54,6.7,6.72,Nil,Nil
+E271,Vatind,152,2.48,4.88,6.2,Nil,Nil
+E274,Dipind,152,14.6,16,2.2,newbelt fixed at same pom,Nil
+E276,Humbru,29,1.12,1.08,-999,dead previous year,Nil
+E278,Syzlae,54,0.2,0.4,0.48,Nil,Nil
+E281,Myrdac,71,10.84,11.7,14.8,Nil,Nil
+E283,Dimlon,59,6.86,11.54,13.56,Nil,Nil
+E284,Memmac,60,4.82,8.1,9.56,Nil,Nil
+E292,Homzey,243,15.8,-999,-0.2,irregular; new girth 243.2; Newbelt fixed at same pom,Nil
+E295,Rinben,29,1.12,1.2,1.18,near E461 (previously near to E294),Nil
+E300,Dryela,129,13.3,13.76,13.68,near E501; E540; fluted,Nil
+E301,Reiana,54,4.94,5.2,5.22,near E490,Nil
+E302,Vatind,121,10.8,14.8,6,newbelt fixed,Nil
+E303,Beiwig,49,2.1,3.82,4.72,Nil,Nil
+E304,Humbru,29,3.94,4,4,Nil,Nil
+E307,Kneatt,39,13.1,13.32,13.48,Near E549,Nil
+E308,Notbed,49,9.9,12.06,12.64,Nil,Nil
+E309,Crywig,0,13.5,15.4,-999,belt missing; girth 105.2; Newbelt to be fixed,Nil
+E310,Aglbar,84,3.4,3.86,4.32,Nil,Nil
+E311,Humbru,29,5.44,5.44,5.46,near E459,Nil
+E312,Malphi,69,2.1,4.3,4.74,Nil,Nil
+E315,Dryela,79,7.9,10.3,11.2,near E464,Nil
+E316,Syzlae,0,15.46,15.6,-999,belt missing; girth 45.2; newbelt to be fixed,Nil
+E317,Humbru,44,11.92,11.8,11.82,Nil,Nil
+E318,Polcof,39,7.84,7.84,7.84,near E446 & E468 & E481,Nil
+E319,Garmor,29,9.94,11,11.96,liana loaded,Nil
+E321,Notbed,34,10.8,11.7,11.8,climbers,Nil
+E323,Diobou,29,8.6,9.5,9.54,Nil,Nil
+E324,Humbru,34,10.72,11.68,12.4,Nil,Nil
+E325,Holarn,74,5.46,6.9,7.9,top broken,Nil
+E326,Manind,50,4.08,5.08,5.4,Nil,Nil
+E328,Calpol,49,12.8,13.1,13.2,climber,Nil
+E329,Vatind,34,13.28,13.32,13.4,Nil,Nil
+E330,Humbru,49,7.54,8,8.4,Nil,Nil
+E331,Kneatt,45,5,5.6,5.62,Near E533,Nil
+E332,Vatind,39,12.74,12.98,12.74,Nil,Nil
+E333,Cinsp1,74,12.2,12.66,12.84,Nil,Nil
+E334,Dimlon,59,3.6,4.02,4.2,belt no 373,Nil
+E335,Vatind,48,10.26,11.84,12,Nil,Nil
+E336,Strcey,84,3,3.6,3.94,liana load,Nil
+E337,Vatind,407,13.4,15.8,1.22,irregular; Newbelt fixed at same pom,Nil
+E338,Polcof,49,13.82,15,15.24,climbers on top,Nil
+E339,Mesfer,29,10.08,10.4,10.42,Nil,Nil
+E340,Dipind,34,7.42,8.3,8.46,Nil,Nil
+E341,Baccou,29,6.92,7.22,7.42,Nil,Nil
+E342,Syzgar,59,4.76,6.8,7.34,Nil,Nil
+E343,Humbru,34,6.06,6.2,6.52,near E495,Nil
+E344,Notbed,39,6.4,6.46,6.42,Nil,Nil
+E345,Hoppon,85,5.72,5.72,5.74,near E465; fluted,Nil
+E351,Alpsp1,42,7.82,7.82,-999,near E467; climber; missing in 2022,Nil
+E352,Myrdac,39,15.2,15.2,-999,near E480; climber;  missing in 2022,Nil
+E353,Humbru,44,11.94,12.02,12.4,belt damaged,Nil
+E355,Myrdac,129,2.5,3.4,3.52,Nil,Nil
+E356,Reiana,69,2,2.24,3.1,fluted,Nil
+E357,Humbru,34,9.48,10.24,10.3,belt refixed,Nil
+E358,Kneatt,134,15.38,15.6,0.1,near E496; calamus; Newbelt fixed at same pom,Nil
+E359,Vatind,72,13.76,16,5,Newbelt fixed at same pom,Nil
+E360,Syzlae,29,9.68,9.8,10,near E471 & E472,Nil
+E361,Syzlae,34,8.94,9,9,near E473 & E492,Nil
+E363,Myrdac,64,5.5,6,5.8,uprooted; alive,Nil
+E364,Myrdac,90,1.52,2,2.36,Nil,Nil
+E365,Holfer,124,14.28,-999,-999,missing; fallen woodlogs; liana pull; not possible,Nil
+E366,Hoppon,39,7.92,8.24,8.8,climbers on top,Nil
+E368,Humbru,29,9.82,10.6,11.14,Nil,Nil
+E369,Humbru,64,7.04,7.28,7.38,Nil,Nil
+E370,Myrdac,89,5.32,6.18,6.42,Nil,Nil
+E371,Isolan,34,11.32,11.3,11.74,Nil,Nil
+E372,Humbru,29,11.84,13.28,14.12,Nil,Nil
+E373,Dipind,34,7.24,8.5,8.84,Nil,Nil
+E374,Dryela,139,11.02,11.8,12.22,Nil,Nil
+E377,Myrdac,74,15,16,1.84,Newbelt fixed at same pom,Nil
+E378,Garmor,29,13.48,14.5,15.34,Nil,Nil
+E379,Dipind,59,4.14,4.8,4.9,Nil,Nil
+E380,Vatind,69,11.3,11.84,12,Nil,Nil
+E382,Humbru,29,12.3,-999,14.22,Nil,Nil
+E385,Vatind,121,7,-999,-999,liana;missing,Nil
+E386,Vatind,80,10.46,12.3,13.02,Nil,Nil
+E387,Permac,179,14.42,16,1.64,newbelt fixed at below 30 cm of previous pom,Nil
+E388,Vatind,49,13.76,14.52,-999,near E484 (previously E389),Nil
+E389,Vatind,,,,15.22,Alive; tp @ 12 m,Nil
+E390,Vatind,50,14.1,16,3.62,Newbelt fixed at same pom,Nil
+E391,Vatind,142,9.6,12.74,14.62,Nil,Nil
+E392,Vatind,78,9.92,10,11.32,Nil,Nil
+E393,Vatind,29,6.8,6.64,7,liana,Nil
+E394,Myrdac,0,5.32,5.4,-999,main trunk tp @ 15 m no crown; G1- 48.5; G2-39.5; belt to be fixed @ 48 g,Nil
+E395,Myrdac,39,4.52,-999,-999,alive; not possible,Nil
+E396,Neopur,154,13.4,14.18,14.68,Nil,Nil
+E397,Vatind,117,6.56,7.8,8.88,Nil,Nil
+E398,Myrdac,59,2.92,3.2,3.28,Nil,Nil
+E399,Humbru,39,8.62,8.9,8.9,Nil,Nil
+E401,Vatind,52,2.4,2.8,2.64,uprooted; alive; fallen,Nil
+E402,Myrdac,59,10.36,13.4,14.56,Nil,Nil
+E403,Vatind,0,10.92,13.4,15.26,newbelt to be fixed; belt not removed,Nil
+E409,Dipind,310,1.7,3,3,Nil,Nil
+E411,Myrdac,84,13,13.08,13.2,tp @ 6m alive; offshoots,Nil
+E413,Dryela,125,14.32,16,0.02,fluted; new belt fixed at same pom,Nil
+E414,Humbru,29,5.18,5.56,5.72,Nil,Nil
+E415,Dryela,120,9.4,12.1,13,"""irregular; near E534",Nil
+E417,Humbru,34,4.06,4.58,4.74,Nil,Nil
+E418,Dipind,158,5,8.2,9.34,Nil,Nil
+E419,Hararb,94,4.2,4.28,4.42,3 multistem 60/54.2/26,Nil
+E421,Kneatt,0,4.94,7.02,-999,Girth 72.5; belt missing; newbelt to be fixed,Nil
+E422,Myrdac,119,13.86,14.3,14.42,Nil,Nil
+E423,Myrdac,79,12.46,14.2,14.62,Nil,Nil
+E424,Humbru,29,3.2,3.42,3.54,near E475,Nil
+E426,Humbru,34,4.62,4.7,4.72,near E493; near E550,Nil
+E427,Reiana,49,10.98,12.3,12.78,Nil,Nil
+E428,Dryela,69,6.82,7.38,7.4,fluted,Nil
+E429,Humbru,29,3.54,3.8,4,Nil,Nil
+E431,Humbru,34,6.2,5.8,6.1,liana,Nil
+E432,Reiana,59,10.28,14.22,15.2,near E476,Nil
+E434,Dryela,160,3.8,6.5,6.6,fluted,Nil
+E435,Palell,48,14.62,15.4,2.6,Newbelt fixed at same pom,Nil
+E436,Dryela,139,9.92,12.12,13, near E534,Nil
+E437,Humbru,29,6.2,6.2,6.2,Nil,Nil
+E438,Dipind,200,13.26,13.24,13.2,near E535,Nil
+E439,Strcey,109,4.84,4.98,5,branches leafless; alive,Nil
+E440,Reiana,127,5.12,12.84,-999,trunk damage; fluted; termites; uprooted fallen; dead,Nil
+E441,Vatind,88,8.5,9.42,10,Nil,Nil
+E442,Syzgar,146,4.04,7.68,9.08,Nil,Nil
+E444,Dryela,79,8.82,11.1,12.4,near E477,Nil
+E445,Vatind,37,3.94,-999,-999,tp;broken at 2.5 m by fallen trees; dead,Nil
+E446,Aphpol,78,11.54,11.42,11.44,near E318 & E500; crown loaded with high liana,Nil
+E447,Vatind,31,4.64,7.64,7.64,near E022,Nil
+E448,Humbru,33,0.8,0.9,0.9,near E033;alive; fallen on the ground,Nil
+E450,Diosyl,44,3.46,4.85,5.82,near E134 & E512,Nil
+E452,Gartal,30,11.12,11.16,11.02,near E154; near E558,Nil
+E453,Kneatt,50,5.56,5.62,5.64,near E153; liana,Nil
+E455,Palell,30,6.62,8.7,10,near E257/253,Nil
+E456,Humbru,30,1.1,1.7,1.84,near E257,Nil
+E457,Humbru,31,5.58,5.8,-999,"""near E237; uprooted; dead",Nil
+E458,Canstr,64,2.42,5.42,6.52,near E307,Nil
+E459,Garmor,43,2.6,2.86,3.54,near E311,Nil
+E460,Vatind,46,14.2,16,4.86,near E284; newbelt fixed at 1.30 m ; pom changed,Nil
+E461,Vatind,49,2.8,4.72,5.72,E295 (previously near E294),Nil
+E462,Rinben,30,6.2,6.4,6.4,near E295; liana occupies entire crown,Nil
+E464,Holnig,47,15.44,16,2.56,near E315; Newbelt fixed at same pom,Nil
+E465,Aphpol,66,7.8,10.74,12.42,near E345 & E498; E555,Nil
+E466,Arthet,45,10.44,11.86,12.3,near 345,Nil
+E467,Beiwig,31,10.8,10.84,-999,near E351; missing,Nil
+E468,Gartal,31,11.3,11.7,12.2,near E318,Nil
+E471,Diopru,30,10.94,11.12,11.34,near E360,Nil
+E472,Dipind,33,8.42,9.1,9.4,near E360; calamus,Nil
+E473,Vatind,110,12.12,16,4.1,near E361; Newbelt to be fixed,Nil
+E474,Humbru,30,6.4,7.08,8.04,near E417 (previously E412 dead),Nil
+E475,Humbru,35,36,1.68,1.68,near E424,Nil
+E476,Vatind,0,12.3,14,15.8,near E432; belt removed; newbelt to be fixed,Nil
+E477,Myrdac,30,6.4,6.82,6.6,near E444,Nil
+E478,Vatind,48,9.84,9.7,9.72,near E137,Nil
+E479,Humbru,30,1.6,1.6,1.6,near E157 (previously 156 dead); E523; liana; Belt no 470,Nil
+E480,Humbru,31,1.64,1.8,1.8,near E352,Nil
+E481,Notbed,30,4.52,4.4,4.6,near E318,Nil
+E482,Diosyl,0,15,15.5,-999,near E295; newbelt to be fixed,Nil
+E483,Dimlon,32,0.12,-999,-999,near E366; tp @ 8m; trunk partially dead; offshoot alive; treeid written wrongly; alive,Nil
+E484,Gloell,30,9.06,9.38,9.38,near E388 (previously E389); slanting; canopy disturbed,Nil
+E486,Humbru,31,3,3.12,3.2,near E174,Nil
+E488,Vatind,47,1.7,2.76,3.8,near E227,Nil
+E489,Mesfer,47,14.84,16,1.42,near E268; liana; Newbelt fixed at same pom,Nil
+E490,Casova,29,12.2,12.22,12.26,near E301,Nil
+E491,Bleser,29,5.2,5.2,5.54,near E345; belt disturbed; fixed at same pom,Nil
+E492,Vatind,44,1.24,2.98,4.6,near E361,Nil
+E493,Vatind,45,2,3.34,3.96,near E426,Nil
+E495,Drycon,30,3,3.4,3.42,near E343,Nil
+E496,Hydalp,30,0.54,-999,1.26,near E358; branches broken; climber; tp @ 2 m; Alive,Nil
+E497,Humbru,32,1.34,1.34,1.36,near E355,Nil
+E498,Vatind,31,0.82,0.84,0.96,near E465; E345?,Nil
+E499,Cinsp1,59,10.5,16,4.46,near E345; Newbelt fixed at same pom,Nil
+E500,Mesfer,31,2.92,3,2.94,near E446; liana,Nil
+E501,Vatind,0,14.82,16,-999,near E300; Newbelt to be fixed; girth 48.1,Nil
+E502,Humbru,30,5.52,4.32,4.6,near E292,Nil
+E504,Humbru,30,2.6,2.8,2.84,near E241,Nil
+E505,Palell,30,4.56,5.3,5.72,"near E258, e539",Nil
+E506,Humbru,31,5.14,5.32,5.4,near E235; liana,Nil
+E507,Palell,30,7.88,9.6,10.42,near E250,Nil
+E508,Diobou,36,6.6,-999,0.16,near E175; Newbelt fixed at same pom,Nil
+E509,Alpsp1,0,14.7,15.14,-999,near E175; Belt removed; Girth 45; newbelt to be fixed,Nil
+E510,Diobou,48,1.74,3,4.76,near E165; calamus,Nil
+E512,Vatind,30,6.12,9.78,11.34,near E134,Nil
+E513,Kinpin,46,4.06,6,6.72,Near E150,Nil
+E514,Humbru,30,4.32,4.5,6,near E150,Nil
+E515,Cinsp1,,13.7,16,6.8,near E134(previously 135); Newbelt fixed with belt size 72; girth 72,Nil
+E516,Humbru,30,2.58,3.8,4.3,near E146 & E145,Nil
+E517,Mesfer,30,8,9.5,10.12,near E144,Nil
+E518,Reiana,30,6.32,6.3,6.36,near E099 & E084,Nil
+E520,Vatind,29,3.26,4.42,4,Near E84,Nil
+E521,Vatind,44,4.08,9.34,12.32,near 154/536,Nil
+E522,Syzgar,29,8.5,9.72,9.92,Near E169,Nil
+E523,Mesfer,34,6.7,7,6.92,Near E157; spid Mesfer confirmed in 2022; previously Humbru; slanting; calamus,Nil
+E524,Vatind,31,5.3,7.86,9.26,"Near E174/486, 508, 509",Nil
+E525,Micwal,29,4.7,6.38,7.16,near E174,Nil
+E526,Vatind,53,15.06,16,8.4,Near E192; newbelt to be fixed,Nil
+E527,Vatind,29,8.56,-999,12.98,Near E192,Nil
+E529,Hydalp,??,2.16,2.2,2.2,Near 260; 241; 505; check belt size at field ,Nil
+E530,Otosti,29,4.64,5.82,4.9,Near E266; liana,Nil
+E531,Dipind,29,4.68,5.3,5.5,Near E268,Nil
+E533,Diogha,31,7.9,9.48,10.14,Near E331,Nil
+E534,Reiana,29,6.88,9.68,10.8,"near E436, E415",Nil
+E535,Humbru,29,4.26,4.46,4.46,Near E438,Nil
+E536,Gartal,32,3.94,4,4.2,near E154,Nil
+E537,Reiana,29,4.4,5,-999,Near E215; stand dead,Nil
+E538,Strcey,31,6.74,8.74,9.96,Near E220,Nil
+E539,Palell,31,1.78,1.82,1.82,"Near E258,e505",Nil
+E540,Vatind,31,2.56,3.16,3.4,"near E501, E300",Nil
+E541,Mesfer,31,6.72,8.98,9.8,Near E76,Nil
+E542,Dipind,30,3.36,4.32,4.6,Near E84; scale not clear!,Nil
+E543,Humbru,29,1.74,1.88,1.92,Near E67,Nil
+E544,Kneatt,49,2.34,2.62,2.64,Near E67,Nil
+E545,Acttad,30,8.5,12.04,13.02,Near E122,Nil
+E546,Hydalp,35,-999,-999,-999,trunk hole @ pom; tp @ 1m; alive; avoid girth measurements,Nil
+E548,Humbru,32,2.2,2.18,2.2,near E244/242; ,Nil
+E549,Humbru,31,0.86,1.06,1.3,near E307,Nil
+E550,Humbru,30,0.94,0.92,0.92,Near E426,Nil
+E551,Reiana,29,3.1,5.9,6.82,Near E005/007,Nil
+E552,Humbru,29,2.14,2.56,2.9,near E33; written as E559,Nil
+E553,Diosyl,29,4.12,5.8,6.14,Near E207,Nil
+E554,Baccou,32,2,3.66,4.36,Near E234/250,Nil
+E555,Notbed,29,2.2,2.34,2.44,Near E465; 345,Nil
+E556,Kneatt,30,2.14,4.4,-999,near E20/447; rec 2018; near E24,Nil
+E558,Vatind,30,2.34,4.56,7.16,Near E452; rec 2018; spring issue; belt refixed at same pom,Nil
+E559,Humbru,30,1.94,4.06,4,near E031; 2016 rec,Nil
+E559,Reiana,30,1.94,4.28,5.22,near E084; rec 2019,Nil
+E560,Vatind,29,1.6,2.18,2.34,near E220; rec 2019,Nil
+E561,Humbru,30,0.4,0.62,-999,near E276; rec 2019; standing dead,Nil
+E562,Hydalp,30,1.6,2.24,3.34,near E345; rec 2019,Nil
+E563,Vatind,29,1.82,1.86,1.92,near E434; rec 2019,Nil
+E564,Reiana,34,,34.5,-999,missing,Nil
+E565,Palell,33,,33,2.12,Nil,Nil
+E566,Garmor,31,,31.5,1.86,Garcinia; simple alt? 10-12 cm long; near fallen E376,Nil
+E567,Baccou,31,,31.3,-999,E387/E386; missing,Nil
+E568,Reiana,32,,32.3,1.2,near E074,Nil
+Ha01,Myrdac,49,8.06,8.8,9.2,Nil,Nil
+Ha02,Strcey,0,12.5,14.64,15.8,Near Ha78; belt removed; newbelt to be fixed,Nil
+Ha05,Dimlon,34,0.88,2.18,2.38,Near Ha79,Nil
+Ha06,Dipind,0,11.26,14.38,15.7,Newbelt to be fixed,Nil
+Ha07,Humbru,39,4.4,5,6.26,Nil,Nil
+Ha08,Humbru,36,6.18,6.7,7.2,Nil,Nil
+Ha09,Vatind,64,15.8,3.5,4.68,Nil,Nil
+Ha10,Palell,0,13.26,15.4,16,Newbelt to be fixed,Nil
+Ha12,Palell,109,9.52,9.88,10.1,near Ha80,Nil
+Ha13,Dipind,197,2.82,4.26,4.56,Nil,Nil
+Ha15,Humbru,39,7.1,7.36,-999,Nil,Nil
+Ha16,Reiana,84,3.2,4.74,5.32,irregular,Nil
+Ha17,Palell,49,9.28,9.48,9.5,wood core taken by Dario; near Ha67,Nil
+Ha19,Dipind,268,4.48,7.26,8.18,Nil,Nil
+Ha20,Palell,29,7.7,8.3,9.12,near Ha68 & Ha69; belt disturbed; fixed at same pom,Nil
+Ha21,Humbru,39,4.46,4.5,4.56,Nil,Nil
+Ha23,Notbed,54,1.32,1.34,-999,trunk partially damaged; alive; no need measure girth,Nil
+Ha24,Dipind,305,15.82,4,5.44,"""near Ha81; strangler fig ",Nil
+Ha25,Ficner,83,6.8,9.1,9.72,Nil,Nil
+Ha27,Reiana,39,11.5,13.26,13.08,near Ha71; uprooted; alive; due to other fallen tree; belt refixed at same pom,Nil
+Ha28,Antmon,54,8.28,8.66,8.94,Nil,Nil
+Ha29,Myrdac,139,8.2,8.5,8.58,big hole in the trunk base,Nil
+Ha30,Palell,39,7.68,8.24,9.56,near Ha70 & Ha72; Ha30,Nil
+Ha32,Dipind,148,12.4,13.94,14.4,Nil,Nil
+Ha33,Calpol,84,11.12,11.9,12,Nil,Nil
+Ha34,Notbed,59,4.5,6,6.5,Nil,Nil
+Ha36,Vatind,253,2.64,3,2.86,Nil,Nil
+Ha37,Notbed,39,4.16,4.2,4.24,Nil,Nil
+Ha38,Myrdac,65,8.02,10.3,11,Nil,Nil
+Ha39,Myrdac,59,14.12,14.6,14.64,Nil,Nil
+Ha40,Vatind,0,11.78,16,-999,near Ha30; Ha83; Newbelt to be fixed with ladder; (293+ 26 cm),Nil
+Ha41,Baccou,34,8.32,9.58,9.88,Nil,Nil
+Ha43,Polcof,29,13.44,13.9,13.9,Nil,Nil
+Ha44,Semaur,124,7,7.62,7.88,near Ha74,Nil
+Ha45,Palell,49,12.74,13.72,13.9,Nil,Nil
+Ha46,Humbru,39,2.56,2.64,2.66,Nil,Nil
+Ha47,Dipind,158,7.5,11.32,12.9,Nil,Nil
+Ha48,Humbru,39,1.06,1.1,1.16,Nil,Nil
+Ha49,Crywig,59,6.52,8.8,9.36,Near Ha75,Nil
+Ha51,Reiana,34,12.24,13.82,14,Nil,Nil
+Ha53,Myrdac,39,11,11.86,11.84,Nil,Nil
+Ha54,Kneatt,119,9.82,10.1,10.34,Nil,Nil
+Ha55,Kneatt,129,1.24,1.72,2.08,Nil,Nil
+Ha56,Myrdac,0,12.2,15.02,16,Belt removed; newbelt to be fixed,Nil
+Ha57,Myrdac,39,3.1,4.12,4.18,Nil,Nil
+Ha58,Myrdac,104,6.74,109.3,1,main trunk hole; fluted; ladder; newbelt fixed at same pom,Nil
+Ha59,Vatind,34,2.2,2.22,2.32,Nil,Nil
+Ha60,Vatind,34,14.6,14.84,15,near Ha76,Nil
+Ha61,Reiana,39,9.16,47.2,1,Belt fallen; newbelt fixed; Girth 47.2,Nil
+Ha63,Vatind,39,11.86,12.2,-999,near Ha25; tree fallen; dead; due to big tree fallen,Nil
+Ha65,Vatind,44,3.56,4.68,4.56,near Ha13; bark peels off,Nil
+Ha66,Dimlaw,31,2.68,2.8,2.6,near Ha16,Nil
+Ha67,Ficner,0,11.94,16,-999,near Ha17; newbelt to be fixed; Girth 88,Nil
+Ha68,Humbru,30,5.82,6.34,6.54,near Ha20,Nil
+Ha69,Palell,32,15.26,15.5,2.2,near Ha20; Newbelt fixed with same pom,Nil
+Ha70,Vatind,30,0.62,-0.6,0.62,near Ha30; liana,Nil
+Ha71,Notbed,30,12.56,14,14.6,near Ha27,Nil
+Ha72,Reiana,30,0.92,0.9,1.2,near Ha30 & Ha82,Nil
+Ha73,Palell,30,3.08,3.22,3.24,near Ha40 & Ha77,Nil
+Ha74,Humbru,30,0.72,1,0.76,near Ha44,Nil
+Ha75,Myrdac,31,15.26,16,2.2,near Ha50; newbelt to be fixed,Nil
+Ha76,Humbru,30,0.28,1.12,1.3,near Ha60,Nil
+Ha77,Myrmal,30,9.12,10.24,10.82,near Ha73,Nil
+Ha78,Palell,30,5.58,6.64,7,near Ha02,Nil
+Ha79,Humbru,30,7.8,9.44,9.94,near Ha05,Nil
+Ha80,Kneatt,30,12.22,13.84,14.06,near Ha12,Nil
+Ha81,Palell,31,5.42,6.84,7.66,near Ha24,Nil
+Ha82,Isolan,30,1.78,1.8,1.8,near Ha30,Nil
+Ha83,Syzhem,29,0.96,1,0.98,near Ha40; less branches; offshoots; alive,Nil
+Hd01,Myrdac,69,7.84,7.92,7.96,Nil,Nil
+Hd03,Syzgar,221,4.78,6.44,7.32,fluted; pom to be changed,Nil
+Hd05,Humbru,44,3.92,4.02,4.08,Nil,Nil
+Hd06,Humbru,34,7.32,7.5,7.5,near Hd76,Nil
+Hd07,Palell,44,5.58,5.9,5.9,Nil,Nil
+Hd08,Vatind,54,9.5,10.4,10.74,Nil,Nil
+Hd09,Dimlaw,49,7.46,7.62,7.58,Nil,Nil
+Hd10,Dipind,134,11.6,12.14,12.6,pom to be changed; below 130 cm,Nil
+Hd11,Dryela,79,15.46,15.5,15.4,fluted; pom to be changed,Nil
+Hd12,Myrdac,114,15.6,16,2.84,newbelt fixed @ same pom,Nil
+Hd14,Notbed,29,9,9.7,9.74,Nil,Nil
+Hd15,Humbru,29,7.32,7.48,7.5,Nil,Nil
+Hd16,Vatind,59,15.8,5.34,6.88,Nil,Nil
+Hd18,Reiana,49,0.74,1.28,1.36,Nil,Nil
+Hd19,Vatind,29,11.56,11.56,-999,tp @ 6m alive; offshoots; missing,Nil
+Hd20,Myrdac,109,1.98,4.08,5,Nil,Nil
+Hd21,Humbru,29,4.34,4.64,4.72,near Hd73 & Hd80,Nil
+Hd23,Casova,44,2.46,2.56,2.46,Nil,Nil
+Hd24,Humbru,29,8,8.22,8.34,near Hd86,Nil
+Hd26,Myrdac,44,8.4,8.4,8.4,Nil,Nil
+Hd27,Humbru,29,3.7,3.84,3.92,Nil,Nil
+Hd28,Myrdac,54,12.42,13.18,13.46,Nil,Nil
+Hd29,Palell,64,14.1,16,2.16,newbelt fixed @ same pom,Nil
+Hd30,Crywig,62,7.5,8.96,9.6,fluted; pom to be changed,Nil
+Hd31,Humbru,34,2.9,3.46,3.64,near Hd75,Nil
+Hd32,Crywig,49,11.36,13.04,13.58,Nil,Nil
+Hd34,Palell,44,9.9,10.94,11.24,Nil,Nil
+Hd35,Humbru,29,12.08,12.28,12.28,Nil,Nil
+Hd36,Parpen,139,11.34,11.34,11.34,fluted; pom to be changed; tp @ 15 m; alive with one branch,Nil
+Hd37,Humbru,29,4.92,5,5,near chablis; one branch broken,Nil
+Hd39,Polcof,49,4.22,5.68,6.84,wood core taken by Dario; Hd81,Nil
+Hd40,Kinpin,359,6.68,7.16,8.12,pom to be changed; climber on pom; belt disturbed?,Nil
+Hd41,Dryela,34,9,9.58,9.6,pom to be changed below 130 cm pom,Nil
+Hd42,Humbru,39,8,8.1,8.2,Nil,Nil
+Hd43,Humbru,29,6.42,6.66,6.66,Nil,Nil
+Hd44,Reiana,54,11.12,12.42,12.7,liana; fluted; pom to be changed,Nil
+Hd45,Myrdac,84,10.96,11.02,11,liana infestation heavy,Nil
+Hd46,Dryela,107,1.74,2.38,2.46,fluted; belt distrubed,Nil
+Hd47,Rinben,34,3.76,3.98,3.96,near Hd79,Nil
+Hd48,Vatind,44,1.8,2.5,2.94,"near Hd83, Hd84, Hd82; liana",Nil
+Hd51,Beiwig,44,7.14,7.48,7.5,"near Hd74, Hd65, Hd66",Nil
+Hd52,Humbru,34,0.88,0.92,0.96,Hd67,Nil
+Hd53,Vatind,84,12.78,15.64,4.48,newbelt fixed @ same pom,Nil
+Hd54,Syzgar,29,12.1,11.98,11.98,liana; one side of trunk dying upto 2 m,Nil
+Hd55,Vatind,39,7.78,8.66,9.44,near Hd70,Nil
+Hd56,Humbru,34,7.7,9.38,9.56,near Hd71 & Hd72,Nil
+Hd57,Vatind,91,13.68,16,4.4,newbelt fixed @ same pom,Nil
+Hd58,Humbru,29,3.8,3.86,3.86,near He74,Nil
+Hd59,Palell,34,5.86,6.02,5.94,Nil,Nil
+Hd60,Vatind,77,5.72,9.46,12.14,near Hd78,Nil
+Hd61,Vatind,72,5.92,9.34,10.8,Nil,Nil
+Hd62,Myrdac,104,13.4,14.32,14.6,near Hd69;,Nil
+Hd63,Humbru,29,10.16,10.72,10.92,Nil,Nil
+Hd64,Dryela,145,3.2,4.92,5.08,near Hd68; pom to be changed with ladder,Nil
+Hd65,Humbru,49,2.62,2.88,2.9,near Hd51,Nil
+Hd66,Bleser,84,0.94,1.22,1.44,near Hd51,Nil
+Hd67,Palell,29,9,9.22,9.46,near Hd52,Nil
+Hd68,Myrdac,30,1.5,1.54,1.6,near Hd64 & Hd77,Nil
+Hd69,Vatind,29,7.56,7.52,7.54,near Hd62,Nil
+Hd70,Humbru,30,1.48,1.96,1.96,near Hd55,Nil
+Hd71,Palell,30,5.8,7.24,7.74,near Hd56,Nil
+Hd72,Palell,30,4.58,4.94,5.1,near Hd56,Nil
+Hd73,Notbed,45,14.46,15.6,1,near Hd21; newbelt to be fixed,Nil
+Hd74,Palell,30,11.3,11.9,12.34,near Hd51,Nil
+Hd75,Mesfer,44,4.22,5.92,6.7,near Hd31,Nil
+Hd76,Humbru,29,4.28,4.58,4.6,near Hd06,Nil
+Hd77,Vatind,30,1.28,1.32,1.38,near Hd68,Nil
+Hd78,Humbru,30,0.52,0.56,0.56,near Hd60,Nil
+Hd79,Humbru,30,6.8,7.78,8.08,near Hd47,Nil
+Hd80,Kneatt,30,2.4,3.12,3.3,near Hd21,Nil
+Hd81,Palell,30,1.32,1.4,1.6,Near Hd39; belt no. 91,Nil
+Hd82,Palell,32,2.64,3.84,4.7,Near Hd48,Nil
+Hd83,Humbru,30,1.38,1.42,1.44,near Hd48; belt fixed @ 1.3 m,Nil
+Hd84,Palell,31,3.08,3.8,3.9,near Hd48; belt fixed @ 1.3 m,Nil
+Hd85,Palell,31,,31.4,2.32,near D48/D84; recruit 2021,Nil
+Hd86,Cyazey,33,,33,2.4,"near D30, 24; recruit 2021",Nil
+He01,Kneatt,94,14.88,15.4,1,newbelt fixed @ same pom,Nil
+He02,Mesfer,34,7.1,7.46,7.58,Nil,Nil
+He03,Vatind,237,15.06,16,5.4,fluted; pom to be changed; Newebelt fixed at same pom,Nil
+He04,Dryela,49,4.4,4.38,4.38,trunk hole at 6 m,Nil
+He05,Myrdac,119,12.24,12.92,13.14,"""near He87",Nil
+He06,Vatind,69,4.64,4.74,4.76,Nil,Nil
+He07,Vatind,34,1.26,1.6,1.26,Nil,Nil
+He08,Dimlaw,79,4.16,4.28,4.2,fluted; pom to be changed,Nil
+He09,Strcey,144,2.64,2.6,2.3,Nil,Nil
+He10,Vatind,122,3.16,3.46,3.4,Nil,Nil
+He11,Polcof,44,8.14,9.12,8.82,Nil,Nil
+He12,Vatind,184,12.56,13.6,14.82,Nil,Nil
+He15,Vatind,89,2.06,2.6,2.6,Nil,Nil
+He16,Dipind,328,8.92,-999,13.78,ladder,Nil
+He17,Vatind,192,11.26,14.62,2.38,near He88; Newbelt fixed at same pom,Nil
+He18,Myrdac,114,10.62,11.44,11.64,tree hole,Nil
+He19,Humbru,,,,-999,Alive; tp @ 0.5 m; just check for alive next time,Nil
+He20,Kneatt,74,6.98,7.3,7.4,fluted; pom to be changed,Nil
+He21,Hydalp,29,8.4,8.96,9,Nil,Nil
+He22,Myrdac,90,15.4,16,0.92,newbelt fixed @ same pom,Nil
+He23,Myrdac,69,7.92,8.34,8.76,Nil,Nil
+He24,Calpol,0,14.4,15.8,-999,Newbelt to be fixed; Girth 106,Nil
+He25,Humbru,44,4.84,5,4.96,Nil,Nil
+He26,Myrdac,107,2.9,4.14,5,Nil,Nil
+He27,Humbru,29,6.88,7.4,7.4,Nil,Nil
+He28,Humbru,34,3.16,3.3,3.2,Nil,Nil
+He29,Gartal,84,8.12,8.4,8.68,Nil,Nil
+He30,Dipind,288,4.64,6.18,6.94,ladder; pom to be changed,Nil
+He31,Palell,54,2.8,2.88,2.9,Nil,Nil
+He32,Myrdac,94,7.48,8.08,8.26,Nil,Nil
+He33,Humbru,64,5.56,5.82,5.88,near He92,Nil
+He34,Palell,47,4.74,5.66,5.94,Nil,Nil
+He35,Palell,49,14,14.52,15.1,near He91,Nil
+He36,Myrdac,74,9.5,10.46,11,Nil,Nil
+He37,Myrdac,46,13.06,13.1,13.1,Nil,Nil
+He38,Reiana,0,15.2,16,-999,Newbelt to be fixed; Girth 71.5,Nil
+He39,Dipind,180,14.42,16,2.48,newbelt fixed @ same pom,Nil
+He41,Palell,95,4.38,6.12,7.94,Nil,Nil
+He42,Reiana,44,14.14,15.6,2.94,newbelt fixed @ same pom,Nil
+He44,Kneatt,54,7.72,8.84,8.94,Nil,Nil
+He45,Myrdac,44,11.02,12.4,12.8,Nil,Nil
+He46,Myrdac,29,6.2,6.96,7.3,Nil,Nil
+He47,Humbru,34,4.04,4.14,4.2,Nil,Nil
+He48,Dipind,98,4.1,7.2,8.4,Nil,Nil
+He49,Humbru,34,3.64,3.9,4.2,Nil,Nil
+He50,Kneatt,139,11.9,11.82,12.34,"""near He85; trunk hole; honey extraction made",Nil
+He52,Vatind,90,4.66,5.1,5.36,near He94; liana,Nil
+He54,Vatind,56,12.32,14.4,14.9,liana,Nil
+He55,Vatind,29,5.68,6.2,6.38,Nil,Nil
+He56,Reiana,29,12.08,12.68,12.7,liana; tp @ 5 m; alive; offshoots,Nil
+He57,Vatind,68,14.34,14.44,14.46,Nil,Nil
+He58,Vatind,64,12.68,12.68,12.64,liana,Nil
+He59,Humbru,29,7,7.16,7.3,climber,Nil
+He60,Vatind,39,14.56,13.88,14.32,Nil,Nil
+He61,Dipind,289,4.5,8.54,9.64,near He84,Nil
+He62,Vatind,54,9.28,12.2,13.34,Nil,Nil
+He63,Vatind,34,2.4,2.4,2.4,near He83,Nil
+He64,Vatind,64,6.82,6.92,7,Nil,Nil
+He65,Dryela,64,2.4,2.46,2.44,climber,Nil
+He67,Vatind,74,12.8,15.8,2.86,newbelt fixed @ same pom,Nil
+He68,Vatind,49,4.18,5.36,5.86,Nil,Nil
+He69,Humbru,34,5.92,5.94,5.94,Nil,Nil
+He70,Syzgar,68,15.06,15.64,0.1,newbelt fixed @ same pom,Nil
+He71,Vatind,335,9.4,15.1,3.4,near He89; Newbelt fixed at same pom,Nil
+He72,Dipind,39,12.8,13.08,13.12,Nil,Nil
+He74,Diosyl,190,13.78,16,2.6,"""near He82; Newbelt fixed at same pom",Nil
+He75,Dryela,194,6.4,7.26,7.34,fluted; pom to be changed with ladder,Nil
+He76,Vatind,59,2.22,2.74,3.1,Nil,Nil
+He77,Humbru,29,5.64,5.7,5.72,near He81,Nil
+He78,Syzgar,49,2.68,2.88,2.98,near He95; belt no 454,Nil
+He79,Humbru,44,2.06,-999,2.18,scale issue,Nil
+He80,Vatind,0,5.1,11.7,15.08,newbelt to be needed,Nil
+He81,Vatind,31,1.08,1.08,1.1,near He77,Nil
+He82,Vatind,59,5.06,7.36,8.4,near He74 & He90,Nil
+He83,Vatind,31,3.66,3.8,3.98,near He63,Nil
+He84,Reiana,30,2.74,3,3.26,near He61,Nil
+He85,Reiana,30,11.28,12.44,12.94,near He50; tree hole near the belt,Nil
+He87,Humbru,30,1.42,1.54,1.52,near He05,Nil
+He88,Humbru,29,5.4,5.78,5.8,near He17,Nil
+He89,Dipind,30,1.22,1.86,2.08,near He71,Nil
+He90,Vatind,30,2.28,2.82,3.1,near He82,Nil
+He91,Vatind,30,1.36,1.48,1.56,near He35,Nil
+He92,Vatind,30,0.1,0.1,0.08,near He33,Nil
+He93,Gartal,30,4.32,4.94,5.3,near He16,Nil
+He94,Palell,29,4,4.74,5.16,near He52; liana,Nil
+He95,Palell,30,2.76,3.2,3.4,near He78; He71 He95 is correct; wrong no. He86,Nil
+Hf01,Dryela,44,11.96,12.58,12.8,Nil,Nil
+Hf02,Holarn,94,6.48,6.66,6.74,near Hf79,Nil
+Hf03,Herpap,69,9.74,10.38,10.3,Nil,Nil
+Hf04,Dryela,29,6.54,6.7,6.7,Nil,Nil
+Hf05,Myrdac,64,11.94,12.34,12.66,Nil,Nil
+Hf07,Dimlaw,39,6.4,6.74,6.8,Nil,Nil
+Hf08,Vatind,59,14.2,14.36,14.48,Nil,Nil
+Hf09,Dryela,94,14.86,15.58,15.6,fluted; pom to be changed; old belt reading,Nil
+Hf09,Dryela,109,,,1.2,fluted; pom to be changed; Newebelt fixed at same pom,Nil
+Hf10,Vatind,119,3.56,3.6,3.6,Nil,Nil
+Hf12,Dipind,154,8.6,8.78,8.88,Nil,Nil
+Hf14,Semaur,69,10.84,11.84,12.08,Hf82,Nil
+Hf15,Humbru,34,3.64,3.74,3.72,Nil,Nil
+Hf16,Dimlaw,34,7.26,7.3,7.26,Nil,Nil
+Hf17,Myrdac,79,15.1,15.6,1.9,Newbelt fixed at same pom ,Nil
+Hf18,Dimlaw,49,1.8,1.98,2,slanting,Nil
+Hf19,Humbru,54,7.82,7.92,7.9,slanting,Nil
+Hf20,Humbru,34,1.86,1.98,1.9,Nil,Nil
+Hf21,Vatind,67,9.96,11.64,11.8,Nil,Nil
+Hf22,Kneatt,64,1.5,2.38,2.4,Nil,Nil
+Hf23,Dipind,219,15.6,8.1,6.02,near Hf77; pom to be changed,Nil
+Hf24,Baccou,29,8.32,8.54,8.92,Nil,Nil
+Hf25,Humbru,29,4,4,4.02,Nil,Nil
+Hf26,Dipind,306,2.7,3.26,3.64,ladder; pom to be changed; belt disturbed & fixed,Nil
+Hf27,Dimlaw,49,6.16,6.32,6.42,belt disturbed & fixed,Nil
+Hf29,Kinpin,304,0.48,0.44,0.58,Nil,Nil
+Hf30,Dipind,204,5.92,6.2,6.78,Nil,Nil
+Hf31,Myrdac,49,14.9,13.96,14,tp @ 12 m,Nil
+Hf32,Hoppon,64,11.74,13.84,13.8,fluted; pom to be changed; tp @ 4 m; small buds,Nil
+Hf34,Reiana,34,5.8,7.38,7.9,Nil,Nil
+Hf35,Myrdac,125,14.8,16,0.6,newbelt fixed @ same pom,Nil
+Hf36,Myrdac,54,10.16,11.58,12.34,Nil,Nil
+Hf37,Humbru,29,2.76,3,3.24,Nil,Nil
+Hf39,Dimlaw,54,4.08,4.4,4,tp @ 8 m; alive; uprooted; belt disturbed; refixed at same pom,Nil
+Hf40,Dimlaw,44,3.14,3.4,3.5,Nil,Nil
+Hf41,Myrdac,90,16,1.98,2.38,Nil,Nil
+Hf42,Dryela,154,11.5,11.84,11.9,fluted; tp @ 10 m,Nil
+Hf44,Mesfer,0,10.36,14.6,17,Newbelt to be fixed; ladder,Nil
+Hf45,Vatind,29,1.98,2,2.2,Nil,Nil
+Hf47,Vatind,44,7.34,9,9.6,near chablis,Nil
+Hf48,Vatind,29,2.16,2.18,2.16,near chablis,Nil
+Hf49,Dryela,108,10.26,12.84,13.8,near Hf72; near Hf83,Nil
+Hf50,Vatind,59,2.3,2.68,3.2,near Hf73,Nil
+Hf51,Humbru,39,2.74,2.94,2.96,Nil,Nil
+Hf52,Vatind,139,8,10.36,11.38,Nil,Nil
+Hf53,Vatind,101,8.24,9.94,10.4,Nil,Nil
+Hf54,Palell,73,9.14,9.14,9.06,liana,Nil
+Hf55,Baccou,29,2.56,3.6,4.2,Nil,Nil
+Hf56,Vatind,149,5.3,6.04,6.7,Nil,Nil
+Hf57,Vatind,108,7.8,8.18,8.28,near Hf78,Nil
+Hf58,Vatind,54,7.8,7.92,8,climber,Nil
+Hf59,Diobux,29,3.74,3.98,4.08,Nil,Nil
+Hf60,Vatind,39,9.18,9.44,9.6,climber,Nil
+Hf61,Dryela,60,13.64,16,2.32,Newbelt to be fixed,Nil
+Hf62,Vatind,79,6.4,6.8,7.04,Nil,Nil
+Hf63,Palell,54,13.26,13.7,13.9,near Hf76,Nil
+Hf65,Vatind,108,8.74,11.84,13.26,Nil,Nil
+Hf67,Humbru,29,1.52,1.62,1.6,"near Hf74 (previously Hf68), Hf75",Nil
+Hf70,Vatind,85,3.74,6.38,7.42,Nil,Nil
+Hf71,Vatind,74,9.9,11.52,12.24,near Hf81,Nil
+Hf72,Masarb,31,7.6,10.06,11.24,near Hf49,Nil
+Hf73,Dimlon,30,5.68,8.66,9.68,near Hf50,Nil
+Hf74,Palell,30,10.5,10.68,11,near Hf67 (previously HF68),Nil
+Hf75,Myrdac,44,7.7,9.76,10.56,slanting,Nil
+Hf76,Myrdac,30,4.26,5.2,5.32,near Hf63,Nil
+Hf77,Diosyl,29,5.58,6.72,7.34,near Hf23; liana; tp @ 2 m; alive,Nil
+Hf78,Humbru,29,2.56,3.08,3.06,near Hf57,Nil
+Hf79,Kneatt,30,1.88,2.12,2.14,near Hf02,Nil
+Hf81,Hydalp,31,2.66,2.86,2.94,near Hf71,Nil
+Hf82,Myrdac,29,6.12,7.18,7.6,"""near Hf14",Nil
+Hf83,Reiana,30,2.54,3.34,3.52,Belt size 30g; near tree? Qid?; near 49,Nil
+Hf84,Humbru,30,0.8,1.2,1.46,"near Hf50,52/72;recruits 2019",Nil
+Hf85,Strcey,30,,30,0.56,"near 60, recruit 2021; belt fixed",Nil
+Hg01,Humbru,49,1.44,1.48,1.5,Nil,Nil
+Hg02,Dimlaw,34,4.2,4.4,4.4,Nil,Nil
+Hg03,Vatind,126,9.54,11.6,12.68,Nil,Nil
+Hg04,Humbru,34,3.68,3.74,3.74,near Hg89,Nil
+Hg07,Dryela,149,6.92,7.46,7.56,fluted; pom to be changed,Nil
+Hg08,Myrdac,34,3.8,3.88,3.88,Nil,Nil
+Hg09,Vatind,0,5.98,13.14,16,Newbelt to be fixed,Nil
+Hg10,Vatind,71,12.04,71,0.8,newbelt fixed @ same pom,Nil
+Hg11,Vatind,49,6,6,6,Nil,Nil
+Hg12,Vatind,64,5.42,5.4,5.42,Nil,Nil
+Hg13,Mesfer,320,5.74,6.74,7.2,Nil,Nil
+Hg14,Myrdac,89,10,10.08,10.12,near Hg86,Nil
+Hg15,Notbed,64,5.94,6.06,6,fluted,Nil
+Hg16,Diosyl,64,5.74,5.94,5.96,liana on main trunk,Nil
+Hg17,Vatind,79,6.4,7,7.18,Nil,Nil
+Hg18,Humbru,49,2.46,3.08,3.2,Nil,Nil
+Hg19,Humbru,29,3.7,3.72,3.74,Nil,Nil
+Hg20,Humbru,34,4,4.2,4.18,Nil,Nil
+Hg21,Humbru,44,5.58,5.6,5.6,Nil,Nil
+Hg22,Myrdac,103,2.64,3.26,3.42,Nil,Nil
+Hg23,Hoppon,93,6,6.02,5.74,fluted,Nil
+Hg25,Vatind,59,8.56,8.88,9,Nil,Nil
+Hg26,Glymac,34,6.56,6.66,6.28,near Hg85,Nil
+Hg27,Diosyl,39,11.9,12,11.94,Nil,Nil
+Hg28,Palell,29,4.56,4.6,4.54,Nil,Nil
+Hg29,Dryela,59,10.1,12.8,13.5,fluted; tree fall gap,Nil
+Hg30,Vatind,54,12.38,14.6,15.4,Nil,Nil
+Hg31,Dryela,49,5.7,6.82,7.28,Nil,Nil
+Hg32,Vatind,110,13.4,16,2.6,newbelt fixed @ same pom,Nil
+Hg33,Hydalp,44,7.24,8.2,8.4,near Hg88,Nil
+Hg34,Vatind,68,13.22,14.42,14.96,Nil,Nil
+Hg35,Beiwig,50,14.6,16,1.2,newbelt fixed @ same pom,Nil
+Hg36,Dimlaw,44,4.04,4.92,5.28,Nil,Nil
+Hg37,Humbru,49,3.96,4.4,4.8,main trunk damaged at 1m reiteration; alive,Nil
+Hg38,Vatind,79,2.3,4.36,4.1,Nil,Nil
+Hg39,Vatind,29,3.34,3.64,4,Nil,Nil
+Hg40,Reiana,34,8,10.3,10.8,Nil,Nil
+Hg42,Humbru,34,5.44,5.7,5.8,Nil,Nil
+Hg43,Gartal,39,5.56,6.88,7.78,Nil,Nil
+Hg45,Dimlaw,39,3.28,-999,-999,fallen; alive; belt damaged due to tree fall; not possible for G,Nil
+Hg46,Polcof,49,9,9.8,9.92,Nil,Nil
+Hg47,Gartal,69,2.8,3.08,3.1,Nil,Nil
+Hg48,Polcof,29,6.28,7,7.2,Nil,Nil
+Hg49,Palell,34,5.4,6.26,6.5,Nil,Nil
+Hg50,Vatind,39,3.14,3.5,3.8,climber on top,Nil
+Hg51,Strcey,54,3,4.8,5.64,Nil,Nil
+Hg52,Beiwig,29,15.8,3.12,4.2,near Hg84,Nil
+Hg54,Humbru,29,1.68,1.7,1.6,broken at 2m reiteration,Nil
+Hg56,Myrdac,79,5.98,5.38,5.48,one branch broken; alive,Nil
+Hg57,Vatind,29,2.7,3,3.4,liana,Nil
+Hg58,Kneatt,119,11.52,11.86,11.78,fluted,Nil
+Hg59,Dipind,74,11.94,13.56,14.08,Nil,Nil
+Hg60,Vatind,63,11.48,15.48,5.64,newbelt fixed @ same pom,Nil
+Hg61,Vatind,100,3.68,6.4,7.7,Nil,Nil
+Hg63,Dimlaw,49,5.14,5.08,-999,Main branch broken; near Hg83; tp @ 5 m; dead,Nil
+Hg65,Litflo,63,6.96,8.26,8.4,Nil,Nil
+Hg66,Dryobl,29,11.12,14.14,14.4,Nil,Nil
+Hg73,Vatind,65,3.6,5.08,6.24,Nil,Nil
+Hg74,Mesfer,34,8.02,8.2,8.28,Nil,Nil
+Hg75,Manind,55,14.9,16,2.42,newbelt fixed @ same pom,Nil
+Hg76,Casova,39,5.74,7.18,7.34,near Hg80 & Hg90,Nil
+Hg80,Humbru,32,3.26,3.32,3.3,"near Hg76, HF 71 & Hg90",Nil
+Hg83,Humbru,32,4.92,6.5,7.12,Nil,Nil
+Hg84,Vatind,30,6.08,6.9,7.46,"near Hg52, Hg90; liana",Nil
+Hg84,,,,,1.46,tag no. 12903; check spid,Nil
+Hg85,Polcof,31,1.38,1.78,1.8,near Hg26,Nil
+Hg86,Humbru,30,1.72,1.86,1.84,near Hg14;,Nil
+Hg87,Humbru,29,1.12,1.12,1.14,"near Hg27, Hg25; slanting",Nil
+Hg88,Dryela,30,2.7,3.6,3.86,near Hg33,Nil
+Hg89,Kneatt,31,3.28,3.84,3.98,near Hg04,Nil
+Hg90,Palell,30,-999,-999,-999,pom @ 1.3 m; near Hg51; missed; possibly dead,Nil
+Hg91,Humbru,30,,30.5,0.4,"Hg48, 51, recruit 2021; newbelt fixed at same pom",Nil
+Hh01,Humbru,29,0.68,0.64,0.42,<30; stand dead; belt removed,Nil
+Hh03,Vatind,39,2.32,2.3,2.26,Nil,Nil
+Hh04,Palell,54,10.2,11,11.28,Nil,Nil
+Hh05,Myrdac,74,7.46,8.02,8.3,Nil,Nil
+Hh06,Humbru,29,3.42,3.44,3.42,one branch drying,Nil
+Hh07,Dryela,29,7.52,7.8,8.1,Nil,Nil
+Hh08,Myrdac,144,2.16,2.62,2.74,Nil,Nil
+Hh09,Notbed,74,2.2,2.2,2.22,Nil,Nil
+Hh10,Kneatt,44,4.6,4.82,4.82,Nil,Nil
+Hh11,Cinsp1,88,3.62,3.66,3.88,Nil,Nil
+Hh13,Myrdac,49,2.28,2.76,2.8,big climbers on the top,Nil
+Hh14,Vatind,131,4.58,8.38,10.06,Nil,Nil
+Hh16,Dipind,319,3.2,3,3.22,Nil,Nil
+Hh17,Cyazey,83,3.48,3.7,3.74,near Hh85,Nil
+Hh19,Myrdac,94,14.86,15.5,3.84,newbelt fixed @ same pom,Nil
+Hh20,Humbru,29,3.6,3.84,3.64,"""near Hh86, hh93, slanting",Nil
+Hh21,Humbru,39,3.74,4.18,4.16,Nil,Nil
+Hh22,Notbed,29,7.34,7.62,7.56,Nil,Nil
+Hh23,Vatind,156,5,8.9,10.88,Nil,Nil
+Hh24,Dipind,313,0.9,-999,3.9,"""near Hh83;ladder needed; missing",Nil
+Hh26,Vatind,202,16,11.6,14.8,Nil,Nil
+Hh28,Myrdac,34,7.36,7.64,7.8,Nil,Nil
+Hh29,Vatind,29,3.28,3.3,3.34,Nil,Nil
+Hh32,Vatind,113,9,10,10.3,Nil,Nil
+Hh33,Myrdac,89,12.44,13.7,14,near Hh87; fluted; pom to be changed,Nil
+Hh34,Vatind,49,12.26,12.58,12.82,Nil,Nil
+Hh35,Notbed,39,6.48,6.76,6.76,Nil,Nil
+Hh36,Humbru,29,2.7,2.6,2.8,Nil,Nil
+Hh37,Myrdac,44,13.8,15.5,2.56,newbelt fixed @ same pom,Nil
+Hh38,Myrdac,44,11.74,12.2,12.28,Nil,Nil
+Hh39,Vatind,139,5.82,10.8,12.64,Nil,Nil
+Hh40,Syzgar,159,6.44,7.96,8.28,Nil,Nil
+Hh41,Kneatt,29,5.52,5.72,5.7,Nil,Nil
+Hh43,Hoppon,54,7.2,8.26,8.6,Nil,Nil
+Hh44,Vatind,39,4.46,4.88,5.1,Nil,Nil
+Hh45,Vatind,34,6.4,6.94,7,Nil,Nil
+Hh46,Hydalp,94,3,4.08,4.2,Nil,Nil
+Hh47,Vatind,34,2.06,2.1,2.1,wrongly written as 43,Nil
+Hh48,Kinpin,269,7.08,8.1,8.76,Nil,Nil
+Hh49,Masarb,89,15.8,4.36,5.46,Nil,Nil
+Hh51,Gartal,34,3.5,4.42,5.4,Nil,Nil
+Hh52,Myrdac,89,6.44,7.86,8.22,Nil,Nil
+Hh53,Palell,94,8.28,9.2,9.6,Nil,Nil
+Hh54,Aphpol,64,5.42,6,6.14,Nil,Nil
+Hh55,Myrdac,64,2.98,3.72,4.06,near Hh89,Nil
+Hh57,Humbru,44,5.72,6.58,6.94,scale not clear?; near HH94,Nil
+Hh61,Humbru,34,11.12,12.46,13.42,Nil,Nil
+Hh62,Vatind,54,8.2,9.1,9.72,liana,Nil
+Hh63,Vatind,50,13.82,16,2.54,near Hh90; newbelt fixed at same pom,Nil
+Hh64,Humbru,34,5.72,5.94,6,scale not clear,Nil
+Hh65,Vatind,104,7.4,7.46,7.56,Nil,Nil
+Hh66,Dimlaw,44,6.66,6.9,7,Nil,Nil
+Hh67,Agllaw,34,7.08,7.26,7.34,Calamus,Nil
+Hh68,Humbru,29,5.4,5.72,5.84,Nil,Nil
+Hh69,Vatind,0,14.6,16,-999,Newbelt to be fixed; Girth 89.3,Nil
+Hh70,Humbru,29,5.36,6,6.4,Nil,Nil
+Hh73,Humbru,39,2.7,3.56,4,Nil,Nil
+Hh74,Mesfer,80,12.28,16,3.6,Near HH92 written as 91; newbelt fixed @ same pom,Nil
+Hh76,Myrdac,0,5.64,-999,-999,in chaplis; newbelt to be fixed; tp @ 4 m; offshoot alive; tag missed in 10 ha,Nil
+Hh77,Humbru,39,2.88,-999,5.46,Nil,Nil
+Hh79,Gartal,103,14.98,13.8,13.82,Nil,Nil
+Hh80,Dryela,103,-999,103.2,0.84,near Hh84 & Hh88; fluted; newbelt fixed @ same pom; branches lost due to fallen trees,Nil
+Hh82,Baccou,32,5.12,5.12,6.4,near Hh80 (previously near Hh81),Nil
+Hh83,Vatind,29,3.46,3.66,3.74,near Hh24,Nil
+Hh85,Hydalp,30,2.82,3.72,3.8,near Hh17,Nil
+Hh86,Garmor,30,5.32,6.18,6.4,near Hh20,Nil
+Hh87,Syzgar,30,2,2.34,2.34,near Hh33,Nil
+Hh89,Parpen,29,3.12,4.22,4.92,"""near Hh55",Nil
+Hh90,Reiana,30,8.18,10.8,11.8,"""near Hh63",Nil
+Hh92,Palell,30,5.56,8.7,9.8,written as Hh91; near Hh73; Hh74,Nil
+Hh93,Kneatt,32,2.1,3.62,3.86,near Hh 20; rec 2016; belt disturbed & refixed,Nil
+Hh94,Kneatt,30,1.92,2.9,3.42,near Hh57/Hi56; belt fixed@ 1.30m,Nil
+Hh95,Humbru,31,,31,1.5,"near Hh74,73,92, recruit 2021; newbelt fixed",Nil
+Hh96,Hydalp,30,,30,3,nearHh 74; newbelt fixed,Nil
+Hh97,Rinben,30,,30,2.4,nearHh 74; newbelt fixed,Nil
+Hi01,Humbru,49,2.92,2.74,2.76,Nil,Nil
+Hi03,Humbru,34,5.1,5.16,5.16,near Hl90,Nil
+Hi04,Humbru,49,1.86,1.94,1.94,near Hi90,Nil
+Hi06,Garmor,29,10.02,10.22,10.26,species Id confirmed as Holnig in 2017,Nil
+Hi07,Beiwig,44,8.68,9.06,9.14,liana,Nil
+Hi08,Vatind,0,5.4,12.18,-999,221.3 girth; newbelt to be fixed; belt missing,Nil
+Hi09,Vatind,109,11.16,14.18,15,Nil,Nil
+Hi10,Kneatt,34,4.1,4.1,4.1,liana,Nil
+Hi11,Humbru,29,4.4,4.52,4.58,termite,Nil
+Hi12,Mesfer,54,12.82,13.96,14.18,Nil,Nil
+Hi14,Hydalp,44,8.68,7.14,7.2,Nil,Nil
+Hi15,Kinpin,34,8.28,6.56,6.6,written as Hi16,Nil
+Hi17,Mesfer,0,13,15.28,16,newbelt to be fixed,Nil
+Hi18,Vatind,44,8.26,8.66,8.78,Nil,Nil
+Hi20,Humbru,34,3,3.26,3.3,Nil,Nil
+Hi21,Humbru,34,1.2,1.12,1.16,Nil,Nil
+Hi22,Notbed,29,6.56,6.7,6.72,Nil,Nil
+Hi23,Glymac,39,6.38,6.74,6.56,Nil,Nil
+Hi24,Masarb,75,1.4,2.26,2.48,Nil,Nil
+Hi25,Myrdac,44,3.2,3.46,3.58,Nil,Nil
+Hi26,Mesfer,49,6.74,6.92,6.82,Nil,Nil
+Hi27,Vatind,151,8.66,11.32,12.4,Nil,Nil
+Hi28,Humbru,34,5.94,6.34,6.34,near Hj24,Nil
+Hi30,Humbru,29,3.4,3.4,3.64,Nil,Nil
+Hi31,Myrdac,59,8.46,9,9.1,Nil,Nil
+Hi33,Myrdac,49,8.3,9.2,9.5,Nil,Nil
+Hi34,Vatind,29,1.98,2,1.94,Nil,Nil
+Hi35,Lopwig,105,5.5,7,7.58,Nil,Nil
+Hi36,Dimlaw,34,5.7,5.94,6.08,written as J,Nil
+Hi37,Baccou,29,1.74,2.1,2.46,<30,Nil
+Hi38,Kneatt,74,7.62,8.6,8.5,Nil,Nil
+Hi40,Diopru,29,1.6,2,2.06,Nil,Nil
+Hi41,Vatind,144,6.38,9.8,11.48,Nil,Nil
+Hi43,Myrdac,94,3.8,3.98,4,fluted,Nil
+Hi44,Myrdac,44,5.8,6.6,6.92,Nil,Nil
+Hi45,Hydalp,29,4.28,4.78,4.98,Nil,Nil
+Hi46,Vatind,34,7.1,7.08,7.12,Nil,Nil
+Hi47,Humbru,29,2.76,2.98,3.24,Nil,Nil
+Hi49,Vatind,59,11.94,12.12,12.5,one branch broken; alive,Nil
+Hi50,Dipind,310,9.28,11.64,12.6,Nil,Nil
+Hi51,Humbru,39,1.64,1.76,1.78,Nil,Nil
+Hi52,Humbru,29,3.6,3.8,3.8,pom to be changed below 130 cm pom,Nil
+Hi53,Gartal,109,9.4,10.28,10.68,Nil,Nil
+Hi54,Dimlaw,34,7.2,7.96,8.1,Nil,Nil
+Hi56,Humbru,39,0.42,0.46,0.46,near Hh94,Nil
+Hi57,Mesfer,119,6.1,9.44,11.2,near Hi89; hh94,Nil
+Hi58,Hydalp,39,10.9,11.8,12.7,Nil,Nil
+Hi60,Hoppon,74,2.8,2.8,2.84,near Hi88; top prone at 8m no off shoots; sp id previously Holnig;,Nil
+Hi61,Humbru,34,3.6,4.14,4.32,Nil,Nil
+Hi64,Kneatt,34,4.08,4.6,4.84,Nil,Nil
+Hi65,Vatind,29,2.62,4.4,5.26,Liana,Nil
+Hi66,Kneatt,55,14.82,16,2.88,climber in the trunk; newbelt fixed at same pom,Nil
+Hi67,Dryela,34,2.98,4.6,5.18,Nil,Nil
+Hi69,Hydalp,29,10.16,10.54,10.92,Nil,Nil
+Hi70,Humbru,39,1.16,1.46,1.66,Nil,Nil
+Hi71,Vatind,214,10.2,11.6,12.44,near Hi73,Nil
+Hi72,Myrdac,97,14.52,15.6,3.5,newbelt fixed @ same pom,Nil
+Hi73,Kneatt,49,6.34,8.96,10.52,near Hi91,Nil
+Hi74,Cinsp1,70,2.8,7.08,9.06,Nil,Nil
+Hi75,Dipind,304,8.8,-999,-999,tp @ 6 m; dead in previous year,Nil
+Hi78,Vatind,34,4.86,6.4,7.66,liana,Nil
+Hi79,Gargum,104,14.2,16,3.08,termite; newbelt fixed at same pom,Nil
+Hi81,Dipind,79,7.08,7.74,8.2,"off shoots, tp@10m, because of no;77fall",Nil
+Hi82,Kneatt,49,3.8,4.88,5.6,Nil,Nil
+Hi83,Palell,29,2.26,2.84,3.18,Nil,Nil
+Hi84,Kneatt,89,4.1,5.3,6,Nil,Nil
+Hi85,Gartal,79,1.08,1.8,1.88,Nil,Nil
+Hi86,Hydalp,30,2.4,3.4,3.4,near Hi70,Nil
+Hi88,Humbru,30,2.4,2.9,2.96,near Hi60;,Nil
+Hi89,Reiana,30,4.32,5.4,6,near Hi57,Nil
+Hi90,Humbru,30,0.36,0.44,0.4,near Hi03,Nil
+Hi91,Humbru,29,1.78,2.4,3.06,near Hi73,Nil
+Hj01,Syzgar,29,10.3,10.5,10.46,Nil,Nil
+Hj02,Lopwig,0,12.88,-999,16,ladder; belt removed; newbelt to be fixed,Nil
+Hj04,Humbru,39,5.22,5.42,5.4,Nil,Nil
+Hj05,Notbed,29,8.4,8.98,9.06,Nil,Nil
+Hj06,Vatind,59,14,14.9,15.2,near Hj96,Nil
+Hj07,Strcey,64,9.8,10.74,11.12,Nil,Nil
+Hj08,Humbru,34,4.56,4.52,4.52,Nil,Nil
+Hj09,Vatind,135,11.38,15.4,4.54,newbelt fixed @ same pom,Nil
+Hj10,Herpap,30,1.32,1.62,1.96,Nil,Nil
+Hj11,Myrdac,64,11.2,13.4,14.44,Nil,Nil
+Hj12,Syzgar,59,12.74,14.3,14.8,Nil,Nil
+Hj13,Humbru,29,2.18,2.46,2.46,Nil,Nil
+Hj14,Polcof,29,2.1,4.22,4.9,Nil,Nil
+Hj15,Palell,34,7.62,9.6,10.56,Nil,Nil
+Hj16,Dipind,39,6.04,6.8,7.12,near Hj99,Nil
+Hj17,Kneatt,44,9.3,11.7,12.3,Nil,Nil
+Hj22,Vatind,64,2.52,9.7,11.78,Nil,Nil
+Hj23,Vatind,197,12.74,16,7.86,newbelt fixed @ same pom,Nil
+Hj24,Gartal,154,8.14,8.4,8.9,tree hole at bottom,Nil
+Hj25,Humbru,29,3.68,4.32,4.6,Nil,Nil
+Hj26,Kneatt,64,9.8,9.9,9.86,Nil,Nil
+Hj27,Myrdac,29,5.42,6,6.66,Nil,Nil
+Hj28,Humbru,29,0.82,1.06,1.26,Nil,Nil
+Hj29,Vatind,59,11.5,13,13.54,Nil,Nil
+Hj30,Humbru,29,3.3,3.34,3.26,Nil,Nil
+Hj31,Myrdac,74,6.26,6.78,6.8,Nil,Nil
+Hj32,Vatind,232,14.8,16,7.38,newbelt fixed @ same pom,Nil
+Hj33,Gartal,39,7.12,7.4,7.48,Nil,Nil
+Hj34,Vatind,164,9.46,12.54,14.24,Nil,Nil
+Hj35,Dimlaw,39,1.6,1.76,1.74,Nil,Nil
+Hj37,Myrdac,102,1,1.76,2.38,Nil,Nil
+Hj38,Vatind,120,6.08,7.68,8.64,Nil,Nil
+Hj39,Notbed,44,11.92,12.86,13.76,Nil,Nil
+Hj40,Mesfer,29,6.88,7.4,7.82,Nil,Nil
+Hj41,Dipind,299,7.4,7.78,7.8,pom to be changed,Nil
+Hj42,Hydalp,29,2.16,2.64,2.96,Nil,Nil
+Hj43,Humbru,29,0.68,0.7,-999,<30; belt removed; stand dead,Nil
+Hj44,Vatind,164,3.24,5.34,6.78,Nil,Nil
+Hj45,Myrdac,74,13.54,15.3,2.92,newbelt fixed @ same pom,Nil
+Hj47,Vatind,29,2.56,2.6,2.62,near Hj95,Nil
+Hj48,Mesfer,39,11.56,12.36,12.74,Nil,Nil
+Hj49,Mesfer,54,6.78,7.92,8.56,near Hj97,Nil
+Hj50,Vatind,103,13.96,15.5,3.04,newbelt fixed @ same pom,Nil
+Hj52,Beiwig,64,6.96,7,-999,stand dead; belt removed,Nil
+Hj53,Myrdac,74,5.72,6,6.1,Nil,Nil
+Hj54,Mesfer,174,8.92,13.32,2.76,newbelt fixed @ same pom,Nil
+Hj55,Vatind,44,4.32,4.12,-999,liana & climber; tp @ 15m; dead,Nil
+Hj56,Humbru,29,5,5.06,5.08,Nil,Nil
+Hj57,Casova,74,3.4,3.52,3.74,Nil,Nil
+Hj58,Humbru,34,2.74,3,3.1,Nil,Nil
+Hj60,Beiwig,64,12.96,12.9,13,Nil,Nil
+Hj61,Myrdac,49,12.26,13.9,14.32,Nil,Nil
+Hj63,Myrdac,79,5.2,8.9,10,Nil,Nil
+Hj65,Diosyl,129,5.16,6,7.14,fluted; pom to be changed,Nil
+Hj66,Humbru,44,5.46,5.64,5.72,Nil,Nil
+Hj67,Vatind,44,4.6,5.3,5.84,Nil,Nil
+Hj68,Humbru,44,3.12,3.46,3.66,Nil,Nil
+Hj69,Dipind,154,3.9,5.82,6.04,Nil,Nil
+Hj71,Mesfer,95,7.2,8.7,8.94,Nil,Nil
+Hj72,Vatind,39,7.22,8.64,9.06,Nil,Nil
+Hj74,Dipind,0,13.2,-999,16,missing; ladder; newbelt to be fixed,Nil
+Hj75,Reiana,34,6.8,7.2,7.3,Nil,Nil
+Hj77,Humbru,34,1.8,1.92,1.98,Nil,Nil
+Hj78,Vatind,29,0.88,1.3,1.38,<30,Nil
+Hj79,Myrdac,69,1.88,3.42,4.14,backside of 74,Nil
+Hj80,Dryela,148,14.08,15.5,1.32,fluted; newbelt fixed at same pom,Nil
+Hj82,Notbed,29,3,3.24,3.38,near Hj98,Nil
+Hj83,Myrdac,39,11.2,10.92,11.36,liana,Nil
+Hj84,Holnig,133,13.3,14.22,14.6,liana,Nil
+Hj85,Dipind,269,5.2,6.86,7.4,Nil,Nil
+Hj86,Vatind,44,4.26,4.26,-999,tp @ 6 m; dead,Nil
+Hj88,Myrdac,99,3.56,4.22,4.3,Nil,Nil
+Hj89,Humbru,29,2.68,2.82,2.9,Nil,Nil
+Hj91,Kneatt,84,12.16,13.76,14.88,Nil,Nil
+Hj92,Myrdac,59,1.5,3.32,4.3,belt disturbed & fixed,Nil
+Hj93,Humbru,29,3.8,5,5.22,Nil,Nil
+Hj95,Holnig,30,2.34,2.34,2.46,near Hj47,Nil
+Hj96,Diopru,30,1.42,1.4,1.38,near Hj06,Nil
+Hj97,Crywig,30,2.38,3.14,3.52,near Hj49,Nil
+Hj98,Vatind,29,3.76,4.5,5.7,previously near Hj81 (dead); near 82,Nil
+Hj99,Vatind,31,,31,1.28,"near Hj16, recruit 2021; newbelt fixed",Nil
+Hj100,Masarb,33,,33,4.8,"Near 89,85,92, recruit 2021; dead; due to big tree fallen; tag 16425",Nil
+Hj101,Humbru,29,,30,2.6,"recruit 2021; near ? Near 89,85,92; Newbelt fixed at same pom",Nil
+Hj102,Mesfer,0,,,-999,Girth 31; recruit 2022; tag 15890; newbelt to be fixed,Nil
+Hk01,Dryela,34,10.24,10.8,11.24,Nil,Nil
+Hk02,Humbru,29,2.64,2.64,2.72,Nil,Nil
+Hk03,Vatind,262,15.06,16,7.64,newbelt fixed @ same pom,Nil
+Hk04,Vatind,49,7.26,8.1,7.8,Nil,Nil
+Hk05,Masarb,44,10.3,10.4,10.44,Nil,Nil
+Hk06,Holgra,59,10.32,11.08,11.22,Nil,Nil
+Hk07,Beiwig,29,3.66,3.66,3.72,climber,Nil
+Hk08,Myrdac,89,5.52,6.36,6.62,Nil,Nil
+Hk09,Vatind,29,8.2,8.2,8.18,Nil,Nil
+Hk10,Humbru,34,2,2.04,2.08,slanting,Nil
+Hk11,Humbru,29,2.86,2.8,2.82,near Hk96,Nil
+Hk12,Humbru,34,5,5.2,5.26,Nil,Nil
+Hk13,Vatind,0,6.56,12.38,15.6,newbelt to be fixed,Nil
+Hk17,Mesfer,83,6.38,11.24,12.84,Nil,Nil
+Hk18,Humbru,34,6.26,2.8,3.1,near Hk96; Hk89 formerly near to Hk20; belt size,Nil
+Hk21,Kneatt,44,11.1,12.1,12.2,Nil,Nil
+Hk22,Dimlaw,44,5.52,6.06,6.14,near Hk93,Nil
+Hk23,Myrdac,74,8.36,8.42,8.46,Hl06; tp 10 m,Nil
+Hk25,Gartal,49,9.84,11.6,12.3,Nil,Nil
+Hk26,Humbru,34,4.8,5.2,5.46,Nil,Nil
+Hk27,Myrdac,109,5.18,5.8,5.84,Nil,Nil
+Hk28,Vatind,252,4,8.62,11,Nil,Nil
+Hk29,Humbru,34,1.3,1.4,1.42,Nil,Nil
+Hk30,Myrdac,79,3.1,3.44,3.48,Nil,Nil
+Hk31,Holfer,104,4.72,4.76,4.82,Nil,Nil
+Hk32,Vatind,109,12.12,13.6,14,near Hk92,Nil
+Hk33,Garmor,49,3.7,3.8,3.9,Nil,Nil
+Hk34,Hoppon,94,7.42,12.24,13.26,Nil,Nil
+Hk35,Mesfer,188,5.92,10,11.6,Nil,Nil
+Hk36,Vatind,29,2.8,2.76,2.8,Nil,Nil
+Hk37,Vatind,39,3.52,3.74,3.52,Nil,Nil
+Hk40,Dipind,274,11.86,12.6,13.18,Nil,Nil
+Hk43,Syzgar,161,4.48,9.1,10.7,fluted,Nil
+Hk44,Mesfer,35,7.86,-999,2.2,liana; newbelt fixed at same pom; uprooted; alive,Nil
+Hk45,Vatind,34,5.12,5.2,5.24,less branches,Nil
+Hk46,Humbru,34,7.14,7.52,8.2,Nil,Nil
+Hk47,Dimlaw,39,3.56,4.02,4.26,Nil,Nil
+Hk48,Gartal,29,6.68,6.76,7.38,Nil,Nil
+Hk50,Garmor,44,5.14,5.3,5.34,near Hk91,Nil
+Hk51,Vatind,29,1.9,1.9,1.94,Nil,Nil
+Hk52,Myrdac,128,8.48,9.34,10.04,Nil,Nil
+Hk53,Humbru,39,0.3,0.32,0.3,Nil,Nil
+Hk54,Humbru,34,4.54,5.02,5.14,tp @ 5 m; due to fallen tree,Nil
+Hk60,Notbed,29,4.22,4.22,4.2,Nil,Nil
+Hk61,Vatind,54,15.28,15.72,1.34,newbelt fixed @ same pom,Nil
+Hk62,Holnig,39,6.28,-999,-999,tp @ 3 m;dead in previous year,Nil
+Hk63,Crywig,114,15.4,16,1.96,newbelt fixed @ same pom,Nil
+Hk64,Kneatt,84,15.2,16,2,newbelt fixed @ same pom,Nil
+Hk65,Vatind,95,7.12,11.1,13.04,Nil,Nil
+Hk66,Kneatt,34,10.42,11.24,11.42,Nil,Nil
+Hk67,Kneatt,69,15.4,15.5,2.32,newbelt fixed @ same pom,Nil
+Hk68,Myrdac,189,9.3,10.5,11,Nil,Nil
+Hk69,Humbru,29,2.5,2.58,2.56,Nil,Nil
+Hk70,Cinsp1,60,2.2,3.1,3.5,Nil,Nil
+Hk71,Hydalp,54,4.64,5.72,6.32,Near Hk95,Nil
+Hk72,Myrdac,84,13.5,15.5,1.4,"Near Hk94, Hk95; Newbelt fixed at same pom",Nil
+Hk77,Myrdac,112,4,6.88,8.52,written as 79,Nil
+Hk78,Kneatt,59,4.1,4.46,4.94,near Hk90,Nil
+Hk80,Kneatt,54,9.42,11.48,12.4,Nil,Nil
+Hk81,Parpen,44,3.1,3.1,3.12,Nil,Nil
+Hk82,Vatind,34,7.6,7.8,8.3,Nil,Nil
+Hk83,Mesfer,0,12.14,14.76,15.8,Belt size?; belt removed; newbelt to be fixed; tree gap,Nil
+Hk85,Vatind,29,4.14,4.52,4.48,tree gap,Nil
+Hk86,Dipind,359,4.98,7.2,7.08,Alive; tp @ 30 m; offshoots alive,Nil
+Hk87,Vatind,295,5.1,5.76,5.8,tp @ 3 m; alive; big tree fall,Nil
+Hk88,Dimlon,99,10.04,12,-999,"tp @ 4m, dead ; big tree fall",Nil
+Hk89,Vatind,30,1.4,2.18,2.86,Nil,Nil
+Hk90,Vatind,29,1.34,1.4,1.6,near Hk78,Nil
+Hk91,Humbru,30,1.14,1.4,1.62,near Hk50,Nil
+Hk92,Myrdac,30,1.82,2.22,2.44,near Hk32,Nil
+Hk93,Humbru,30,5.08,6.54,6.82,near Hk22; disturbed by tree fall Hj21,Nil
+Hk94,Gartal,30,1.86,2.64,3.2,near Hk72; Hl12,Nil
+Hk95,Humbru,29,2.16,3,3.98,near Hk71,Nil
+Hk96,Syzgar,29,7.1,9.8,10.72,near Hk11/17; Hl 03,Nil
+Hl02,Vatind,164,13.74,16,6.92,Newbelt fixed at same pom; near C394,Nil
+Hl03,Dimlaw,54,5.82,6,5.92,near Hk96,Nil
+Hl04,Notbed,44,8.2,9.92,10.1,slanting,Nil
+Hl05,Humbru,29,4,4.7,5.2,near C369,Nil
+Hl06,Gartal,49,6.6,6.6,6.6,Near Hk23; tp @10 m ; alive,Nil
+Hl08,Kneatt,39,12.08,12.68,14.3,liana,Nil
+Hl10,Hoppon,49,4.42,5.2,5.64,tp @ 14 m ; tree alive,Nil
+Hl12,Myrdac,34,9.3,9.24,10.54,Nil,Nil
+Hl13,Humbru,34,1.62,1.8,1.8,Nil,Nil
+Hl14,Myrdac,69,14.8,16,3,Newbelt fixed at same pom,Nil
+Hm01,Humbru,29,1.2,1.4,1.54,near C259,Nil
+Hm05,Dimlaw,29,1.88,-999,2.62,near C328; missing,Nil
+Hm06,Diopru,29,5.86,6.72,6.9,near C331,Nil
+Hm07,Myrdac,44,3.62,4.7,5.42,near C380; Hn58; belt wrong 23,Nil
+Hn01,Humbru,39,5.18,5.26,5.28,base trunk hole upto 1 m; tp @ 3 m;Hn58,Nil
+Hn02,Reiana,59,12.72,13,12.86,Nil,Nil
+Hn03,Rinben,39,9.46,10.08,10.12,Nil,Nil
+Hn04,Diobou,126,11.32,128.5,12.7,fluted; G128.5; pom 50 cm down of previous pom; same belt adjusted ,Nil
+Hn06,Myrdac,79,7.8,8.56,8.92,Nil,Nil
+Hn07,Vatind,165,12.82,16,2.54,Newbelt fixed at same pom; Hn57,Nil
+Hn08,Chrrox,34,-999,-999,-999,uprooted; dead caused by Hj21; check in 2020; not possible in 2019,Nil
+Hn09,Mesfer,140,13.8,14.44,14.8,Nil,Nil
+Hn11,Kneatt,109,-999,8.94,8.26,Nil,Nil
+Hn12,Palell,90,5.14,-999,8.76,tree falls gap,Nil
+Hn13,Parpen,59,15.1,16,3,Newbelt fixed at same pom,Nil
+Hn14,Semaur,94,6,6.46,6.74,Nil,Nil
+Hn15,Vatind,29,5.1,5.1,5.32,Nil,Nil
+Hn16,Kneatt,119,3,3.04,3.14,Nil,Nil
+Hn17,Semaur,134,7.46,8.34,8.64,Nil,Nil
+Hn18,Reiana,64,2.78,3.16,3.18,Nil,Nil
+Hn19,Vatind,44,9.92,10.94,11.74,Nil,Nil
+Hn20,Myrdac,64,7.22,7.7,8.5,Nil,Nil
+Hn21,Palell,54,7.48,8.36,9,Nil,Nil
+Hn23,Masarb,36,9.16,10.28,10.8,Nil,Nil
+Hn24,Hoppon,205,11.04,12.1,12.92,Nil,Nil
+Hn25,Notbed,54,15.08,15.8,1.84,Newbelt fixed at same pom,Nil
+Hn26,Vatind,29,7.1,7.08,11.08,Nil,Nil
+Hn27,Litflo,34,14.1,14.14,14.2,near Hn59,Nil
+Hn28,Myrdac,69,10.42,11.26,11.68,Nil,Nil
+Hn29,Myrdac,95,0.98,2,2.2,Nil,Nil
+Hn30,Antmon,44,5.26,5.38,5.42,Nil,Nil
+Hn31,Arthet,59,1.36,2.02,2.48,Nil,Nil
+Hn34,Vatind,278,1.8,6.6,8.4,Nil,Nil
+Hn35,Humbru,49,0.44,0.8,0.78,Nil,Nil
+Hn36,Vatind,64,2.74,3.6,4.06,Nil,Nil
+Hn37,Semaur,29,7.84,8.4,8.52,Nil,Nil
+Hn38,Dryela,34,7.54,8.1,8.4,Nil,Nil
+Hn39,Myrdac,0,10.64,13.44,16,near Hn54; pom to be changed with ladder; Newbelt to be fixed,Nil
+Hn42,Vatind,254,2.44,2.58,2.68,near Hn53,Nil
+Hn43,Reiana,49,15,16.5,1.12,Newbelt fixed at same pom,Nil
+Hn44,Myrdac,95,1.24,2.8,3.4,Nil,Nil
+Hn45,Humbru,31,0.26,0.26,0.3,Nil,Nil
+Hn47,Vatind,0,12.4,-999,-999,belt missing; girth 222; Newbelt to be fixed,Nil
+Hn48,Dryela,33,1.8,0.8,0.78,tp @ 3 m,Nil
+Hn49,Vatind,83,2.42,2.7,2.94,Nil,Nil
+Hn50,Vatind,33,5.34,5.36,5.36,near Hn56,Nil
+Hn51,Vatind,78,3.72,5.62,6.48,Nil,Nil
+Hn52,Myrdac,95,11.88,13.2,13.6,Nil,Nil
+Hn53,Dryela,29,8.68,8.8,8.88,near Hn42,Nil
+Hn54,Vatind,30,0.64,0.84,0.64,near Hn39; tp @ 8 m,Nil
+Hn55,Humbru,32,1.52,1.4,1.44,Nil,Nil
+Hn56,Humbru,30,2.22,2.4,2.42,near Hn50,Nil
+Hn57,Dryela,29,1.2,1.42,1.54,Near Hn7,Nil
+Hn58,Kinpin,32,2,2.24,2.62,near Hn1,Nil
+Hn59,Humbru,29,1.42,1.48,1.5,Near Hn27; belt adjusted,Nil
+Ho01,Diobou,169,2.72,3.2,3.62,Nil,Nil
+Ho02,Reiana,99,13.52,13.8,14.36,near Ho76; fluted,Nil
+Ho03,Holnig,99,1.74,1.9,2.1,Nil,Nil
+Ho04,Kinpin,104,8.3,11.44,12.86,Nil,Nil
+Ho05,Myrdac,99,7.92,8,8,Male?; multistem 27 g,Nil
+Ho06,Myrdac,109,2.04,2.24,2.4,Nil,Nil
+Ho07,Vatind,134,1.54,3.06,3.86,Nil,Nil
+Ho08,Dryela,44,8.52,9.06,9.1,Nil,Nil
+Ho10,Myrdac,119,7.5,7.76,7.84,Nil,Nil
+Ho11,Vatind,39,7.8,7.76,7.9,near Ho79,Nil
+Ho12,Myrdac,44,12.68,13.42,13.68,near Ho79,Nil
+Ho13,Rinben,39,10.1,10.44,10.48,Nil,Nil
+Ho14,Dipind,224,5.46,7.52,8.32,Nil,Nil
+Ho15,Diopru,49,2.16,2.06,2.3,Nil,Nil
+Ho17,Antmon,54,10.26,10.46,10.56,multi stem; 34.4,Nil
+Ho18,Vatind,65,3.64,3.82,3.94,Nil,Nil
+Ho19,Humbru,34,2,2.04,2.04,near Ho77,Nil
+Ho20,Crywig,29,7.92,7.94,7.94,Nil,Nil
+Ho21,Dryela,109,10.48,10.72,10.76,Nil,Nil
+Ho22,Chrrox,79,14.42,14.9,15.2,Nil,Nil
+Ho23,Cinsp1,69,1.96,2.64,3.12,Nil,Nil
+Ho24,Humbru,34,2.82,3,3.06,Nil,Nil
+Ho25,Myrdac,89,6.68,7.08,7.1,fluted; tree hole,Nil
+Ho26,Humbru,34,1.6,1.6,1.64,near Ho74,Nil
+Ho27,Humbru,34,7.36,7.94,7.94,Nil,Nil
+Ho29,Notbed,69,2.48,2.8,2.74,Nil,Nil
+Ho31,Vatind,29,7.44,8.5,7.52,Nil,Nil
+Ho32,Myrdac,84,5.86,5.94,5.92,Nil,Nil
+Ho33,Diosyl,64,13.32,13.2,13.2,few branches,Nil
+Ho34,Parpen,114,6.1,6.14,6.1,flutted,Nil
+Ho35,Rinben,29,9.2,9.58,9.6,Nil,Nil
+Ho36,Myrdac,54,5.56,7.04,7.54,Nil,Nil
+Ho37,Vatind,49,6.36,6.56,6.9,Nil,Nil
+Ho38,Crywig,69,1.42,3.06,4.16,Nil,Nil
+Ho39,Reiana,,0.6,1.36,1.76,scale not clear; reading with old belt,Nil
+Ho39,Reiana,42,0.6,1.36,3.8,newbelt fixed @ same pom,Nil
+Ho40,Otosti,29,12.46,12.92,12.34,Nil,Nil
+Ho41,Humbru,,,,3.36,Nil,Nil
+Ho42,Parpen,48,1.56,2.34,2.64,Nil,Nil
+Ho43,Hararb,29,11.74,12,12.18,Nil,Nil
+Ho44,Myrdac,114,10.46,11.2,11.3,near Ho78,Nil
+Ho45,Masarb,104,15.48,16,2.9,newbelt fixed @ same pom,Nil
+Ho47,Reiana,49,9,9.8,10.26,Nil,Nil
+Ho48,Diobou,49,6.04,6.38,6.4,Nil,Nil
+Ho49,Holgra,215,11.8,13,13.16,Nil,Nil
+Ho50,Hydalp,59,3.98,4.2,4.2,Nil,Nil
+Ho54,Strcey,104,2.32,4.4,4.92,Nil,Nil
+Ho55,Garmor,43,2.92,2.9,2.92,tp@ 10 m,Nil
+Ho59,Hararb,0,11.96,15,16,Belt removed; newbelt to be fixed,Nil
+Ho60,Kneatt,55,2.9,3.68,4.06,Nil,Nil
+Ho62,Vatind,51,15,15,15,Nil,Nil
+Ho63,Vatind,40,10.2,10.2,10.24,climber,Nil
+Ho65,Vatind,37,0.86,1,1.36,climber,Nil
+Ho66,Kneatt,42,9.38,11.5,12.1,liana,Nil
+Ho67,Kneatt,32,5.24,5.56,5.64,liana,Nil
+Ho68,Hydalp,33,4.36,4.38,4.46,Nil,Nil
+Ho69,Cinsp1,0,12.16,15,16,Belt removed; newbelt to be fixed,Nil
+Ho70,Notbed,34,9.44,9.62,9.96,Nil,Nil
+Ho73,Palell,68,8.3,8.38,8.46,liana,Nil
+Ho74,Kinpin,29,5.8,6,6,near Ho26,Nil
+Ho76,Diogha,31,2.4,3.3,2.4,near Ho02; sp Id changed Previously Diosyl; Tp @ 8 m,Nil
+Ho77,Crywig,30,5.2,5.6,6.02,near Ho19,Nil
+Ho78,Humbru,30,2,2,2,near Ho44,Nil
+Ho79,Holnig,29,2.94,3.18,3.3,"""near Ho12",Nil
+Ho80,Palell,,,,1.42,near ?,Nil
+Ra01,Dryela,80,4.04,4.76,4.9,Nil,Nil
+Ra02,Palell,29,6.46,6.8,6.86,Nil,Nil
+Ra04,Vatind,152,16,9.5,12.82,Nil,Nil
+Ra06,Dipind,220,8.5,12.5,13.52,Nil,Nil
+Ra07,Lopwig,0,14.62,16,-999,near Ra84; Newbelt to be fixed; Girth 155.8;,Nil
+Ra10,Dipind,195,2.8,6,7.64,Nil,Nil
+Ra11,Kneatt,41,3,3,3.02,Nil,Nil
+Ra12,Palell,75,2.04,2.6,3.58,Nil,Nil
+Ra14,Hydalp,40,5.2,5.4,5.84,Nil,Nil
+Ra15,Arthet,90,5.56,7.16,7.6,Nil,Nil
+Ra16,Mesfer,0,14.52,16,-999,newbelt to be fixed @ pom 1.90m; Girth 126; ,Nil
+Ra19,Mesfer,54,1.8,2.44,2.84,Nil,Nil
+Ra21,Vatind,30,1.64,2.18,2.1,Nil,Nil
+Ra22,Calpol,99,5.76,6.2,6.28,Nil,Nil
+Ra23,Hydalp,34,4.78,5.5,6.24,Nil,Nil
+Ra25,Hoppon,96,2.12,2.2,2.58,fluted; tp @ 10 m; offshoots; alive,Nil
+Ra26,Hydalp,89,8.4,8.4,8.7,Branches broken,Nil
+Ra27,Manind,0,14.16,14.96,15.46,Nil,Nil
+Ra28,Syzgar,43,4.36,4.42,4.48,top prone at 15 m; offshoots; alive,Nil
+Ra30,Dipind,145,5.42,6.48,6.84,Nil,Nil
+Ra31,Vatind,383,7.56,8.82,10,fluted; branches fallen,Nil
+Ra32,Myrmal,33,8.8,9.64,10.08,Nil,Nil
+Ra33,Manind,0,13.78,16,-999,fluted; new belt to be fixed; Girth 190,Nil
+Ra34,Gargum,70,2.56,3.76,3.82,Nil,Nil
+Ra35,Myrmal,64,6.82,6.86,6.84,liana on the main trunk,Nil
+Ra36,Palell,40,2.6,2.58,2.6,Nil,Nil
+Ra37,Herpap,60,4.14,4.4,4.34,Nil,Nil
+Ra38,Vatind,130,5.94,8.46,9.6,near Ra87,Nil
+Ra40,Herpap,64,6.76,8.2,8.6,near Ra83,Nil
+Ra41,Syzgar,30,8.48,8.54,8.52,near Ra86,Nil
+Ra42,Vatind,139,3.88,6.1,7.14,Nil,Nil
+Ra44,Herpap,57,13.2,14.46,14.8,near Ra81 & Ra82; fluted,Nil
+Ra45,Hydalp,54,8.4,8.4,8.52,climber,Nil
+Ra47,Palell,59,2.8,4,4.6,Nil,Nil
+Ra48,Kneatt,54,13.86,13.9,14,Nil,Nil
+Ra49,Syzgar,69,8.12,8.8,9.12,Nil,Nil
+Ra53,Hydalp,33,8.42,8.56,8.58,Nil,Nil
+Ra54,Casova,41,4.08,4.2,4.22,Nil,Nil
+Ra55,Dipind,253,9.16,9.74,10.36,Nil,Nil
+Ra56,Palell,40,4,4.4,4.48,Nil,Nil
+Ra57,Vatind,0,15.2,17,-999,newbelt to be fixed; girth 136,Nil
+Ra58,Vatind,182,5.4,8.84,11.3,near Ra80,Nil
+Ra59,Mesfer,33,13.06,13.76,13.98,Nil,Nil
+Ra60,Vatind,82,11.1,11.16,11.38,Nil,Nil
+Ra62,Vatind,140,8.2,9.4,10.2,Nil,Nil
+Ra63,Hydalp,54,6.08,6.2,6.58,Nil,Nil
+Ra64,Hoppon,53,1.42,1.28,1.38,Nil,Nil
+Ra70,Palell,34,5.88,6,6.16,Nil,Nil
+Ra71,Kneatt,127,9.04,10.3,10.34,Nil,Nil
+Ra72,Vatind,31,3.44,3.4,3.38,less branches & leaves,Nil
+Ra73,Vatind,0,13.82,15.6,-999,newbelt to be fixed; girth 107.2,Nil
+Ra74,Herpap,118,2.4,2.92,3.3,Nil,Nil
+Ra75,Garmor,44,9.28,9.6,9.7,Nil,Nil
+Ra76,Vatind,100,11.44,12.6,13.18,near Ra85,Nil
+Ra77,Vatind,97,8.9,11.28,12.44,Nil,Nil
+Ra78,Vatind,114,9.82,11.8,13.16,Nil,Nil
+Ra79,Myrdac,69,4.4,4.64,4.78,Nil,Nil
+Ra80,Humbru,30,2.2,2.58,2.58,near Ra58,Nil
+Ra81,Diopru,30,1.48,1.56,1.56,near Ra44; Ra 82,Nil
+Ra82,Garmor,31,2.78,2.86,2.96,near Ra44; Ra 81,Nil
+Ra83,Mesfer,33,8,8.08,8.2,near Ra40,Nil
+Ra84,Garmor,35,12.96,13.86,14.24,near Ra07,Nil
+Ra85,Palell,30,4.52,5.8,6.36,near Ra76,Nil
+Ra86,Mesfer,32,5.5,5.78,5.88,near Ra41,Nil
+Ra87,Hoppon,30,3.34,3.4,3.76,near Ra38; climber,Nil
+Ra88,Mesfer,29,2.44,3.48,3.98,Nil,Nil
+Rb01,Diobux,0,13.1,15.28,16,Newbelt to be fixed; Girth 58.5,Nil
+Rb02,Palell,33,4.06,4.2,4.42,Nil,Nil
+Rb07,Gargum,0,13.74,15.98,-999,near Rb67; Newbelt to be fixed; Girth 44.2,Nil
+Rb08,Mesfer,44,10.74,11.3,11.48,Nil,Nil
+Rb10,Syzgar,125,6.12,7.88,8.52,Nil,Nil
+Rb11,Palell,36,1,1,1.04,climber,Nil
+Rb12,Mesfer,0,9,14.5,16,newbelt to be fixed; Girth 127,Nil
+Rb13,Vatind,48,13.44,14.42,14.8,Nil,Nil
+Rb14,Vatind,54,8.52,10.24,10.92,Nil,Nil
+Rb15,Vatind,54,8.5,9.5,9.94,near Rb68,Nil
+Rb16,Diosyl,90,5.84,7,7.2,near Rb75,Nil
+Rb17,Vatind,0,9.48,14.78,17,pom to be changed 167 @ 2 m; near Rb75; newbelt to be fixed,Nil
+Rb18,Syzgar,47,3.06,3,3.1,Nil,Nil
+Rb19,Mesfer,128,2.8,4.18,4.78,no change in the pom,Nil
+Rb20,Vatind,54,5.88,6.1,6.34,Nil,Nil
+Rb21,Dipind,211,2.84,3.4,3.92,Nil,Nil
+Rb22,Mesfer,64,11.02,11.38,11.54,Nil,Nil
+Rb23,Vatind,115,1.94,4.64,5.96,Nil,Nil
+Rb24,Humbru,35,5.1,5.4,5.5,Nil,Nil
+Rb25,Mesfer,92,6.8,7.2,7.3,Nil,Nil
+Rb26,Syzgar,105,4.06,5.46,6.32,pom to be changed 97 @ 220 m,Nil
+Rb28,Hydalp,64,5.08,5.08,5.1,Nil,Nil
+Rb30,Mesfer,39,3.78,3.82,3.9,climber on top,Nil
+Rb31,Calpol,137,7.16,9.5,10.54,wrong Belt no 38,Nil
+Rb32,Syzgar,59,12.9,13.96,13.8,Nil,Nil
+Rb33,Syzgar,70,8.4,9.92,10.4,Nil,Nil
+Rb34,Humbru,33,5.98,6.18,6.26,near Rb69,Nil
+Rb35,Vatind,54,8.84,9.58,10,Nil,Nil
+Rb36,Palell,46,3.08,3.22,3.48,near Rb65,Nil
+Rb38,Vatind,106,12.04,12.74,13.24,"near Rb70, Rb66 (previously Rb37)",Nil
+Rb39,Vatind,127,7.8,10,11.34,Nil,Nil
+Rb40,Mesfer,79,2.16,2.94,3.14,Nil,Nil
+Rb41,Syzgar,66,4.26,5.82,4.98,Nil,Nil
+Rb42,Vatind,162,3.22,4.76,5.6,Nil,Nil
+Rb43,Parpen,46,6.64,6.98,7.38,Nil,Nil
+Rb45,Syzgar,64,4.22,4.34,4.36,near Rb72 (previously Rb46),Nil
+Rb46,Mesfer,51,2.16,2.02,-999,near Rb72; irregular; dead tp @ 12 m,Nil
+Rb48,Vatind,116,4.68,4.94,5.18,Nil,Nil
+Rb49,Mesfer,48,1.88,3.22,3.68,Nil,Nil
+Rb50,Dipind,227,1.62,1.8,2.2,tree hole,Nil
+Rb51,Vatind,44,2.68,2.72,2.72,Nil,Nil
+Rb52,Hydalp,56,3.06,3.22,3.3,Nil,Nil
+Rb53,Vatind,53,8.78,9.26,9.48,Nil,Nil
+Rb56,Vatind,45,2.28,2.3,2.32,tp @ 10 m,Nil
+Rb57,Vatind,117,0.4,4.2,5.8,Rb71,Nil
+Rb58,Hydalp,101,1.84,1.96,2,Nil,Nil
+Rb59,Dipind,0,15.38,17,-999,newbelt to be fixed; Girth 202.3,Nil
+Rb60,Vatind,210,3.78,5.38,6.78,Nil,Nil
+Rb61,Myrdac,50,10.78,11.66,11.86,liana,Nil
+Rb63,Syzgar,0,14.72,16,-999,newbelt to be fixed; Girth 157,Nil
+Rb64,Casova,34,7,7.08,7.1,Nil,Nil
+Rb65,Humbru,31,1.54,1.6,1.6,near Rb36,Nil
+Rb66,Myrmal,30,9.78,11.36,11.34,near Rb37,Nil
+Rb67,Dipind,31,1.92,2.3,2.46,near Rb07,Nil
+Rb68,Humbru,30,2,2.38,2.24,near Rb15,Nil
+Rb69,Humbru,30,0.78,0.7,0.74,near Rb34; slanting,Nil
+Rb70,Mesfer,31,5.98,6.3,6.48,near Rb38  (previously Rb37); Rb66,Nil
+Rb71,Humbru,29,1.6,2.32,2.4,near Rb57,Nil
+Rb72,Diobux,29,1.62,1.66,1.68,RBb45,Nil
+Rb74,Humbru,29,1.68,-999,1.8,near Rb25; rec 2019,Nil
+Rb75,Syzgar,29,,,2.2,near 17/16,Nil
+Rc01,Lopwig,38,9.84,10.4,10.7,Nil,Nil
+Rc03,Syzgar,39,14.1,15.42,15.64,Nil,Nil
+Rc04,Hoppon,45,11,12,12.6,Nil,Nil
+Rc05,Garmor,36,4.28,4.5,4.64,Nil,Nil
+Rc06,Lopwig,49,7.38,8.8,9.58,Nil,Nil
+Rc07,Hoppon,30,4.52,4.52,4.72,branches drying,Nil
+Rc08,Vatind,85,4.76,5,5.2,Nil,Nil
+Rc10,Palell,40,4.86,5.2,5.2,liana,Nil
+Rc11,Vatind,188,10.64,12.9,14.4,Nil,Nil
+Rc12,Hoppon,33,10.82,11,11.02,Nil,Nil
+Rc13,Lopwig,52,3.82,6.08,7.28,belt no. 168,Nil
+Rc20,Mesfer,69,13.62,14.4,14.8,Nil,Nil
+Rc24,Diobux,41,10.8,11.76,11.96,Nil,Nil
+Rc26,Hoppon,78,5.46,5.8,6.4,Nil,Nil
+Rc28,Vatind,76,7.64,8.7,9.2,Nil,Nil
+Rc29,Gargum,31,5.14,5.4,5.34,Nil,Nil
+Rc31,Hydalp,30,3.78,3.8,3.84,near Rc72,Nil
+Rc32,Mesfer,104,2.98,4.14,4.7,near Rc75; fluted; pom changed 93 cm @ 80 cm above the belt,Nil
+Rc34,Hydalp,99,1.32,1.28,1.5,top prone at 10m; Near Rc74,Nil
+Rc35,Syzgar,126,9.8,10.7,11.52,Nil,Nil
+Rc36,Hydalp,76,2.32,2.32,2.34,near Rc70,Nil
+Rc37,Beiwig,55,2.8,2.8,2.8,Nil,Nil
+Rc38,Calpol,250,2,4.2,5.4,Nil,Nil
+Rc40,Kneatt,86,1.6,1.7,1.74,Nil,Nil
+Rc42,Vatind,157,6.68,10.2,12.02,bark scaly ,Nil
+Rc43,Humbru,43,0.9,0.94,0.98,Nil,Nil
+Rc44,Syzgar,38,7.3,7.96,8.24,near Rc71,Nil
+Rc45,Vatind,152,1.84,2.48,2.8,Nil,Nil
+Rc46,Hydalp,88,2.48,2.56,2.66,irregular,Nil
+Rc48,Syzgar,53,5.2,5.66,6,Nil,Nil
+Rc49,Kneatt,39,2.86,3.2,3.26,Nil,Nil
+Rc50,Syzgar,74,2.92,4.58,5.04,Nil,Nil
+Rc51,Vatind,0,14.4,20,-999,newbelt to be fixed; Girth 279,Nil
+Rc52,Mesfer,41,3.88,4,4,bark came off,Nil
+Rc53,Syzgar,60,7.62,7.94,8.1,Nil,Nil
+Rc55,Semaur,37,6.92,7.36,7.6,Nil,Nil
+Rc56,Myrdac,46,12,13.34,13.4,Nil,Nil
+Rc57,Vatind,78,4.56,5.2,5.08,Nil,Nil
+Rc58,Myrdac,42,4.38,5.36,5.48,Nil,Nil
+Rc59,Vatind,126,1.24,1.4,1.7,Nil,Nil
+Rc60,Myrdac,33,1.08,1.58,1.62,Nil,Nil
+Rc61,Myrmal,90,4.56,5.58,4.62,tp @ 12 m in 2016; tree alive; offshoot,Nil
+Rc62,Dipind,245,12.74,13,13.2,pom to be changed with ladder,Nil
+Rc63,Palell,30,6.4,7,7.04,Nil,Nil
+Rc64,Kneatt,30,1.62,1.86,1.66,Nil,Nil
+Rc65,Syzgar,0,15.1,17,-999,New belt to be fixed; Girth 61.6,Nil
+Rc66,Mesfer,54,3.46,3.78,3.96,bark came off; Liana,Nil
+Rc67,Vatind,144,7.4,8.96,9.98,Nil,Nil
+Rc68,Mesfer,38,5.52,7.22,8.1,Nil,Nil
+Rc69,Myrdac,34,1.78,2.1,2.46,Nil,Nil
+Rc70,Herpap,30,1.38,1.46,1.46,near Rc36,Nil
+Rc71,Diosyl,31,9.84,11.2,11.74,near Rc44,Nil
+Rc72,Syzgar,32,1,1.98,2.16,near Rc31,Nil
+Rc74,Vatind,32,4.46,4.56,4.6,near Rc32 (previously Rc33),Nil
+Rc75,Syzgar,30,3.26,4.04,3.88,near Rc32,Nil
+Rf01,Lopwig,64,8.08,8.18,8.2,Nil,Nil
+Rf04,Vatind,79,12.32,13.44,13.96,Nil,Nil
+Rf05,Garmor,52,10.08,10.16,10.24,Nil,Nil
+Rf06,Myrdac,41,3.28,7.98,5.72,irregular,Nil
+Rf07,Vatind,0,14.08,19,-999,termites; Newbelt to be fixed; girth 232.5,Nil
+Rf08,Crywig,50,6,6.1,6.22,near Rf62,Nil
+Rf12,Myrdac,46,3.32,3.58,4,Nil,Nil
+Rf13,Lopwig,0,12.22,-999,16,ladder; belt removed; newbelt to be fixed,Nil
+Rf14,Vatind,169,10.22,13.6,14,belt no. 15,Nil
+Rf15,Kneatt,91,5.26,5.38,5.4,fluted,Nil
+Rf16,Myrdac,71,5.26,5.72,5.82,Nil,Nil
+Rf17,Vatind,99,2.8,3.6,5.38,Nil,Nil
+Rf18,Mesfer,30,4.1,4.48,4.72,Nil,Nil
+Rf19,Kneatt,52,2.42,2.58,2.62,irregular; trunk damaged,Nil
+Rf20,Syzgar,98,9.2,10.22,10.8,Nil,Nil
+Rf21,Vatind,185,3.68,6.98,9.4,near Rf61,Nil
+Rf22,Diosyl,42,5,4.92,4.94,Nil,Nil
+Rf23,Dryela,49,7.52,8.28,8.38,irregular; termites; climber,Nil
+Rf24,Manind,159,2.9,3,3.02,termites,Nil
+Rf25,Palell,42,9.98,10.9,11.88,near Rf60,Nil
+Rf26,Kneatt,66,5.4,5.5,5.52,Nil,Nil
+Rf27,Diogha,74,3,4.34,4.34,Nil,Nil
+Rf28,Vatind,0,13.74,17,-999,newbelt to be fixed; Girth 101.4,Nil
+Rf29,Holnig,138,3.48,5.64,3.7,Nil,Nil
+Rf30,Myrdac,78,2.32,3.8,4.46,Rf64,Nil
+Rf31,Kneatt,48,5.62,6.56,6.6,Nil,Nil
+Rf32,Diobux,53,3.52,4.52,4.86,liana,Nil
+Rf33,Vatind,83,13.86,14.6,15.14,Liana,Nil
+Rf35,Myrdac,39,10.16,10.48,10.62,liana,Nil
+Rf36,Vatind,125,10.56,11.86,12.46,Nil,Nil
+Rf37,Mesfer,41,5.4,5.42,5.42,Nil,Nil
+Rf38,Manind,39,1.5,2.54,1.54,Nil,Nil
+Rf39,Diosyl,33,1.14,1.36,1.4,Nil,Nil
+Rf40,Vatind,135,4.4,8.84,10.94,Nil,Nil
+Rf41,Kneatt,79,10.3,11.4,11.5,near Rg81,Nil
+Rf42,Gartal,49,5.22,5.22,5.28,Nil,Nil
+Rf43,Kneatt,48,1.2,1.2,1.2,Nil,Nil
+Rf44,Crywig,0,15,16,-999,New belt to be fixed; Girth 92.6,Nil
+Rf45,Holnig,76,5.14,5.2,5.34,liana,Nil
+Rf46,Myrdac,73,7.52,8.2,8.36,slanting; liana,Nil
+Rf48,Vatind,48,1.36,1.38,1.42,Nil,Nil
+Rf49,Myrmal,102,7.32,7.8,7.88,Nil,Nil
+Rf50,Aglper,36,2.24,2.1,2.1,Previous ID Aphpol ,Nil
+Rf52,Syzgar,42,2.3,3.46,2.6,liana,Nil
+Rf53,Vatind,44,0.84,0.9,0.98,liana locked; ,Nil
+Rf55,Vatind,175,7.46,10.04,11,Nil,Nil
+Rf56,Myrdac,33,0.64,0.66,0.68,Nil,Nil
+Rf57,Vatind,62,8,8.78,9.06,liana; Rf63,Nil
+Rf58,Kneatt,43,4.08,4.6,4.68,Nil,Nil
+Rf60,Humbru,31,-0.2,-0.2,-0.2,near Rf25,Nil
+Rf61,Dryela,30,5.48,6.3,6.64,near Rf21,Nil
+Rf62,Humbru,30,2.66,2.98,3.12,near Rf08,Nil
+Rf63,Garmor,29,2.5,3.12,3.2,near Rf57,Nil
+Rf64,Humbru,29,1.68,2.06,2.06,near Rf30,Nil
+Rg01,Crywig,53,9.84,10.46,11.14,Nil,Nil
+Rg02,Reiana,0,14.26,15.3,15.8,belt removed; newbelt to be fixed,Nil
+Rg03,Syzgar,49,6.84,7.18,7.24,near Rg83,Nil
+Rg04,Crywig,63,8.46,8.6,8.76,Nil,Nil
+Rg05,Kneatt,80,8.76,8.9,9.92,Nil,Nil
+Rg06,Mesfer,154,4.64,7.4,8.96,Nil,Nil
+Rg07,Vatind,70,5.88,6.1,6.4,Nil,Nil
+Rg08,Kneatt,30,8.86,8.6,8.6,tp @ 10 m,Nil
+Rg09,Diobou,0,14.28,17.6,-999,fluted; newbelt to be fixed'; Girth 106.1,Nil
+Rg10,Vatind,31,7.18,7.48,7.6,liana,Nil
+Rg11,Palell,30,8.3,9,9.18,Nil,Nil
+Rg13,Mesfer,37,10.62,10.7,10.74,Nil,Nil
+Rg15,Reiana,58,3.1,3.36,3.48,Nil,Nil
+Rg16,Ptediv,54,2.64,3,3.16,top prone at 3m; alive,Nil
+Rg17,Holnig,66,4.2,4.2,4.34,Nil,Nil
+Rg18,Dimlon,74,-999,-999,-999,fluted; main trunk dead; offshoot; alive; no G measurements,Nil
+Rg19,Palell,43,12.54,12.54,12.6,Nil,Nil
+Rg20,Syzgar,63,10.1,10.6,10.76,near Rg86,Nil
+Rg22,Vatind,37,6.18,6.2,6.2,Nil,Nil
+Rg23,Humbru,49,8.02,8.54,9,"""near Rg85",Nil
+Rg24,Hoppon,80,1.62,1.8,1.94,Nil,Nil
+Rg25,Kneatt,71,9.62,9.7,9.78,climber on top,Nil
+Rg27,Kneatt,66,6.4,6.6,6.62,liana,Nil
+Rg28,Dipind,40,10.4,11.28,11.6,Rg45,Nil
+Rg29,Diosyl,52,9.62,10.68,11,liana loads,Nil
+Rg30,Hoppon,47,2.78,3.12,3.28,liana loads,Nil
+Rg31,Hoppon,0,12.9,14.18,15.6,"""near Rg82; Belt removed; newbelt to be fixed",Nil
+Rg32,Myrdac,77,4.2,4.34,4.5,"""near Rh52",Nil
+Rg35,Diogha,38,7,7.2,7,top prone at 6m; liana; alive,Nil
+Rg36,Manind,34,8.28,9.5,9.98,near Rg88,Nil
+Rg37,Holnig,32,9.94,12.3,12.42,Nil,Nil
+Rg38,Gargum,40,11.96,13.28,14.4,some branches are broken,Nil
+Rg39,Humbru,32,0.64,0.76,0.84,liana,Nil
+Rg40,Vatind,39,1.04,1,1,top prone at 10m,Nil
+Rg42,Arthir,30,2.9,2.92,2.96,Nil,Nil
+Rg43,Mesfer,141,3.22,3.2,3.28,fluted,Nil
+Rg44,Vatind,76,9.94,9.88,9.8,Nil,Nil
+Rg45,Humbru,30,6.7,7.1,7.6,near Rg28,Nil
+Rg46,Hydalp,38,1.62,1.64,1.62,near Rg81,Nil
+Rg47,Myrdac,38,3.58,4.58,4.62,Nil,Nil
+Rg48,Vatind,0,13,18,-999,New belt to be fixed; Girth 106.2,Nil
+Rg50,Vatind,42,4.58,5.58,6.36,Nil,Nil
+Rg51,Parpen,54,4.98,5.2,5.34,Nil,Nil
+Rg52,Diobou,91,7.46,8.8,9.16,fluted,Nil
+Rg53,Arthir,51,0.98,0.94,0.84,dead; tp @ 12 m,Nil
+Rg54,Marind,47,4.2,4.2,4.3,climber infestation,Nil
+Rg55,Diosyl,34,1.8,1.8,1.8,less branches and leaves; alive,Nil
+Rg56,Vatind,150,8.8,9.64,10.16,Nil,Nil
+Rg58,Kneatt,61,0.42,0.42,0.4,alive,Nil
+Rg59,Parpen,129,13.1,13.4,13.4,Nil,Nil
+Rg60,Vatind,68,0.88,0.9,0.4,stand dead,Nil
+Rg62,Humbru,30,1.88,1.88,2,Nil,Nil
+Rg63,Diosyl,0,12.6,16,-999,irregular; Newbelt to be fixed; Girth 119.7,Nil
+Rg64,Myrdac,84,6.92,7.14,7.28,Nil,Nil
+Rg65,Canstr,114,2,3.86,4.34,belt disturbed & adjusted,Nil
+Rg66,Lopwig,34,4.84,4.98,5.1,main branches broken on the top; alive,Nil
+Rg67,Vatind,222,7.1,9.22,10.2,Nil,Nil
+Rg68,Kneatt,45,2,2.2,2,Nil,Nil
+Rg70,Myrdac,42,3.3,3.4,3.46,Nil,Nil
+Rg71,Acttad,42,6.94,6.96,7,termite,Nil
+Rg72,Humbru,35,0.64,0.68,0.74,Nil,Nil
+Rg73,Myrdac,45,3.48,3.8,3.8,Rg87; alive,Nil
+Rg74,Palell,32,4.2,4.38,4.52,Nil,Nil
+Rg75,Vatind,46,2.9,3.92,2.9,"""near Rg84",Nil
+Rg76,Mesfer,247,4.42,6.6,7.5,Nil,Nil
+Rg77,Vatind,63,1.72,1.8,1.86,Nil,Nil
+Rg78,Gartal,44,3.24,3.5,3.56,Nil,Nil
+Rg79,Palell,48,3.74,3.92,4.06,Nil,Nil
+Rg80,Vatind,0,10.54,16,-999,New belt to be fixed; girth 249,Nil
+Rg81,Humbru,30,1,1.08,1.1,near Rf41,Nil
+Rg83,Palell,31,4.16,5.4,6.24,near Rg03,Nil
+Rg84,Hydalp,31,4,4.02,4.06,near Rg75,Nil
+Rg85,Kneatt,34,3.54,5,5.66,near Rg23,Nil
+Rg86,Reiana,30,10.74,12.6,12.18,near Rg20,Nil
+Rg87,Reiana,29,2.3,2.42,2.54,"""near Rg73/75",Nil
+Rg88,Otosti,30.5,2.06,3.66,4.52,rec 2018; near Rg36;Rg48,Nil
+Rh01,Palell,70,13,14.28,15.06,near Rh65,Nil
+Rh03,Mesfer,148,5.4,7.56,9,Nil,Nil
+Rh04,Reiana,50,8.6,10.68,11.8,Nil,Nil
+Rh06,Palell,74,4.3,5.7,6.32,near Rh63?,Nil
+Rh08,Myrdac,58,13.08,13.12,13.14,near Rh66,Nil
+Rh15,Palell,68,11.02,13.84,15,near Rh56 & Rh57 & Rh58; Rh59,Nil
+Rh16,Myrdac,168,4.12,4.52,5.68,main trunk broken; side branch @ 4 m; alive,Nil
+Rh17,Humbru,33,1.2,1.24,1.24,near Rh60,Nil
+Rh20,Myrdac,75,13.4,13.4,13.4,liana- infestation high,Nil
+Rh21,Kinpin,69,9.8,12.8,12.98,Nil,Nil
+Rh24,Humbru,31,4.66,4.68,4.74,"near Rh53, Rh61 (previously Rh26)",Nil
+Rh31,Kneatt,36,2.4,2.78,2.8,liana,Nil
+Rh32,Vatind,89,1.78,1.86,1.8,calamus,Nil
+Rh34,Marind,50,9.94,9.94,10,Nil,Nil
+Rh35,Kneatt,46,4.82,6.98,7.64,liana,Nil
+Rh36,Vatind,60,0.8,0.8,0.8,liana; calamus high infestation,Nil
+Rh40,Kneatt,30,10.4,10,10.1,Nil,Nil
+Rh41,Vatind,102,6.38,6.44,6.5,liana; near Rh62,Nil
+Rh42,Kneatt,87,3.82,3.9,3.96,written as 48,Nil
+Rh44,Myrdac,42,4.1,4.32,4.46,Nil,Nil
+Rh45,Humbru,46,0.46,0.56,0.62,top dead main branch broken; alive,Nil
+Rh47,Reiana,35,3,3.8,4.08,Nil,Nil
+Rh48,Humbru,30,0.88,0.9,0.94,top broken,Nil
+Rh49,Myrdac,66,4.64,4.8,4.84,Nil,Nil
+Rh52,Humbru,32,2.96,2.98,3,near Rg32; calamus climber,Nil
+Rh53,Syzgar,45,0,0.36,0.68,near Rh24; liana,Nil
+Rh55,Myrdac,29,4.28,5.1,5.34,near RI32,Nil
+Rh56,Humbru,30,2.9,3.86,2.88,near Rh15,Nil
+Rh57,Dryela,45,2.44,4.16,5.32,near Rh15,Nil
+Rh58,Humbru,30,2.28,2.48,2.4,near Rh15,Nil
+Rh59,Humbru,30,3.3,3.62,3.8,near Rh58 & Rh15; liana,Nil
+Rh60,Myrdac,30,3.18,3.6,3.6,near Rh17,Nil
+Rh61,Syzgar,31,7.5,8.86,8,near Rh24 (previously Rh26),Nil
+Rh62,Humbru,30,1.82,2.6,3,near Rh41,Nil
+Rh63,Arthir,34,3.5,5.44,6,"near Ri01, near Rh06",Nil
+Rh64,Humbru,29,3.68,3.84,4.4,near Rh35,Nil
+Rh65,Otosti,0,,-999,-999,near Rh1; Girth 31.2,Nil
+Rh66,Humbru,0,,-999,-999,near 8; Girth 31.5,Nil
+Ri01,Vatind,279,9.1,8.86,9.04,top broken but alive; Ri43,Nil
+Ri02,Kneatt,71,6.84,7.98,8.5,near Rh63,Nil
+Ri03,Mesfer,73,1.76,1.84,2.04,Nil,Nil
+Ri04,Diopru,30,4.32,4.83,4.16,less crown; climber disturbed; alive,Nil
+Ri05,Myrdac,31,9.56,9.76,9.88,under liana cluster,Nil
+Ri07,Hoppon,66,7.66,7.68,7.66,fluted; pom to be changed with ladder at 2 m,Nil
+Ri09,Myrdac,95,7.32,7.78,7.84,Nil,Nil
+Ri10,Dryela,52,2.84,4.8,5.52,Nil,Nil
+Ri11,Holnig,0,14.18,15.6,-999,New belt to be fixed; Girth 111.3,Nil
+Ri13,Myrdac,72,11.08,11.5,11.68,"""near Ri41; Ri40, Ri44; Ri 49",Nil
+Ri15,Kneatt,46,9.54,10.16,10.16,near Ri38,Nil
+Ri17,Kneatt,81,1.64,1.7,1.74,liana loaded,Nil
+Ri19,Reiana,83,8.72,5.58,6.4,irregular; Ri 45/46,Nil
+Ri21,Reiana,73,5.1,5.98,6.22,"Ri46; previously near Ri22 dead but near to Ri45, Ri47",Nil
+Ri23,Kneatt,37,5.04,5.38,5.64,Nil,Nil
+Ri24,Myrmal,91,6.64,6.98,7.08,Nil,Nil
+Ri25,Myrdac,45,3.3,4.6,5.3,Nil,Nil
+Ri27,Crywig,97,2.1,2.3,2.6,near Ri42; liana,Nil
+Ri28,Diobou,76,3.7,4.4,4.6,irregular; trunk hole,Nil
+Ri29,Dipind,33,9.54,11.5,11.74,Nil,Nil
+Ri31,Kneatt,79,1.94,2.2,2.34,near Ri48,Nil
+Ri32,Vatind,360,3.96,9.92,13.14,"Rh55, Ri48; near 36/13; buttress",Nil
+Ri33,Reiana,33,7.64,8.48,8.34,belt disturbed & adjusted,Nil
+Ri34,Holarn,41,3.94,4.2,4.42,liana,Nil
+Ri36,Vatind,34,8.78,8.8,8.86,near Ri13 & Ri40,Nil
+Ri38,Holnig,74,3.86,5.92,6.38,near Ri15,Nil
+Ri40,Rinben,30,7.88,8.76,8.78,near Ri36,Nil
+Ri41,Holnig,46,5.2,6.58,7.36,near Ri13,Nil
+Ri42,Syzgar,36,4.9,5.72,6.08,near Ri27,Nil
+Ri43,Humbru,30,1.48,1.54,1.56,"""near Ri01",Nil
+Ri44,Lepcau,30,3.42,3.96,4.34,"""near Ri13",Nil
+Ri45,Reiana,30,5.3,6.04,4.54,"""near Ri19; Ri46",Nil
+Ri46,Dioass,33,8.1,9.46,9.48,"""near Ri21",Nil
+Ri47,Humbru,30,2,2.2,2.26,"""near Ri46; Ri19",Nil
+Ri48,Notbed,31,-0.2,-0.2,0,main trunk broken; alive; offshoots,Nil
+Sa02,Reiana,62,10.44,12.48,13.8,near Sa53,Nil
+Sa03,Dimlaw,62,5.2,5.34,5.46,"""near Sa52 & Sa54",Nil
+Sa04,Reiana,0,12.8,16,-999,newbelt to be fixed; Girth 72.5,Nil
+Sa05,Dimlaw,38,6,6.28,6.34,Nil,Nil
+Sa06,Humbru,31,12.2,12.6,13,pom to be changed,Nil
+Sa08,Kneatt,100,5.82,6.36,6.64,Nil,Nil
+Sa09,Dryela,32,10.72,11.82,12.08,Nil,Nil
+Sa10,Notbed,71,7.66,8.4,8.4,Nil,Nil
+Sa15,Myrdac,82,8.94,9.3,9.42,Nil,Nil
+Sa17,Reiana,49,9.94,10.58,10.72,Nil,Nil
+Sa18,Reiana,32,2.56,2.6,2.64,Nil,Nil
+Sa19,Kinpin,79,9.66,10.2,10.4,near Sa51,Nil
+Sa20,Palell,0,14.92,16,-999,newbelt to be fixed; Girth 58.6,Nil
+Sa21,Vatind,117,4.4,6.82,7.9,Nil,Nil
+Sa22,Kinpin,163,1.66,2.64,3,Nil,Nil
+Sa23,Reiana,0,12.8,16,-999,newbelt to be fixed; Girth 103.6,Nil
+Sa29,Holarn,71,10.56,12.42,14.4,Nil,Nil
+Sa34,Rinben,30,11.6,12.4,12.48,Nil,Nil
+Sa35,Reiana,34,4.46,5,5.1,Nil,Nil
+Sa36,Arthet,0,15,16,-999,newbelt to be fixed; Girth 49.4,Nil
+Sa37,Humbru,30,2.98,2.98,2.88,Nil,Nil
+Sa38,Humbru,35,3.38,3.56,4,Nil,Nil
+Sa39,Myrdac,68,3.6,4,4,liana; near Sa57; ladder may not needed,Nil
+Sa40,Syzlae,30,11.2,11.56,11.44,Nil,Nil
+Sa41,Vatind,94,8.04,11.4,13.08,near Sa56; belt no 94,Nil
+Sa42,Casova,42,5.5,5.66,5.8,near Sa50 & Sa55,Nil
+Sa43,Humbru,41,6.94,7,7.14,"liana; near Sb51, 52, 53",Nil
+Sa44,Kneatt,50,4.28,1.74,1.96,near Sa58,Nil
+Sa45,Vatind,51,2.54,3.88,4,Nil,Nil
+Sa46,Kneatt,110,12.52,12.82,12.8,tree hole; fluted,Nil
+Sa47,Reiana,45,2.2,2.7,3.48,Nil,Nil
+Sa49,Gartal,32,8.74,8.74,8.76,near Sa44,Nil
+Sa50,Vatind,49,4.76,5.4,5.64,near Sa42,Nil
+Sa51,Humbru,31,5.52,5.64,5.8,near Sa19,Nil
+Sa52,Polcof,29,8.4,8.76,8.7,near Sa03,Nil
+Sa53,Humbru,29,5.24,5.3,5.24,near Sa02,Nil
+Sa54,Diosyl,49,7.06,10,10.22,near Sa03,Nil
+Sa55,Humbru,29,0.68,0.68,0.7,near Sa42,Nil
+Sa56,Notbed,29,4.82,4.6,4.92,near Sa41,Nil
+Sa57,Reiana,31,3.88,5.98,5.7,near Sa21,Nil
+Sa58,Humbru,29,2.66,2.78,2.8,near Sa44,Nil
+Sa60,Humbru,30,2.42,2.6,2.7,written as 63/32/(belt no. 34)  near Sa39,Nil
+Sa61,Dimlaw,30,0.64,0.74,0.74,tp @ 5m; alive; near Sb55,Nil
+Sa62,Humbru,32,0.62,0.96,1.14,"near Sb55; 55, 53, 2; ",Nil
+Sb02,Syzgar,62,0.4,1.44,1.72,Near Sb58,Nil
+Sb04,Dipind,50,1.96,1.92,1.92,less branches and leaves,Nil
+Sb07,Diosyl,77,5.2,6.28,6.74,"Sb55 to check, 56 missing?",Nil
+Sb08,Reiana,54,11.06,11.08,11.46,Nil,Nil
+Sb10,Holarn,64,12.38,12.38,12.46,calamus heavy load,Nil
+Sb11,Diobou,117,14.46,15.6,15.7,Nil,Nil
+Sb12,Dipind,77,7.74,10.22,10.74,near Sb62,Nil
+Sb18,Humbru,46,4.42,4.62,4.82,recorded ad dead in 2016; but alive in 2018,Nil
+Sb19,Vatind,281,6.1,-999,10.36,ladder,Nil
+Sb22,Diobou,64,4.88,5.42,5.8,"Sb65; liana; near (previosuly to Sb23- near Sb54; Sb59, Sb62)",Nil
+Sb23,Glymac,45,5.1,5.12,-999,"near Sb54; Sb59, Sb62; slanting; fallen on ground; dead; belt not possible to remove",Nil
+Sb24,Kinpin,66,12.6,13.2,13.4,Sb66,Nil
+Sb27,Reiana,47,13.28,14.4,15,Nil,Nil
+Sb30,Humbru,36,4.12,4.14,4.08,climber,Nil
+Sb33,Gartal,73,6.3,6.32,6.38,liana on canopy,Nil
+Sb34,Humbru,34,3.3,3.78,3.92,Nil,Nil
+Sb36,Humbru,35,3.36,3.68,3.8,Nil,Nil
+Sb37,Mesfer,266,3.24,-999,6.86,ladder; no belt; belt size 278,Nil
+Sb38,Hoppon,34,2.24,2.7,3.14,Nil,Nil
+Sb39,Syzhem,30,0.84,0.92,0.64,stand dead; liana,Nil
+Sb41,Dipind,286,7.1,-999,10.74,ladder,Nil
+Sb42,Myrdac,36,3.62,4.34,4.7,Nil,Nil
+Sb45,Kneatt,43,7.9,8.4,8.7,near Sb23,Nil
+Sb46,Humbru,44,3.8,3.98,3.98,slanting; uprooted; alive,Nil
+Sb48,Humbru,34,0.46,0.5,0.5,top broken at 5.5m; alive,Nil
+Sb49,Arthet,35,3.9,4.9,5.38,broken at 6m sprouts,Nil
+Sb50,Palell,30,2.84,2.84,2.82,"near Sb57, Sb51, Sb52, Sb53",Nil
+Sb51,Diobux,38,1.02,1.42,1.92,"near Sb57, Sa43",Nil
+Sb52,Polcof,51,2.68,2.68,2.74,"near Sb57, Sa43",Nil
+Sb53,Isolan,53,10.46,10.4,10.5,"near Sb57, Sa43",Nil
+Sb54,Rinben,29,6.2,6.76,6.94,near Sb23; Sb60,Nil
+Sb55,Kneatt,44,5.62,5.62,5.68,near Sb07 (previously Sb06),Nil
+Sb56,Cromal,44,6.2,9.72,11.74,near Sb02 (previouly Sb03); fallen; protuberance near pom; near 92/Sb2,Nil
+Sb57,Palell,29,4.8,4.98,5.1,near Sb50,Nil
+Sb58,Aglbar,0,5.2,5.4,-999,"near Sb02, rec 2010;  trunk split; no more G reading; alive",Nil
+Sb59,Hoppon,31,7.16,7.78,8.2,"""near Sb18",Nil
+Sb60,Humbru,31,1.1,1.1,1.14,near Sb54/59,Nil
+Sb61,Diobou,31,4.4,4.8,4.82,near 60/Sb54/19,Nil
+Sb62,Humbru,29,1.32,2.36,2.34,near Sb12,Nil
+Sb63,Cinmal,0,3,5.2,6.14,"near sb19, sa22",Nil
+Sb64,Act tad,0,4.32,4.4,4.4,near sb19? 66; calamus,Nil
+Sb65,Dimlon,29,3.04,4.66,5.62,near Sb19; Previously identified as Cinmal,Nil
+Sb66,Humbru,29,1.52,1.6,2,near Sb24?,Nil
+Sb69,Acttad,0,2.58,3.28,3.66,near sb12,Nil
+Sb70,Humbru,0,,30.1,-999,near sb34; alive,Nil
+Sb71,Humbru,0,,30.8,-999,near sb22; alive,Nil
+Sb72,Humbru,0,,-999,-999,Near Sb24?; Girth 30.4,Nil
